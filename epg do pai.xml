@@ -56,11 +56,11 @@
     <display-name lang="pt">TNT SÉRIES</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="FOX SPORST 1">
+  <channel id="FOX SPORST ¹">
     <display-name lang="pt">FOX SPORST ¹</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="FOX SPORST 2">
+  <channel id="FOX SPORST ²">
     <display-name lang="pt">FOX SPORST ²</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
@@ -303,10 +303,6 @@
   <programme start="20200404223000 -0300" stop="20200405003000 -0300" channel="amc">
     <title lang="pt">MIB: Homens De Preto 3</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402100200 -0300" stop="20200402105400 -0300" channel="animal planet">
-    <title lang="pt">Meu Gato Endiabrado</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402105400 -0300" stop="20200402114600 -0300" channel="animal planet">
     <title lang="pt">Meu Gato Endiabrado</title>
@@ -592,10 +588,6 @@
     <title lang="pt">Vida Selvagem: Grandes Migrações</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402100000 -0300" stop="20200402110000 -0300" channel="axn">
-    <title lang="pt">C.S.I</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
   <programme start="20200402110000 -0300" stop="20200402115500 -0300" channel="axn">
     <title lang="pt">NCIS</title>
     <category lang="pt">Séries/Ação</category>
@@ -859,14 +851,6 @@
   <programme start="20200404233500 -0300" stop="20200405000000 -0300" channel="axn">
     <title lang="pt">Sem Rastro</title>
     <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200402104200 -0300" stop="20200402105800 -0300" channel="cartoon network">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402105800 -0300" stop="20200402110000 -0300" channel="cartoon network">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402110000 -0300" stop="20200402111100 -0300" channel="cartoon network">
     <title lang="pt">Ursos Sem Curso</title>
@@ -2124,10 +2108,6 @@
     <title lang="pt">O Estrangeiro</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200402100000 -0300" stop="20200402110000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Series</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
   <programme start="20200402110000 -0300" stop="20200402120000 -0300" channel="COMBATE">
     <title lang="pt">UFC Series</title>
     <category lang="pt">Esporte/Luta</category>
@@ -2287,14 +2267,6 @@
   <programme start="20200404200000 -0300" stop="20200405020000 -0300" channel="COMBATE">
     <title lang="pt">Lutas Ao Vivo</title>
     <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402104100 -0300" stop="20200402105900 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402105900 -0300" stop="20200402110000 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402110000 -0300" stop="20200402110700 -0300" channel="BOOMERANG">
     <title lang="pt">A Turma da Mônica</title>
@@ -3927,10 +3899,6 @@
   <programme start="20200404235800 -0300" stop="20200405000000 -0300" channel="BOOMERANG">
     <title lang="pt">O Show de Tom e Jerry</title>
     <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402103000 -0300" stop="20200402110000 -0300" channel="BANDSPORTS">
-    <title lang="pt">Perto Deles</title>
-    <category lang="pt">Esporte/Diversos</category>
   </programme>
   <programme start="20200402110000 -0300" stop="20200402120000 -0300" channel="BANDSPORTS">
     <title lang="pt">Vila Bandsports</title>
@@ -5872,377 +5840,369 @@
     <title lang="pt">C.S.I</title>
     <category lang="pt">Séries/Policial</category>
   </programme>
-  <programme start="20200402101500 -0300" stop="20200402111500 -0300" channel="FOX SPORST 1">
+  <programme start="20200402101500 -0300" stop="20200402111500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Debate Final</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200402111500 -0300" stop="20200402130000 -0300" channel="FOX SPORST 1">
+  <programme start="20200402111500 -0300" stop="20200402130000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - River Plate x Boca Juniors</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402130000 -0300" stop="20200402150000 -0300" channel="FOX SPORST 1">
+  <programme start="20200402130000 -0300" stop="20200402150000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200402150000 -0300" stop="20200402164500 -0300" channel="FOX SPORST 1">
+  <programme start="20200402150000 -0300" stop="20200402164500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Grêmio x Flamengo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402164500 -0300" stop="20200402170000 -0300" channel="FOX SPORST 1">
+  <programme start="20200402164500 -0300" stop="20200402170000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Filler</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200402170000 -0300" stop="20200402173000 -0300" channel="FOX SPORST 1">
+  <programme start="20200402170000 -0300" stop="20200402173000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Athletico PR x Peñarol (URU)</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402173000 -0300" stop="20200402200000 -0300" channel="FOX SPORST 1">
+  <programme start="20200402173000 -0300" stop="20200402200000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Expediente Futebol - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200402200000 -0300" stop="20200402210000 -0300" channel="FOX SPORST 1">
+  <programme start="20200402200000 -0300" stop="20200402210000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Debate Final - Ao Vivo</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200402210000 -0300" stop="20200402224500 -0300" channel="FOX SPORST 1">
+  <programme start="20200402210000 -0300" stop="20200402224500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Emelec x Flamengo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402224500 -0300" stop="20200403004500 -0300" channel="FOX SPORST 1">
+  <programme start="20200402224500 -0300" stop="20200403004500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Fox Sports Rádio</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403004500 -0300" stop="20200403014500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403004500 -0300" stop="20200403014500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Debate Final</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200403014500 -0300" stop="20200403041500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403014500 -0300" stop="20200403041500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Expediente Futebol</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403041500 -0300" stop="20200403051500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403041500 -0300" stop="20200403051500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Debate Final</title>
     <category lang="pt">Variedades/Diversos</category>
   </programme>
-  <programme start="20200403051500 -0300" stop="20200403070000 -0300" channel="FOX SPORST 1">
+  <programme start="20200403051500 -0300" stop="20200403070000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Bahia x Vitória</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403070000 -0300" stop="20200403073000 -0300" channel="FOX SPORST 1">
+  <programme start="20200403070000 -0300" stop="20200403073000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Comando Fox</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200403073000 -0300" stop="20200403074500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403073000 -0300" stop="20200403074500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Compacto Libertadores</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403074500 -0300" stop="20200403080000 -0300" channel="FOX SPORST 1">
+  <programme start="20200403074500 -0300" stop="20200403080000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Compacto Libertadores</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403080000 -0300" stop="20200403081500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403080000 -0300" stop="20200403081500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Compacto Libertadores</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403081500 -0300" stop="20200403101500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403081500 -0300" stop="20200403101500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Expediente Futebol</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403101500 -0300" stop="20200403111500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403101500 -0300" stop="20200403111500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">WWE RAW</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200403111500 -0300" stop="20200403130000 -0300" channel="FOX SPORST 1">
+  <programme start="20200403111500 -0300" stop="20200403130000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Emelec x Flamengo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403130000 -0300" stop="20200403150000 -0300" channel="FOX SPORST 1">
+  <programme start="20200403130000 -0300" stop="20200403150000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403150000 -0300" stop="20200403164500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403150000 -0300" stop="20200403164500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - River Plate x Boca Juniors</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403164500 -0300" stop="20200403170000 -0300" channel="FOX SPORST 1">
+  <programme start="20200403164500 -0300" stop="20200403170000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Compacto Libertadores</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403170000 -0300" stop="20200403171500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403170000 -0300" stop="20200403171500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Compacto Libertadores</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403171500 -0300" stop="20200403173000 -0300" channel="FOX SPORST 1">
+  <programme start="20200403171500 -0300" stop="20200403173000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Compacto Libertadores</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403173000 -0300" stop="20200403193000 -0300" channel="FOX SPORST 1">
+  <programme start="20200403173000 -0300" stop="20200403193000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Expediente Futebol - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403193000 -0300" stop="20200403211500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403193000 -0300" stop="20200403211500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Corinthians x Vasco</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403211500 -0300" stop="20200403231500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403211500 -0300" stop="20200403231500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Fox Sports Rádio</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403231500 -0300" stop="20200404011500 -0300" channel="FOX SPORST 1">
+  <programme start="20200403231500 -0300" stop="20200404011500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">WWE Smackdown</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200404011500 -0300" stop="20200404031500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404011500 -0300" stop="20200404031500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Expediente Futebol</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404031500 -0300" stop="20200404050000 -0300" channel="FOX SPORST 1">
+  <programme start="20200404031500 -0300" stop="20200404050000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Barcelona x Getafe</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404050000 -0300" stop="20200404064500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404050000 -0300" stop="20200404064500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Grêmio x Palmeiras</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404064500 -0300" stop="20200404070000 -0300" channel="FOX SPORST 1">
+  <programme start="20200404064500 -0300" stop="20200404070000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Filler</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404070000 -0300" stop="20200404071500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404070000 -0300" stop="20200404071500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Filler</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404071500 -0300" stop="20200404091500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404071500 -0300" stop="20200404091500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Expediente Futebol</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404091500 -0300" stop="20200404111500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404091500 -0300" stop="20200404111500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">WWE Smackdown</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200404111500 -0300" stop="20200404130000 -0300" channel="FOX SPORST 1">
+  <programme start="20200404111500 -0300" stop="20200404130000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Corinthians x Vasco</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404130000 -0300" stop="20200404150000 -0300" channel="FOX SPORST 1">
+  <programme start="20200404130000 -0300" stop="20200404150000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404150000 -0300" stop="20200404151500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404150000 -0300" stop="20200404151500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Compacto Libertadores</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404151500 -0300" stop="20200404154500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404151500 -0300" stop="20200404154500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Comando Fox</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200404154500 -0300" stop="20200404173000 -0300" channel="FOX SPORST 1">
+  <programme start="20200404154500 -0300" stop="20200404173000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Emelec x Flamengo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404173000 -0300" stop="20200404193000 -0300" channel="FOX SPORST 1">
+  <programme start="20200404173000 -0300" stop="20200404193000 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Expediente Futebol - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404193000 -0300" stop="20200404211500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404193000 -0300" stop="20200404211500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">VT - Flamengo x Grêmio</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404211500 -0300" stop="20200404231500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404211500 -0300" stop="20200404231500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Fox Sports Rádio</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404231500 -0300" stop="20200405001500 -0300" channel="FOX SPORST 1">
+  <programme start="20200404231500 -0300" stop="20200405001500 -0300" channel="FOX SPORST ¹">
     <title lang="pt">Aqui Com Benja</title>
     <category lang="pt">Variedades/Talk Show</category>
   </programme>
-  <programme start="20200402100000 -0300" stop="20200402110000 -0300" channel="FOX SPORST 2">
-    <title lang="pt">Fórmula E</title>
-    <category lang="pt">Esporte/Automobilismo</category>
-  </programme>
-  <programme start="20200402110000 -0300" stop="20200402120000 -0300" channel="FOX SPORST 2">
+  <programme start="20200402110000 -0300" stop="20200402120000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Mundial de Motovelocidade - GP do Catar</title>
     <category lang="pt">Esporte/Motociclismo</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402134500 -0300" channel="FOX SPORST 2">
+  <programme start="20200402120000 -0300" stop="20200402134500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Boca Juniors x Atl Tucumán</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402134500 -0300" stop="20200402153000 -0300" channel="FOX SPORST 2">
+  <programme start="20200402134500 -0300" stop="20200402153000 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Hertha Berlin x Bayern München</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402153000 -0300" stop="20200402171500 -0300" channel="FOX SPORST 2">
+  <programme start="20200402153000 -0300" stop="20200402171500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Náutico x Fortaleza</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402171500 -0300" stop="20200402184500 -0300" channel="FOX SPORST 2">
+  <programme start="20200402171500 -0300" stop="20200402184500 -0300" channel="FOX SPORST ²">
     <title lang="pt">NBB: Flamengo x Franca</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200402184500 -0300" stop="20200402185500 -0300" channel="FOX SPORST 2">
+  <programme start="20200402184500 -0300" stop="20200402185500 -0300" channel="FOX SPORST ²">
     <title lang="pt">Filler</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200402185500 -0300" stop="20200402194500 -0300" channel="FOX SPORST 2">
+  <programme start="20200402185500 -0300" stop="20200402194500 -0300" channel="FOX SPORST ²">
     <title lang="pt">WWE Main Event</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200402194500 -0300" stop="20200402211500 -0300" channel="FOX SPORST 2">
+  <programme start="20200402194500 -0300" stop="20200402211500 -0300" channel="FOX SPORST ²">
     <title lang="pt">Nascar Cup Séries</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200402211500 -0300" stop="20200403001500 -0300" channel="FOX SPORST 2">
+  <programme start="20200402211500 -0300" stop="20200403001500 -0300" channel="FOX SPORST ²">
     <title lang="pt">Nascar Cup Séries</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200403001500 -0300" stop="20200403021000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403001500 -0300" stop="20200403021000 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Dijon x PSG</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403021000 -0300" stop="20200403030000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403021000 -0300" stop="20200403030000 -0300" channel="FOX SPORST ²">
     <title lang="pt">WWE Main Event</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200403030000 -0300" stop="20200403044500 -0300" channel="FOX SPORST 2">
+  <programme start="20200403030000 -0300" stop="20200403044500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - River Plate x Boca Juniors</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403044500 -0300" stop="20200403050000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403044500 -0300" stop="20200403050000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Filler</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403050000 -0300" stop="20200403070000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403050000 -0300" stop="20200403070000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Fox Sports Rádio</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403070000 -0300" stop="20200403080000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403070000 -0300" stop="20200403080000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Mundial de Motovelocidade - GP do Catar</title>
     <category lang="pt">Esporte/Motociclismo</category>
   </programme>
-  <programme start="20200403080000 -0300" stop="20200403100000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403080000 -0300" stop="20200403100000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Nascar Cup Séries</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200403100000 -0300" stop="20200403113000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403100000 -0300" stop="20200403113000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Nascar Cup Séries</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200403113000 -0300" stop="20200403131500 -0300" channel="FOX SPORST 2">
+  <programme start="20200403113000 -0300" stop="20200403131500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Bahia x Vitória</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403131500 -0300" stop="20200403134500 -0300" channel="FOX SPORST 2">
+  <programme start="20200403131500 -0300" stop="20200403134500 -0300" channel="FOX SPORST ²">
     <title lang="pt">MXGP Holanda</title>
     <category lang="pt">Esporte/Motociclismo</category>
   </programme>
-  <programme start="20200403134500 -0300" stop="20200403144500 -0300" channel="FOX SPORST 2">
+  <programme start="20200403134500 -0300" stop="20200403144500 -0300" channel="FOX SPORST ²">
     <title lang="pt">WWE RAW</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200403144500 -0300" stop="20200403163000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403144500 -0300" stop="20200403163000 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Boca Juniors x Gimnasia</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403163000 -0300" stop="20200403193000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403163000 -0300" stop="20200403193000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Nascar Cup Séries</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200403193000 -0300" stop="20200403203000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403193000 -0300" stop="20200403203000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Fórmula E</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200403203000 -0300" stop="20200403210000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403203000 -0300" stop="20200403210000 -0300" channel="FOX SPORST ²">
     <title lang="pt">MXGP Holanda</title>
     <category lang="pt">Esporte/Motociclismo</category>
   </programme>
-  <programme start="20200403210000 -0300" stop="20200403230000 -0300" channel="FOX SPORST 2">
+  <programme start="20200403210000 -0300" stop="20200403230000 -0300" channel="FOX SPORST ²">
     <title lang="pt">WWE Smackdown - Ao Vivo</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200403230000 -0300" stop="20200404004500 -0300" channel="FOX SPORST 2">
+  <programme start="20200403230000 -0300" stop="20200404004500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Emelec (EQU) x Flamengo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404004500 -0300" stop="20200404011500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404004500 -0300" stop="20200404011500 -0300" channel="FOX SPORST ²">
     <title lang="pt">MXGP Holanda</title>
     <category lang="pt">Esporte/Motociclismo</category>
   </programme>
-  <programme start="20200404011500 -0300" stop="20200404013000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404011500 -0300" stop="20200404013000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Filler</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404013000 -0300" stop="20200404031500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404013000 -0300" stop="20200404031500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Hertha Berlin x Bayern München</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404031500 -0300" stop="20200404051500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404031500 -0300" stop="20200404051500 -0300" channel="FOX SPORST ²">
     <title lang="pt">Fox Sports Rádio</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404051500 -0300" stop="20200404070000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404051500 -0300" stop="20200404070000 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - River Plate x Banfield</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404070000 -0300" stop="20200404083000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404070000 -0300" stop="20200404083000 -0300" channel="FOX SPORST ²">
     <title lang="pt">NBB: Flamengo x Franca</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200404083000 -0300" stop="20200404090000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404083000 -0300" stop="20200404090000 -0300" channel="FOX SPORST ²">
     <title lang="pt">WRC - México</title>
     <category lang="pt">Esporte/Radical</category>
   </programme>
-  <programme start="20200404090000 -0300" stop="20200404093000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404090000 -0300" stop="20200404093000 -0300" channel="FOX SPORST ²">
     <title lang="pt">WRC - México</title>
     <category lang="pt">Esporte/Radical</category>
   </programme>
-  <programme start="20200404093000 -0300" stop="20200404100000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404093000 -0300" stop="20200404100000 -0300" channel="FOX SPORST ²">
     <title lang="pt">WRC - México</title>
     <category lang="pt">Esporte/Radical</category>
   </programme>
-  <programme start="20200404100000 -0300" stop="20200404110000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404100000 -0300" stop="20200404110000 -0300" channel="FOX SPORST ²">
     <title lang="pt">Fórmula E</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200404110000 -0300" stop="20200404124500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404110000 -0300" stop="20200404124500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Bayern de Munique x Schalke 04</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404124500 -0300" stop="20200404143000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404124500 -0300" stop="20200404143000 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Betis x Real Madrid</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404143000 -0300" stop="20200404161500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404143000 -0300" stop="20200404161500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Lyon x PSG</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404161500 -0300" stop="20200404164500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404161500 -0300" stop="20200404164500 -0300" channel="FOX SPORST ²">
     <title lang="pt">O Melhor da Temporada</title>
     <category lang="pt">Esporte/Diversos</category>
   </programme>
-  <programme start="20200404164500 -0300" stop="20200404174500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404164500 -0300" stop="20200404174500 -0300" channel="FOX SPORST ²">
     <title lang="pt">WWE RAW</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200404174500 -0300" stop="20200404194500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404174500 -0300" stop="20200404194500 -0300" channel="FOX SPORST ²">
     <title lang="pt">WWE Smackdown</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200404194500 -0300" stop="20200404214500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404194500 -0300" stop="20200404214500 -0300" channel="FOX SPORST ²">
     <title lang="pt">Nascar Cup Séries</title>
     <category lang="pt">Esporte/Automobilismo</category>
   </programme>
-  <programme start="20200404214500 -0300" stop="20200404233000 -0300" channel="FOX SPORST 2">
+  <programme start="20200404214500 -0300" stop="20200404233000 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Bayern de Munique x Schalke 04</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404233000 -0300" stop="20200405011500 -0300" channel="FOX SPORST 2">
+  <programme start="20200404233000 -0300" stop="20200405011500 -0300" channel="FOX SPORST ²">
     <title lang="pt">VT - Barcelona x Getafe</title>
     <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200402103000 -0300" stop="20200402110000 -0300" channel="TOONCAST">
-    <title lang="pt">Pinky e o Cérebro</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402110000 -0300" stop="20200402113000 -0300" channel="TOONCAST">
     <title lang="pt">Scooby-Doo! Cadê Você?</title>
@@ -7852,10 +7812,6 @@
     <title lang="pt">Desmascarando Jihadi John: Anatomia de um Terrorista</title>
     <category lang="pt">Filme/Documentário</category>
   </programme>
-  <programme start="20200402091300 -0300" stop="20200402110500 -0300" channel="SPACE">
-    <title lang="pt">Ameaça Subterrânea</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200402110500 -0300" stop="20200402125100 -0300" channel="SPACE">
     <title lang="pt">Nico - Acima da Lei</title>
     <category lang="pt">Filme/Ação</category>
@@ -8487,10 +8443,6 @@
   <programme start="20200404234000 -0300" stop="20200405015500 -0300" channel="FX">
     <title lang="pt">Velocidade Máxima 2</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402092000 -0300" stop="20200402110000 -0300" channel="HBO FAMILY">
-    <title lang="pt">A Caminho de Casa</title>
-    <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20200402110000 -0300" stop="20200402123600 -0300" channel="HBO FAMILY">
     <title lang="pt">Show Dogs: O Agente Canino</title>
