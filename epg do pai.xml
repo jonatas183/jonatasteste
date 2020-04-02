@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="amc">
     <display-name lang="pt">amc</display-name>
     <url>http://www.meuguia.tv</url>
@@ -136,9 +140,13 @@
     <display-name lang="pt">ESPN</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="ESPN BRAZIL">
-    <display-name lang="pt">ESPN BRAZIL</display-name>
+  <channel id="ESPN BRASIL">
+    <display-name lang="pt">ESPN BRASIL</display-name>
     <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN ²">
+    <display-name lang="pt">ESPN ²</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="FOX LIFE">
     <display-name lang="pt">FOX LIFE</display-name>
@@ -176,9 +184,285 @@
     <display-name lang="pt">SONY</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200402113000 -0300" stop="20200402123000 -0300" channel="amc">
-    <title lang="pt">NOS4A2</title>
-    <category lang="pt">Séries/Terror</category>
+  <channel id="syfy">
+    <display-name lang="pt">syfy</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV ¹">
+    <display-name lang="pt">SPORTV ¹</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV ²">
+    <display-name lang="pt">SPORTV ²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="SPORTV ³">
+    <display-name lang="pt">SPORTV ³</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="STUDIO UNIVERSAL">
+    <display-name lang="pt">STUDIO UNIVERSAL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC TOUCH">
+    <display-name lang="pt">TC TOUCH</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200402124000 -0300" stop="20200402133000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200402133000 -0300" stop="20200402142500 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200402142500 -0300" stop="20200402152000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402152000 -0300" stop="20200402161500 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402161500 -0300" stop="20200402171000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402171000 -0300" stop="20200402180500 -0300" channel="A&amp;E">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402180500 -0300" stop="20200402185500 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402185500 -0300" stop="20200402211000 -0300" channel="A&amp;E">
+    <title lang="pt">72 Horas</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200402211000 -0300" stop="20200402220000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200402225000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402225000 -0300" stop="20200403004000 -0300" channel="A&amp;E">
+    <title lang="pt">Robocop - O Policial do Futuro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403004000 -0300" stop="20200403012500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200403012500 -0300" stop="20200403021000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403021000 -0300" stop="20200403034000 -0300" channel="A&amp;E">
+    <title lang="pt">Caça ao Assassino de Jonbenét: História Não Contada</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200403034000 -0300" stop="20200403042500 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200403042500 -0300" stop="20200403051000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403051000 -0300" stop="20200403053500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403053500 -0300" stop="20200403060000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403065000 -0300" stop="20200403074000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403074000 -0300" stop="20200403083000 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200403083000 -0300" stop="20200403092000 -0300" channel="A&amp;E">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200403092000 -0300" stop="20200403101000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403101000 -0300" stop="20200403110000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403110000 -0300" stop="20200403115000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403115000 -0300" stop="20200403124000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403124000 -0300" stop="20200403133000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403133000 -0300" stop="20200403142000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403142000 -0300" stop="20200403151000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403151000 -0300" stop="20200403160000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403160000 -0300" stop="20200403165500 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403165500 -0300" stop="20200403174000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403174000 -0300" stop="20200403183500 -0300" channel="A&amp;E">
+    <title lang="pt">Até Que a Morte Nos Separe</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403183500 -0300" stop="20200403192500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200403192500 -0300" stop="20200403211000 -0300" channel="A&amp;E">
+    <title lang="pt">Robocop - O Policial do Futuro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403211000 -0300" stop="20200403220000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200403225000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403225000 -0300" stop="20200404002000 -0300" channel="A&amp;E">
+    <title lang="pt">Horror em Amityville</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200404002000 -0300" stop="20200404011000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200404011000 -0300" stop="20200404020000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404020000 -0300" stop="20200404025000 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200404025000 -0300" stop="20200404034000 -0300" channel="A&amp;E">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200404034000 -0300" stop="20200404042500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404042500 -0300" stop="20200404051000 -0300" channel="A&amp;E">
+    <title lang="pt">Tratamento de Choque</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404051000 -0300" stop="20200404053500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404053500 -0300" stop="20200404060000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404065000 -0300" stop="20200404074000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404074000 -0300" stop="20200404083000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas - Tampa</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200404083000 -0300" stop="20200404092000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404092000 -0300" stop="20200404101000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200404101000 -0300" stop="20200404110000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200404110000 -0300" stop="20200404115000 -0300" channel="A&amp;E">
+    <title lang="pt">Desaparecido No Paraíso</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200404115000 -0300" stop="20200404124000 -0300" channel="A&amp;E">
+    <title lang="pt">As Várias Faces de Jane</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404124000 -0300" stop="20200404133000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404133000 -0300" stop="20200404141500 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404141500 -0300" stop="20200404150500 -0300" channel="A&amp;E">
+    <title lang="pt">Jovens Condenados: Perpétua Ou Condicional?</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404150500 -0300" stop="20200404155500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200404155500 -0300" stop="20200404164900 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200404164900 -0300" stop="20200404183100 -0300" channel="A&amp;E">
+    <title lang="pt">A Última Casa da Rua</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200404183100 -0300" stop="20200404203000 -0300" channel="A&amp;E">
+    <title lang="pt">Alien - O Oitavo Passageiro</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200404203000 -0300" stop="20200404225000 -0300" channel="A&amp;E">
+    <title lang="pt">Aliens - O Resgate</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200404225000 -0300" stop="20200405004000 -0300" channel="A&amp;E">
+    <title lang="pt">Alien: A Ressurreição</title>
+    <category lang="pt">Filme/Ficção</category>
   </programme>
   <programme start="20200402123000 -0300" stop="20200402140000 -0300" channel="amc">
     <title lang="pt">Com a Cor e a Coragem</title>
@@ -359,10 +643,6 @@
   <programme start="20200404223000 -0300" stop="20200405003000 -0300" channel="amc">
     <title lang="pt">MIB: Homens De Preto 3</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402114600 -0300" stop="20200402123900 -0300" channel="animal planet">
-    <title lang="pt">Pesca Mortal</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402123900 -0300" stop="20200402133200 -0300" channel="animal planet">
     <title lang="pt">SOS VET</title>
@@ -640,10 +920,6 @@
     <title lang="pt">Vida Selvagem: Grandes Migrações</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402115500 -0300" stop="20200402125000 -0300" channel="axn">
-    <title lang="pt">NCIS: Los Angeles</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
   <programme start="20200402125000 -0300" stop="20200402134500 -0300" channel="axn">
     <title lang="pt">NCIS: Nova Orleans</title>
     <category lang="pt">Séries/Policial</category>
@@ -899,14 +1175,6 @@
   <programme start="20200404233500 -0300" stop="20200405000000 -0300" channel="axn">
     <title lang="pt">Sem Rastro</title>
     <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200402122600 -0300" stop="20200402123700 -0300" channel="cartoon network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402123700 -0300" stop="20200402125300 -0300" channel="cartoon network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402125300 -0300" stop="20200402130000 -0300" channel="cartoon network">
     <title lang="pt">Os Jovens Titãs em Ação</title>
@@ -2279,18 +2547,6 @@
   <programme start="20200404200000 -0300" stop="20200405020000 -0300" channel="COMBATE">
     <title lang="pt">Lutas Ao Vivo</title>
     <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402122800 -0300" stop="20200402123000 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402123000 -0300" stop="20200402123600 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402123600 -0300" stop="20200402124100 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402124100 -0300" stop="20200402125800 -0300" channel="BOOMERANG">
     <title lang="pt">Mr. Bean</title>
@@ -4072,10 +4328,6 @@
     <title lang="pt">Especial MMA</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200402121500 -0300" stop="20200402124000 -0300" channel="Comedy Central">
-    <title lang="pt">Eu, A Patroa e as Crianças</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200402124000 -0300" stop="20200402133500 -0300" channel="Comedy Central">
     <title lang="pt">A Culpa é do Cabral</title>
     <category lang="pt">Séries/Comédia</category>
@@ -5175,10 +5427,6 @@
   <programme start="20200404233600 -0300" stop="20200405002400 -0300" channel="Discovery Theater">
     <title lang="pt">West Coast Customs Berlim</title>
     <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402102500 -0300" stop="20200402123000 -0300" channel="TC PIPOCA">
-    <title lang="pt">Eu Os Declaro Marido E... Larry!</title>
-    <category lang="pt">Filme/Comédia</category>
   </programme>
   <programme start="20200402123000 -0300" stop="20200402143000 -0300" channel="TC PIPOCA">
     <title lang="pt">Operação Supletivo</title>
@@ -6792,10 +7040,6 @@
     <title lang="pt">Law &amp; Order SVU</title>
     <category lang="pt">Séries/Policial</category>
   </programme>
-  <programme start="20200402122800 -0300" stop="20200402125500 -0300" channel="WARNER">
-    <title lang="pt">Friends</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200402125500 -0300" stop="20200402132200 -0300" channel="WARNER">
     <title lang="pt">Friends</title>
     <category lang="pt">Séries/Comédia</category>
@@ -7448,10 +7692,6 @@
     <title lang="pt">Buscando...</title>
     <category lang="pt">Filme/Drama</category>
   </programme>
-  <programme start="20200402120500 -0300" stop="20200402124500 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Barry</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200402124500 -0300" stop="20200402143000 -0300" channel="HBO SIGNATURE">
     <title lang="pt">Eles não Envelhecerão</title>
     <category lang="pt">Filme/Documentário</category>
@@ -7683,10 +7923,6 @@
   <programme start="20200404231500 -0300" stop="20200405010000 -0300" channel="HBO SIGNATURE">
     <title lang="pt">Desmascarando Jihadi John: Anatomia de um Terrorista</title>
     <category lang="pt">Filme/Documentário</category>
-  </programme>
-  <programme start="20200402110500 -0300" stop="20200402125100 -0300" channel="SPACE">
-    <title lang="pt">Nico - Acima da Lei</title>
-    <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200402125100 -0300" stop="20200402143200 -0300" channel="SPACE">
     <title lang="pt">O Vingador da Iugoslávia</title>
@@ -8308,10 +8544,6 @@
     <title lang="pt">Velocidade Máxima 2</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200402110000 -0300" stop="20200402123600 -0300" channel="HBO FAMILY">
-    <title lang="pt">Show Dogs: O Agente Canino</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
   <programme start="20200402123600 -0300" stop="20200402142800 -0300" channel="HBO FAMILY">
     <title lang="pt">7 Minutos Depois da Meia-noite</title>
     <category lang="pt">Filme/Animação</category>
@@ -8443,10 +8675,6 @@
   <programme start="20200404235800 -0300" stop="20200405013800 -0300" channel="HBO FAMILY">
     <title lang="pt">Alfa</title>
     <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200402104000 -0300" stop="20200402125500 -0300" channel="TC ACTION">
-    <title lang="pt">Revelação</title>
-    <category lang="pt">Filme/Suspense</category>
   </programme>
   <programme start="20200402125500 -0300" stop="20200402143500 -0300" channel="TC ACTION">
     <title lang="pt">Operação Resgate</title>
@@ -8823,10 +9051,6 @@
   <programme start="20200404220000 -0300" stop="20200405004000 -0300" channel="TC FUN">
     <title lang="pt">Harry Potter e a Pedra Filosofal</title>
     <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200402123000 -0300" stop="20200402125500 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Polly Pocket</title>
-    <category lang="pt">Infantil/Animação</category>
   </programme>
   <programme start="20200402125500 -0300" stop="20200402132000 -0300" channel="DISCOVERY KIDS">
     <title lang="pt">O Clube das Winx</title>
@@ -11436,165 +11660,161 @@
     <title lang="pt">Basquete: Ncaa Tournament</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402140000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200402120000 -0300" stop="20200402140000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Bate-Bola - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200402140000 -0300" stop="20200402150000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200402140000 -0300" stop="20200402150000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Futebol no Mundo - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200402150000 -0300" stop="20200402180000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200402150000 -0300" stop="20200402180000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200402180000 -0300" stop="20200402200000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200402180000 -0300" stop="20200402200000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Futebol na Veia - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402200000 -0300" stop="20200402230000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200402200000 -0300" stop="20200402230000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200402230000 -0300" stop="20200403000000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200402230000 -0300" stop="20200403000000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403000000 -0300" stop="20200403010000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403000000 -0300" stop="20200403010000 -0300" channel="ESPN BRASIL">
     <title lang="pt">ESPN Filmes</title>
     <category lang="pt">Documentário/Esportivo</category>
   </programme>
-  <programme start="20200403010000 -0300" stop="20200403020000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403010000 -0300" stop="20200403020000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Futebol No Mundo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403020000 -0300" stop="20200403030000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403020000 -0300" stop="20200403030000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403030000 -0300" stop="20200403033000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403030000 -0300" stop="20200403033000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Caravana do Esporte</title>
     <category lang="pt">Variedades/Educativo</category>
   </programme>
-  <programme start="20200403033000 -0300" stop="20200403043000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403033000 -0300" stop="20200403043000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Futebol No Mundo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403043000 -0300" stop="20200403073000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403043000 -0300" stop="20200403073000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Bayern TV</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403073000 -0300" stop="20200403090000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403073000 -0300" stop="20200403090000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Resenha ESPN</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403090000 -0300" stop="20200403120000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403090000 -0300" stop="20200403120000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403120000 -0300" stop="20200403140000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403120000 -0300" stop="20200403140000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Bate-Bola - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403140000 -0300" stop="20200403150000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403140000 -0300" stop="20200403150000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Futebol no Mundo - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403150000 -0300" stop="20200403154000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403150000 -0300" stop="20200403154000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403154000 -0300" stop="20200403174500 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403154000 -0300" stop="20200403174500 -0300" channel="ESPN BRASIL">
     <title lang="pt">Campeonato Inglês 2ª Divisão - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403174500 -0300" stop="20200403203000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403174500 -0300" stop="20200403203000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Futebol na Veia - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200403203000 -0300" stop="20200403213000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403203000 -0300" stop="20200403213000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403213000 -0300" stop="20200403230000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403213000 -0300" stop="20200403230000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Resenha ESPN</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200403230000 -0300" stop="20200404000000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200403230000 -0300" stop="20200404000000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404000000 -0300" stop="20200404013000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404000000 -0300" stop="20200404013000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Resenha ESPN</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404013000 -0300" stop="20200404020000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404013000 -0300" stop="20200404020000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Mundo Premier League</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404020000 -0300" stop="20200404023000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404020000 -0300" stop="20200404023000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Prévia do Campeonato Espanhol</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404023000 -0300" stop="20200404033000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404023000 -0300" stop="20200404033000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Futebol No Mundo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404033000 -0300" stop="20200404043000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404033000 -0300" stop="20200404043000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404043000 -0300" stop="20200404063000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404043000 -0300" stop="20200404063000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Amistoso Internacional</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404063000 -0300" stop="20200404083000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404063000 -0300" stop="20200404083000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Campeonato Inglês 2ª Divisão</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404083000 -0300" stop="20200404103000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404083000 -0300" stop="20200404103000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Premier League - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404103000 -0300" stop="20200404110000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404103000 -0300" stop="20200404110000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Abre o Jogo: Premier League - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404110000 -0300" stop="20200404130000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404110000 -0300" stop="20200404130000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Premier League - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404130000 -0300" stop="20200404133000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404130000 -0300" stop="20200404133000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Abre o Jogo: Premier League - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404133000 -0300" stop="20200404153000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404133000 -0300" stop="20200404153000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Premier League - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404153000 -0300" stop="20200404173000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404153000 -0300" stop="20200404173000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Campeonato Espanhol - Ao Vivo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404173000 -0300" stop="20200404193000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404173000 -0300" stop="20200404193000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Campeonato Holandês</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200404193000 -0300" stop="20200404203000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404193000 -0300" stop="20200404203000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Futebol no Mundo - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404203000 -0300" stop="20200404230000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404203000 -0300" stop="20200404230000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
   </programme>
-  <programme start="20200404230000 -0300" stop="20200405000000 -0300" channel="ESPN BRAZIL">
+  <programme start="20200404230000 -0300" stop="20200405000000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200402120000 -0300" stop="20200402124500 -0300" channel="FOX LIFE">
-    <title lang="pt">Entre Canibais</title>
-    <category lang="pt">Séries/Drama</category>
   </programme>
   <programme start="20200402124500 -0300" stop="20200402133000 -0300" channel="FOX LIFE">
     <title lang="pt">Private Eyes</title>
@@ -11915,10 +12135,6 @@
   <programme start="20200404231500 -0300" stop="20200405000000 -0300" channel="FOX LIFE">
     <title lang="pt">Law &amp; Order SVU</title>
     <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402121500 -0300" stop="20200402124000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Trato Feito</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402124000 -0300" stop="20200402133000 -0300" channel="HISTORY CHANNEL">
     <title lang="pt">Caçadores de Relíquias</title>
@@ -12355,10 +12571,6 @@
   <programme start="20200404231000 -0300" stop="20200405000000 -0300" channel="HISTORY CHANNEL">
     <title lang="pt">Alienígenas do Passado</title>
     <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402111500 -0300" stop="20200402125500 -0300" channel="MEGAPIX">
-    <title lang="pt">Diablo</title>
-    <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200402125500 -0300" stop="20200402150000 -0300" channel="MEGAPIX">
     <title lang="pt">Victor Frankenstein</title>
@@ -14355,5 +14567,1189 @@
   <programme start="20200404214000 -0300" stop="20200405000500 -0300" channel="SONY">
     <title lang="pt">O Legado Bourne</title>
     <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402125000 -0300" stop="20200402134000 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200402134000 -0300" stop="20200402143000 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200402143000 -0300" stop="20200402152000 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200402152000 -0300" stop="20200402165000 -0300" channel="syfy">
+    <title lang="pt">A Destruição da Terra</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200402165000 -0300" stop="20200402182000 -0300" channel="syfy">
+    <title lang="pt">Desastre</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200402182000 -0300" stop="20200402185000 -0300" channel="syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200402185000 -0300" stop="20200402194000 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200402194000 -0300" stop="20200402203000 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200402203000 -0300" stop="20200402211500 -0300" channel="syfy">
+    <title lang="pt">Charmed</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200402211500 -0300" stop="20200402220000 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200402224500 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200402224500 -0300" stop="20200403001000 -0300" channel="syfy">
+    <title lang="pt">Perseguidos pela Morte</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200403001000 -0300" stop="20200403015000 -0300" channel="syfy">
+    <title lang="pt">A Maldição de Chucky</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200403015000 -0300" stop="20200403023500 -0300" channel="syfy">
+    <title lang="pt">Charmed</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403023500 -0300" stop="20200403032500 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403032500 -0300" stop="20200403051500 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403051500 -0300" stop="20200403060000 -0300" channel="syfy">
+    <title lang="pt">The Magicians</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403064500 -0300" channel="syfy">
+    <title lang="pt">The Magicians</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200403064500 -0300" stop="20200403080000 -0300" channel="syfy">
+    <title lang="pt">The Magicians</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403090000 -0300" channel="syfy">
+    <title lang="pt">Infomercial SyFy</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403090000 -0300" stop="20200403101000 -0300" channel="syfy">
+    <title lang="pt">Infomercial SyFy</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403101000 -0300" stop="20200403110000 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403110000 -0300" stop="20200403115000 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403115000 -0300" stop="20200403124000 -0300" channel="syfy">
+    <title lang="pt">Charmed</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403124000 -0300" stop="20200403133000 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200403133000 -0300" stop="20200403142000 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403142000 -0300" stop="20200403151000 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403151000 -0300" stop="20200403164500 -0300" channel="syfy">
+    <title lang="pt">Círculo de Monstros</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200403164500 -0300" stop="20200403182000 -0300" channel="syfy">
+    <title lang="pt">Terror no Triângulo das Bermudas</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200403182000 -0300" stop="20200403185000 -0300" channel="syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403185000 -0300" stop="20200403194000 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403194000 -0300" stop="20200403203000 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403203000 -0300" stop="20200403211500 -0300" channel="syfy">
+    <title lang="pt">Charmed</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403211500 -0300" stop="20200403220000 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200403224500 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200403224500 -0300" stop="20200404001000 -0300" channel="syfy">
+    <title lang="pt">A Amizade Desfeita</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200404001000 -0300" stop="20200404013500 -0300" channel="syfy">
+    <title lang="pt">Uma Noite de Crime</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200404013500 -0300" stop="20200404022000 -0300" channel="syfy">
+    <title lang="pt">Charmed</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200404022000 -0300" stop="20200404031000 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200404031000 -0300" stop="20200404051500 -0300" channel="syfy">
+    <title lang="pt">Star Trek: The Next Generation</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200404051500 -0300" stop="20200404063000 -0300" channel="syfy">
+    <title lang="pt">The Magicians</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200404063000 -0300" stop="20200404080000 -0300" channel="syfy">
+    <title lang="pt">O Misterioso Caso de Judith Winstead</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404090000 -0300" channel="syfy">
+    <title lang="pt">Infomercial SyFy</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404090000 -0300" stop="20200404103500 -0300" channel="syfy">
+    <title lang="pt">Infomercial SyFy</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404103500 -0300" stop="20200404122500 -0300" channel="syfy">
+    <title lang="pt">O Cemitério Maldito 2</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200404122500 -0300" stop="20200404140000 -0300" channel="syfy">
+    <title lang="pt">A Pata do Macaco</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200404140000 -0300" stop="20200404144500 -0300" channel="syfy">
+    <title lang="pt">The Outpost</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200404144500 -0300" stop="20200404153000 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200404153000 -0300" stop="20200404161500 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200404161500 -0300" stop="20200404170000 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200404170000 -0300" stop="20200404174500 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200404174500 -0300" stop="20200404183000 -0300" channel="syfy">
+    <title lang="pt">Grimm</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200404183000 -0300" stop="20200404190000 -0300" channel="syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404190000 -0300" stop="20200404193000 -0300" channel="syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404193000 -0300" stop="20200404200000 -0300" channel="syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404203000 -0300" channel="syfy">
+    <title lang="pt">Cinelab Aprendiz</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404203000 -0300" stop="20200404211500 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200404211500 -0300" stop="20200404220000 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200404224500 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200404224500 -0300" stop="20200404233000 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200404233000 -0300" stop="20200405001500 -0300" channel="syfy">
+    <title lang="pt">Lucifer</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402130000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Coritiba x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402130000 -0300" stop="20200402140000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200402140000 -0300" stop="20200402150000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Flamengo x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402150000 -0300" stop="20200402160000 -0300" channel="SPORTV ¹">
+    <title lang="pt">SporTV Retrô</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200402160000 -0300" stop="20200402163000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200402163000 -0300" stop="20200402173000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Sporting Cristal (PER) x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402173000 -0300" stop="20200402183000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Cruzeiro x Sporting Cristal (PER)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402183000 -0300" stop="20200402190000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200402190000 -0300" stop="20200402221500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Brasil x Holanda</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402221500 -0300" stop="20200402231500 -0300" channel="SPORTV ¹">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200402231500 -0300" stop="20200402234500 -0300" channel="SPORTV ¹">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200402234500 -0300" stop="20200403004500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Atlético MG x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403004500 -0300" stop="20200403014500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Grêmio x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403014500 -0300" stop="20200403024500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Boca Juniors (ARG) x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403024500 -0300" stop="20200403034500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Corinthians x Boca Juniors (ARG)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403034500 -0300" stop="20200403044500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Flamengo x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403044500 -0300" stop="20200403051500 -0300" channel="SPORTV ¹">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403051500 -0300" stop="20200403061500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - São Paulo x Atlético PR</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403061500 -0300" stop="20200403071500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Palmeiras x Deportivo Cali (COL)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403071500 -0300" stop="20200403081500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Grêmio x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403081500 -0300" stop="20200403083000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403083000 -0300" stop="20200403093000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Troca de Passes</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403093000 -0300" stop="20200403120000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Brasil x Holanda</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403120000 -0300" stop="20200403130000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Grêmio x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403130000 -0300" stop="20200403140000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Redação SporTV - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403140000 -0300" stop="20200403150000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Flamengo x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403150000 -0300" stop="20200403160000 -0300" channel="SPORTV ¹">
+    <title lang="pt">SporTV Retrô</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403160000 -0300" stop="20200403170000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Corinthians x Brasiliense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403170000 -0300" stop="20200403180000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Brasiliense x Corinthians</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403180000 -0300" stop="20200403183000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403183000 -0300" stop="20200403190000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403190000 -0300" stop="20200403213000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Brasil x França</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403213000 -0300" stop="20200403230000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403230000 -0300" stop="20200404000000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Grêmio x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404000000 -0300" stop="20200404010000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404010000 -0300" stop="20200404020000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Flamengo x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404020000 -0300" stop="20200404030000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Cruzeiro x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404030000 -0300" stop="20200404040000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Atlético MG x Figueirense</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404040000 -0300" stop="20200404050000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Atlético MG x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404050000 -0300" stop="20200404060000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Atlético MG x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404070000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Grêmio x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404080000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Cruzeiro x Sporting Cristal (PER)</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404093000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Troca de Passes</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404093000 -0300" stop="20200404103000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Santos x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404103000 -0300" stop="20200404114500 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Flamengo x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404114500 -0300" stop="20200404123000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Cruzeiro x Atlético MG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404123000 -0300" stop="20200404133000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Atlético MG x Cruzeiro</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404133000 -0300" stop="20200404134500 -0300" channel="SPORTV ¹">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200404134500 -0300" stop="20200404140000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Galeria SporTV</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200404140000 -0300" stop="20200404163000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Brasil x França</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404163000 -0300" stop="20200404173000 -0300" channel="SPORTV ¹">
+    <title lang="pt">SporTV Retrô</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200404173000 -0300" stop="20200404200000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Brasil x Alemanha</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404213000 -0300" channel="SPORTV ¹">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404213000 -0300" stop="20200404223000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - São Paulo x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404223000 -0300" stop="20200404233000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - São Paulo x Palmeiras</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404233000 -0300" stop="20200405003000 -0300" channel="SPORTV ¹">
+    <title lang="pt">VT - Flamengo x Internacional</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402140000 -0300" channel="SPORTV ²">
+    <title lang="pt">NBA All-star Game</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="SPORTV ²">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200402143000 -0300" stop="20200402170000 -0300" channel="SPORTV ²">
+    <title lang="pt">VT - Brasil x Dinamarca</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402170000 -0300" stop="20200402180000 -0300" channel="SPORTV ²">
+    <title lang="pt">Redação SporTV</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200402180000 -0300" stop="20200402190000 -0300" channel="SPORTV ²">
+    <title lang="pt">VT - Coritiba x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402190000 -0300" stop="20200402203000 -0300" channel="SPORTV ²">
+    <title lang="pt">Jogos Olímpicos Rio 2016: Vôlei Masculino</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200402203000 -0300" stop="20200402223000 -0300" channel="SPORTV ²">
+    <title lang="pt">Jogos Olímpicos Rio 2016: Vôlei Masculino</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200402223000 -0300" stop="20200402230000 -0300" channel="SPORTV ²">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200402230000 -0300" stop="20200403020000 -0300" channel="SPORTV ²">
+    <title lang="pt">VT - Brasil x Holanda</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403020000 -0300" stop="20200403030000 -0300" channel="SPORTV ²">
+    <title lang="pt">Boleiragem</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403030000 -0300" stop="20200403043000 -0300" channel="SPORTV ²">
+    <title lang="pt">Grande Círculo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403043000 -0300" stop="20200403060000 -0300" channel="SPORTV ²">
+    <title lang="pt">Grande Círculo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403070000 -0300" channel="SPORTV ²">
+    <title lang="pt">Boleiragem</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403070000 -0300" stop="20200403073000 -0300" channel="SPORTV ²">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403073000 -0300" stop="20200403093000 -0300" channel="SPORTV ²">
+    <title lang="pt">Túnel do Tempo Fórmula 1: Bicampeonato Alain Prost</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20200403093000 -0300" stop="20200403113000 -0300" channel="SPORTV ²">
+    <title lang="pt">NBA All-star Game</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200403113000 -0300" stop="20200403140000 -0300" channel="SPORTV ²">
+    <title lang="pt">NBA All-star Game</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200403140000 -0300" stop="20200403143000 -0300" channel="SPORTV ²">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200403143000 -0300" stop="20200403170000 -0300" channel="SPORTV ²">
+    <title lang="pt">VT - Brasil x Holanda</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403170000 -0300" stop="20200403180000 -0300" channel="SPORTV ²">
+    <title lang="pt">Redação SporTV</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403180000 -0300" stop="20200403200000 -0300" channel="SPORTV ²">
+    <title lang="pt">Túnel do Tempo Fórmula 1: San Marino 2005 - Auge Duelo Alonso x Schumacher</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20200403200000 -0300" stop="20200403213000 -0300" channel="SPORTV ²">
+    <title lang="pt">Jogos Olímpicos Rio 2016: Vôlei Masculino</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403213000 -0300" stop="20200403230000 -0300" channel="SPORTV ²">
+    <title lang="pt">Jogos Olímpicos Rio 2016: Vôlei Masculino</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403230000 -0300" stop="20200404013000 -0300" channel="SPORTV ²">
+    <title lang="pt">VT - Brasil x França</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404013000 -0300" stop="20200404030000 -0300" channel="SPORTV ²">
+    <title lang="pt">Grande Círculo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404030000 -0300" stop="20200404043000 -0300" channel="SPORTV ²">
+    <title lang="pt">Grande Círculo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404043000 -0300" stop="20200404060000 -0300" channel="SPORTV ²">
+    <title lang="pt">Grande Círculo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404070000 -0300" channel="SPORTV ²">
+    <title lang="pt">Boleiragem</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404083000 -0300" channel="SPORTV ²">
+    <title lang="pt">Grande Círculo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404083000 -0300" stop="20200404103000 -0300" channel="SPORTV ²">
+    <title lang="pt">Túnel do Tempo Fórmula 1: San Marino 2005 - Auge Duelo Alonso x Schumacher</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20200404103000 -0300" stop="20200404123000 -0300" channel="SPORTV ²">
+    <title lang="pt">NBA All-star Game</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200404123000 -0300" stop="20200404150000 -0300" channel="SPORTV ²">
+    <title lang="pt">NBA All-star Game</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200404150000 -0300" stop="20200404170000 -0300" channel="SPORTV ²">
+    <title lang="pt">Supercopa de Vôlei Feminino: Praia Clube x Osasco</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20200404170000 -0300" stop="20200404190000 -0300" channel="SPORTV ²">
+    <title lang="pt">Supercopa de Vôlei Feminino: Minas x Praia Clube</title>
+    <category lang="pt">Esporte/Vôlei Feminino</category>
+  </programme>
+  <programme start="20200404190000 -0300" stop="20200404193000 -0300" channel="SPORTV ²">
+    <title lang="pt">Baú do Esporte</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200404193000 -0300" stop="20200404213000 -0300" channel="SPORTV ²">
+    <title lang="pt">Túnel do Tempo Fórmula 1: 1ª Vitória de Raikkonen</title>
+    <category lang="pt">Documentário/Esportivo</category>
+  </programme>
+  <programme start="20200404213000 -0300" stop="20200404230000 -0300" channel="SPORTV ²">
+    <title lang="pt">Grande Círculo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404230000 -0300" stop="20200405013000 -0300" channel="SPORTV ²">
+    <title lang="pt">VT - Brasil x Alemanha</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402152000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters 1000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200402152000 -0300" stop="20200402172000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200402172000 -0300" stop="20200402192000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200402192000 -0300" stop="20200402210000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200402210000 -0300" stop="20200402220000 -0300" channel="SPORTV ³">
+    <title lang="pt">Especial UFC</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200402230000 -0300" channel="SPORTV ³">
+    <title lang="pt">Especial UFC</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200402230000 -0300" stop="20200403020000 -0300" channel="SPORTV ³">
+    <title lang="pt">Faixa Combate: Ufc - Ngannou x Velasquez</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403020000 -0300" stop="20200403050000 -0300" channel="SPORTV ³">
+    <title lang="pt">UFC: Benavidez x Figueiredo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403050000 -0300" stop="20200403060000 -0300" channel="SPORTV ³">
+    <title lang="pt">Especial UFC</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403070000 -0300" channel="SPORTV ³">
+    <title lang="pt">Especial UFC</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403070000 -0300" stop="20200403080000 -0300" channel="SPORTV ³">
+    <title lang="pt">Faixa Combate</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403093000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters 1000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200403093000 -0300" stop="20200403130000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters 1000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200403130000 -0300" stop="20200403150000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200403150000 -0300" stop="20200403170000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200403170000 -0300" stop="20200403190000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200403190000 -0300" stop="20200403210000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200403210000 -0300" stop="20200403220000 -0300" channel="SPORTV ³">
+    <title lang="pt">Especial UFC</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200403230000 -0300" channel="SPORTV ³">
+    <title lang="pt">Especial UFC</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403230000 -0300" stop="20200404000000 -0300" channel="SPORTV ³">
+    <title lang="pt">Faixa Olímpica</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200404000000 -0300" stop="20200404030000 -0300" channel="SPORTV ³">
+    <title lang="pt">Faixa Combate: Ufc - Ngannou x Velasquez</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404030000 -0300" stop="20200404060000 -0300" channel="SPORTV ³">
+    <title lang="pt">UFC: Benavidez x Figueiredo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404070000 -0300" channel="SPORTV ³">
+    <title lang="pt">Especial UFC</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404080000 -0300" channel="SPORTV ³">
+    <title lang="pt">Especial UFC</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404090000 -0300" channel="SPORTV ³">
+    <title lang="pt">Faixa Combate</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404090000 -0300" stop="20200404100000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters 1000: Montreal</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404110000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters 1000: Miami</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200404110000 -0300" stop="20200404130000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200404130000 -0300" stop="20200404150000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200404150000 -0300" stop="20200404170000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200404170000 -0300" stop="20200404190000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200404190000 -0300" stop="20200404210000 -0300" channel="SPORTV ³">
+    <title lang="pt">Masters Cup 2000</title>
+    <category lang="pt">Esporte/Tênis</category>
+  </programme>
+  <programme start="20200404210000 -0300" stop="20200404220000 -0300" channel="SPORTV ³">
+    <title lang="pt">Faixa Combate</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200404230000 -0300" channel="SPORTV ³">
+    <title lang="pt">Faixa Combate</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404230000 -0300" stop="20200405010000 -0300" channel="SPORTV ³">
+    <title lang="pt">Faixa Combate: Mma Nacional</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200402114000 -0300" stop="20200402131000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Um Mistério de Aurora Teagarden: A Casa dos Julius</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402131000 -0300" stop="20200402145500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Mary e Martha: Unidas Pela Esperança</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402145500 -0300" stop="20200402165000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">O Atentado</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402165000 -0300" stop="20200402183500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Circuito Fechado</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200402183500 -0300" stop="20200402191000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Amigo de Aluguel</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200402191000 -0300" stop="20200402200000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Rotas do Ódio</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200402200000 -0300" stop="20200402223500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Minority Report - A Nova Lei</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200402223500 -0300" stop="20200403002500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Depois da Terra</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403002500 -0300" stop="20200403023000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Guerra Mundial Z</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403023000 -0300" stop="20200403040000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">O Acordo</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200403040000 -0300" stop="20200403060000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Cadeado do Amor</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403070000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Infomercial Studio</title>
+    <category lang="pt">Variedades/Televendas</category>
+  </programme>
+  <programme start="20200403070000 -0300" stop="20200403082000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Infomercial Studio</title>
+    <category lang="pt">Variedades/Televendas</category>
+  </programme>
+  <programme start="20200403082000 -0300" stop="20200403085000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Cinelab</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403085000 -0300" stop="20200403103000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Sr. Moll e a Fábrica de Chocolate</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403103000 -0300" stop="20200403121000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Fantasmas À Solta: Minha Namorada Fantasma</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403121000 -0300" stop="20200403134500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Fantasmas à Solta 3: Sociedade do Mal</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403134500 -0300" stop="20200403153000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Caça-Fantasmas: Na Trilha do Gelo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403153000 -0300" stop="20200403181000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Minority Report - A Nova Lei</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200403181000 -0300" stop="20200403200000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Depois da Terra</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403200000 -0300" stop="20200403215000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">MIB: Homens de Preto</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403215000 -0300" stop="20200403233000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">MIB: Homens de Preto 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403233000 -0300" stop="20200404011500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Inferno no Faroeste</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404011500 -0300" stop="20200404025500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Assassinatos em Tempo de Guerra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404025500 -0300" stop="20200404042500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Traumas de Infância</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404042500 -0300" stop="20200404060000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">O Acordo</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404070000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Infomercial Studio</title>
+    <category lang="pt">Variedades/Televendas</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404082000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Infomercial Studio</title>
+    <category lang="pt">Variedades/Televendas</category>
+  </programme>
+  <programme start="20200404082000 -0300" stop="20200404085000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Cinelab</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404085000 -0300" stop="20200404092000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Cinelab</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404092000 -0300" stop="20200404110500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Uma Garota Americana: McKenna Super Estrela!</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404110500 -0300" stop="20200404125500 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Os Brinquedos Mágicos</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404125500 -0300" stop="20200404144000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Uma Família Fora do Comum</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404144000 -0300" stop="20200404163000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Inferno no Faroeste</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404163000 -0300" stop="20200404182000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">MIB: Homens de Preto</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404182000 -0300" stop="20200404200000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">MIB: Homens de Preto 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404221000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Guerra Mundial Z</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404221000 -0300" stop="20200405000000 -0300" channel="STUDIO UNIVERSAL">
+    <title lang="pt">Corrida Mortal</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402121000 -0300" stop="20200402134500 -0300" channel="TC TOUCH">
+    <title lang="pt">Sem Dormir Até o Natal</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402134500 -0300" stop="20200402153500 -0300" channel="TC TOUCH">
+    <title lang="pt">O Rapto</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402153500 -0300" stop="20200402180000 -0300" channel="TC TOUCH">
+    <title lang="pt">Get On Up - A História de James Brown</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402180000 -0300" stop="20200402195000 -0300" channel="TC TOUCH">
+    <title lang="pt">Paixão Obsessiva</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200402195000 -0300" stop="20200402220000 -0300" channel="TC TOUCH">
+    <title lang="pt">Doentes de Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200402235500 -0300" channel="TC TOUCH">
+    <title lang="pt">Filmes Que Amamos: Os Homens São de Marte... e é Pra Lá Que Eu Vou</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402235500 -0300" stop="20200403014000 -0300" channel="TC TOUCH">
+    <title lang="pt">Falando Grego</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200403014000 -0300" stop="20200403033500 -0300" channel="TC TOUCH">
+    <title lang="pt">Obsessão</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200403033500 -0300" stop="20200403052000 -0300" channel="TC TOUCH">
+    <title lang="pt">Filth - O Nome Da Ambição</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403052000 -0300" stop="20200403071500 -0300" channel="TC TOUCH">
+    <title lang="pt">As Garotas do Calendário</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403071500 -0300" stop="20200403091000 -0300" channel="TC TOUCH">
+    <title lang="pt">Os Delírios de Consumo de Becky Bloom</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403091000 -0300" stop="20200403110000 -0300" channel="TC TOUCH">
+    <title lang="pt">Um Novo Olhar</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200403110000 -0300" stop="20200403125000 -0300" channel="TC TOUCH">
+    <title lang="pt">Nosso Ex-marido</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403125000 -0300" stop="20200403143000 -0300" channel="TC TOUCH">
+    <title lang="pt">Mulheres Perfeitas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403143000 -0300" stop="20200403161500 -0300" channel="TC TOUCH">
+    <title lang="pt">Ingrid Vai Para O Oeste</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403161500 -0300" stop="20200403180500 -0300" channel="TC TOUCH">
+    <title lang="pt">Todo Dia</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200403180500 -0300" stop="20200403200000 -0300" channel="TC TOUCH">
+    <title lang="pt">Beatriz</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403200000 -0300" stop="20200403220000 -0300" channel="TC TOUCH">
+    <title lang="pt">Mamma Mia!</title>
+    <category lang="pt">Filme/Musical</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200404001500 -0300" channel="TC TOUCH">
+    <title lang="pt">Um Lugar Chamado Notting Hill</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200404001500 -0300" stop="20200404020500 -0300" channel="TC TOUCH">
+    <title lang="pt">Simplesmente Acontece</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404020500 -0300" stop="20200404034500 -0300" channel="TC TOUCH">
+    <title lang="pt">Alibi.Com</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404034500 -0300" stop="20200404053000 -0300" channel="TC TOUCH">
+    <title lang="pt">Euforia</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404053000 -0300" stop="20200404071000 -0300" channel="TC TOUCH">
+    <title lang="pt">Cão Vermelho</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404071000 -0300" stop="20200404084500 -0300" channel="TC TOUCH">
+    <title lang="pt">Sem Dormir Até o Natal</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404084500 -0300" stop="20200404103500 -0300" channel="TC TOUCH">
+    <title lang="pt">As Palavras</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404103500 -0300" stop="20200404121500 -0300" channel="TC TOUCH">
+    <title lang="pt">Obrigado Por Fumar</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404121500 -0300" stop="20200404135500 -0300" channel="TC TOUCH">
+    <title lang="pt">Escrito nas Estrelas</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200404135500 -0300" stop="20200404160500 -0300" channel="TC TOUCH">
+    <title lang="pt">Doentes de Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404160500 -0300" stop="20200404175000 -0300" channel="TC TOUCH">
+    <title lang="pt">Falando Grego</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200404175000 -0300" stop="20200404195500 -0300" channel="TC TOUCH">
+    <title lang="pt">Coração De Cowboy</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404195500 -0300" stop="20200404220000 -0300" channel="TC TOUCH">
+    <title lang="pt">A Bela e a Fera (2014)</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200405003000 -0300" channel="TC TOUCH">
+    <title lang="pt">O Voo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402122200 -0300" stop="20200402140400 -0300" channel="TNT">
+    <title lang="pt">A Verdade Nua e Crua</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402140400 -0300" stop="20200402155500 -0300" channel="TNT">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402155500 -0300" stop="20200402181200 -0300" channel="TNT">
+    <title lang="pt">A Bela e a Fera</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200402181200 -0300" stop="20200402203100 -0300" channel="TNT">
+    <title lang="pt">Animais Fantásticos e Onde Habitam</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402203100 -0300" stop="20200402223000 -0300" channel="TNT">
+    <title lang="pt">Mistérios do Universo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402223000 -0300" stop="20200403002100 -0300" channel="TNT">
+    <title lang="pt">O Homem do Tai Chi</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403002100 -0300" stop="20200403005800 -0300" channel="TNT">
+    <title lang="pt">Liga Espetacular</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403005800 -0300" stop="20200403025100 -0300" channel="TNT">
+    <title lang="pt">Sobrenatural: Capítulo 2</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200403025100 -0300" stop="20200403053900 -0300" channel="TNT">
+    <title lang="pt">Gangues de Nova York</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403053900 -0300" stop="20200403060000 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403071700 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200403071700 -0300" stop="20200403084500 -0300" channel="TNT">
+    <title lang="pt">Lilo &amp; Stitch</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200403084500 -0300" stop="20200403105500 -0300" channel="TNT">
+    <title lang="pt">Ricky Bobby - A Toda Velocidade</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403105500 -0300" stop="20200403124200 -0300" channel="TNT">
+    <title lang="pt">O Homem do Tai Chi</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403124200 -0300" stop="20200403143700 -0300" channel="TNT">
+    <title lang="pt">A Bússola de Ouro</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403143700 -0300" stop="20200403162700 -0300" channel="TNT">
+    <title lang="pt">Procurando Nemo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403162700 -0300" stop="20200403184900 -0300" channel="TNT">
+    <title lang="pt">Animais Fantásticos e Onde Habitam</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403184900 -0300" stop="20200403203300 -0300" channel="TNT">
+    <title lang="pt">Operação Big Hero</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403203300 -0300" stop="20200403223000 -0300" channel="TNT">
+    <title lang="pt">A Lenda de Tarzan</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403223000 -0300" stop="20200404000500 -0300" channel="TNT">
+    <title lang="pt">Deu Ruim</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404000500 -0300" stop="20200404020800 -0300" channel="TNT">
+    <title lang="pt">Ted 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404020800 -0300" stop="20200404034000 -0300" channel="TNT">
+    <title lang="pt">Resident Evil 5: Retribuição</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404034000 -0300" stop="20200404055700 -0300" channel="TNT">
+    <title lang="pt">Anjos da Noite</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200404055700 -0300" stop="20200404060000 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404060200 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200404060200 -0300" stop="20200404080200 -0300" channel="TNT">
+    <title lang="pt">Ricky Bobby - A Toda Velocidade</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404080200 -0300" stop="20200404100000 -0300" channel="TNT">
+    <title lang="pt">A Bússola de Ouro</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404103700 -0300" channel="TNT">
+    <title lang="pt">De Olho Na Liga</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404103700 -0300" stop="20200404122700 -0300" channel="TNT">
+    <title lang="pt">Procurando Nemo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404122700 -0300" stop="20200404141000 -0300" channel="TNT">
+    <title lang="pt">Operação Big Hero</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404141000 -0300" stop="20200404160500 -0300" channel="TNT">
+    <title lang="pt">A Lenda de Tarzan</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404160500 -0300" stop="20200404182100 -0300" channel="TNT">
+    <title lang="pt">Guardiões da Galáxia</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404182100 -0300" stop="20200404195900 -0300" channel="TNT">
+    <title lang="pt">Tá Chovendo Hambúrguer 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404195900 -0300" stop="20200404214100 -0300" channel="TNT">
+    <title lang="pt">Fluentes no Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404214100 -0300" stop="20200404234200 -0300" channel="TNT">
+    <title lang="pt">Ted 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404234200 -0300" stop="20200405020800 -0300" channel="TNT">
+    <title lang="pt">Hulk</title>
+    <category lang="pt">Filme/Aventura</category>
   </programme>
 </tv>
