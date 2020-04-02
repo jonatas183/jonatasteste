@@ -48,6 +48,10 @@
     <display-name lang="pt">Discovery Theater</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="TC PIPOCA">
     <display-name lang="pt">TC PIPOCA</display-name>
     <url>http://www.meuguia.tv</url>
@@ -152,6 +156,10 @@
     <display-name lang="pt">FOX LIFE</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="HISTORY²">
+    <display-name lang="pt">HISTORY²</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <channel id="HISTORY CHANNEL">
     <display-name lang="pt">HISTORY CHANNEL</display-name>
     <url>http://www.meuguia.tv</url>
@@ -175,6 +183,22 @@
   <channel id="PARAMOUNT CHANNEL">
     <display-name lang="pt">PARAMOUNT CHANNEL</display-name>
     <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Premiere HD 2">
+    <display-name lang="pt">Premiere HD ²</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE HD 3">
+    <display-name lang="pt">PREMIERE HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 4">
+    <display-name lang="pt">PREMIERE 4</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE 5">
+    <display-name lang="pt">PREMIERE 5</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="PREMIERE CLUBES">
     <display-name lang="pt">PREMIERE CLUBES</display-name>
@@ -212,26 +236,6 @@
     <display-name lang="pt">TNT</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20200402124000 -0300" stop="20200402133000 -0300" channel="A&amp;E">
-    <title lang="pt">Tratamento de Choque</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402142500 -0300" channel="A&amp;E">
-    <title lang="pt">Acumuladores Compulsivos</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200402142500 -0300" stop="20200402152000 -0300" channel="A&amp;E">
-    <title lang="pt">Vidas Interrompidas</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402152000 -0300" stop="20200402161500 -0300" channel="A&amp;E">
-    <title lang="pt">Cold Case</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402161500 -0300" stop="20200402171000 -0300" channel="A&amp;E">
-    <title lang="pt">Cold Case</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
   <programme start="20200402171000 -0300" stop="20200402180500 -0300" channel="A&amp;E">
     <title lang="pt">Até Que a Morte Nos Separe</title>
     <category lang="pt">Séries/Policial</category>
@@ -464,18 +468,6 @@
     <title lang="pt">Alien: A Ressurreição</title>
     <category lang="pt">Filme/Ficção</category>
   </programme>
-  <programme start="20200402123000 -0300" stop="20200402140000 -0300" channel="amc">
-    <title lang="pt">Com a Cor e a Coragem</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402153000 -0300" channel="amc">
-    <title lang="pt">Chloe e Theo</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402172000 -0300" channel="amc">
-    <title lang="pt">A Onda</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
   <programme start="20200402172000 -0300" stop="20200402185500 -0300" channel="amc">
     <title lang="pt">O Casamento do Ano</title>
     <category lang="pt">Filme/Comédia</category>
@@ -643,26 +635,6 @@
   <programme start="20200404223000 -0300" stop="20200405003000 -0300" channel="amc">
     <title lang="pt">MIB: Homens De Preto 3</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402123900 -0300" stop="20200402133200 -0300" channel="animal planet">
-    <title lang="pt">SOS VET</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402133200 -0300" stop="20200402142600 -0300" channel="animal planet">
-    <title lang="pt">SOS VET</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402142600 -0300" stop="20200402152000 -0300" channel="animal planet">
-    <title lang="pt">SOS VET</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402152000 -0300" stop="20200402161400 -0300" channel="animal planet">
-    <title lang="pt">Pesca Mortal</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402161400 -0300" stop="20200402170700 -0300" channel="animal planet">
-    <title lang="pt">Pesca Mortal</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402170700 -0300" stop="20200402180000 -0300" channel="animal planet">
     <title lang="pt">Pesca Mortal</title>
@@ -920,22 +892,6 @@
     <title lang="pt">Vida Selvagem: Grandes Migrações</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402125000 -0300" stop="20200402134500 -0300" channel="axn">
-    <title lang="pt">NCIS: Nova Orleans</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402134500 -0300" stop="20200402144000 -0300" channel="axn">
-    <title lang="pt">Criminal Minds</title>
-    <category lang="pt">Séries/Suspense</category>
-  </programme>
-  <programme start="20200402144000 -0300" stop="20200402153500 -0300" channel="axn">
-    <title lang="pt">NCIS</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20200402153500 -0300" stop="20200402163000 -0300" channel="axn">
-    <title lang="pt">C.S.I. NY</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
   <programme start="20200402163000 -0300" stop="20200402172500 -0300" channel="axn">
     <title lang="pt">C.S.I</title>
     <category lang="pt">Séries/Policial</category>
@@ -1175,86 +1131,6 @@
   <programme start="20200404233500 -0300" stop="20200405000000 -0300" channel="axn">
     <title lang="pt">Sem Rastro</title>
     <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200402125300 -0300" stop="20200402130000 -0300" channel="cartoon network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402131100 -0300" channel="cartoon network">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402131100 -0300" stop="20200402132700 -0300" channel="cartoon network">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402132700 -0300" stop="20200402133000 -0300" channel="cartoon network">
-    <title lang="pt">Irmão do Jorel</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402134600 -0300" channel="cartoon network">
-    <title lang="pt">Oswaldo</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402134600 -0300" stop="20200402140000 -0300" channel="cartoon network">
-    <title lang="pt">Oswaldo</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402141200 -0300" channel="cartoon network">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402141200 -0300" stop="20200402142900 -0300" channel="cartoon network">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402142900 -0300" stop="20200402143000 -0300" channel="cartoon network">
-    <title lang="pt">O Incrível Mundo de Gumball</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402144600 -0300" channel="cartoon network">
-    <title lang="pt">Mao Mao: Heróis de Coração Puro</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402144600 -0300" stop="20200402150000 -0300" channel="cartoon network">
-    <title lang="pt">Mao Mao: Heróis de Coração Puro</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402151200 -0300" channel="cartoon network">
-    <title lang="pt">Maçã e Cebola</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402151200 -0300" stop="20200402152800 -0300" channel="cartoon network">
-    <title lang="pt">Maçã e Cebola</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402152800 -0300" stop="20200402153000 -0300" channel="cartoon network">
-    <title lang="pt">Maçã e Cebola</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402154100 -0300" channel="cartoon network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402154100 -0300" stop="20200402155700 -0300" channel="cartoon network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402155700 -0300" stop="20200402160000 -0300" channel="cartoon network">
-    <title lang="pt">Os Jovens Titãs em Ação</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402160000 -0300" stop="20200402162500 -0300" channel="cartoon network">
-    <title lang="pt">Pokémon: Sol e Lua - Ultralendas</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402162500 -0300" stop="20200402165000 -0300" channel="cartoon network">
-    <title lang="pt">Beyblade Burst Turbo</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402165000 -0300" stop="20200402170000 -0300" channel="cartoon network">
-    <title lang="pt">Ben 10</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402170000 -0300" stop="20200402180000 -0300" channel="cartoon network">
     <title lang="pt">DC Super Hero Girls</title>
@@ -2252,18 +2128,6 @@
     <title lang="pt">DC Super Hero Girls</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200402121000 -0300" stop="20200402141100 -0300" channel="CINEMAX">
-    <title lang="pt">Já estou com Saudades</title>
-    <category lang="pt">Filme/Romance</category>
-  </programme>
-  <programme start="20200402141100 -0300" stop="20200402153800 -0300" channel="CINEMAX">
-    <title lang="pt">Onde Está Ally?</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200402153800 -0300" stop="20200402171200 -0300" channel="CINEMAX">
-    <title lang="pt">Traídos pelo Passado</title>
-    <category lang="pt">Filme/Suspense</category>
-  </programme>
   <programme start="20200402171200 -0300" stop="20200402184400 -0300" channel="CINEMAX">
     <title lang="pt">Paciente Zero: A Origem Do Virus</title>
     <category lang="pt">Filme/Ação</category>
@@ -2391,14 +2255,6 @@
   <programme start="20200404220000 -0300" stop="20200405000100 -0300" channel="CINEMAX">
     <title lang="pt">O Estrangeiro</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402120000 -0300" stop="20200402150000 -0300" channel="COMBATE">
-    <title lang="pt">Arena Combate Grappling</title>
-    <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402160000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Series</title>
-    <category lang="pt">Esporte/Luta</category>
   </programme>
   <programme start="20200402160000 -0300" stop="20200402180000 -0300" channel="COMBATE">
     <title lang="pt">UFC Series</title>
@@ -2547,122 +2403,6 @@
   <programme start="20200404200000 -0300" stop="20200405020000 -0300" channel="COMBATE">
     <title lang="pt">Lutas Ao Vivo</title>
     <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402124100 -0300" stop="20200402125800 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402125800 -0300" stop="20200402130000 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402132500 -0300" channel="BOOMERANG">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402132500 -0300" stop="20200402133000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402134100 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402134100 -0300" stop="20200402135800 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402135800 -0300" stop="20200402140000 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402140600 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402140600 -0300" stop="20200402141200 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402141200 -0300" stop="20200402142400 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402142400 -0300" stop="20200402143000 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402143800 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402143800 -0300" stop="20200402145200 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402145200 -0300" stop="20200402150000 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402150700 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402150700 -0300" stop="20200402151400 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402151400 -0300" stop="20200402152700 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402152700 -0300" stop="20200402153000 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402153400 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402153400 -0300" stop="20200402153500 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402153500 -0300" stop="20200402154900 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402154900 -0300" stop="20200402155800 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402155800 -0300" stop="20200402160000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402160000 -0300" stop="20200402162000 -0300" channel="BOOMERANG">
-    <title lang="pt">Barbie Dreamhouse Adventures</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402162000 -0300" stop="20200402163000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402163000 -0300" stop="20200402164700 -0300" channel="BOOMERANG">
-    <title lang="pt">Lego Friends: Meninas Em Missão</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402164700 -0300" stop="20200402170000 -0300" channel="BOOMERANG">
-    <title lang="pt">Lego Friends: Meninas Em Missão</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402170000 -0300" stop="20200402170800 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402170800 -0300" stop="20200402172200 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402172200 -0300" stop="20200402172500 -0300" channel="BOOMERANG">
     <title lang="pt">O Show de Tom e Jerry</title>
@@ -4124,18 +3864,6 @@
     <title lang="pt">O Show de Tom e Jerry</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402140000 -0300" channel="BANDSPORTS">
-    <title lang="pt">1° Tempo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402150000 -0300" channel="BANDSPORTS">
-    <title lang="pt">Viva o Esporte</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402170000 -0300" channel="BANDSPORTS">
-    <title lang="pt">Especial Tênis</title>
-    <category lang="pt">Esporte/Tênis</category>
-  </programme>
   <programme start="20200402170000 -0300" stop="20200402180000 -0300" channel="BANDSPORTS">
     <title lang="pt">Bola Rolando</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -4327,42 +4055,6 @@
   <programme start="20200404230000 -0300" stop="20200405020000 -0300" channel="BANDSPORTS">
     <title lang="pt">Especial MMA</title>
     <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402124000 -0300" stop="20200402133500 -0300" channel="Comedy Central">
-    <title lang="pt">A Culpa é do Cabral</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402133500 -0300" stop="20200402140500 -0300" channel="Comedy Central">
-    <title lang="pt">Comedy Central Stand Up</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402140500 -0300" stop="20200402143500 -0300" channel="Comedy Central">
-    <title lang="pt">Comedy Central Stand Up</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402143500 -0300" stop="20200402150000 -0300" channel="Comedy Central">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402152500 -0300" channel="Comedy Central">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402152500 -0300" stop="20200402155000 -0300" channel="Comedy Central">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402155000 -0300" stop="20200402161500 -0300" channel="Comedy Central">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402161500 -0300" stop="20200402164000 -0300" channel="Comedy Central">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402164000 -0300" stop="20200402171000 -0300" channel="Comedy Central">
-    <title lang="pt">Um Maluco no Pedaço</title>
-    <category lang="pt">Séries/Comédia</category>
   </programme>
   <programme start="20200402171000 -0300" stop="20200402181000 -0300" channel="Comedy Central">
     <title lang="pt">Comedy Central Stand Up</title>
@@ -4784,30 +4476,6 @@
     <title lang="pt">Comedy Central Stand Up: Especial Caras Novas</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200402122800 -0300" stop="20200402131700 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Febre do Ouro - O Desafio de Parker</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402131700 -0300" stop="20200402140500 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">A Grande Família do Alasca</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402140500 -0300" stop="20200402145300 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">A Grande Família do Alasca</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402145300 -0300" stop="20200402154100 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">A Grande Família do Alasca</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402154100 -0300" stop="20200402162900 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Largados e Pelados</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402162900 -0300" stop="20200402171700 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Largados e Pelados</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200402171700 -0300" stop="20200402180500 -0300" channel="DISCOVERY CHANNEL">
     <title lang="pt">Largados e Pelados</title>
     <category lang="pt">Séries/Documentário</category>
@@ -5102,30 +4770,6 @@
   </programme>
   <programme start="20200404234300 -0300" stop="20200405003400 -0300" channel="DISCOVERY CHANNEL">
     <title lang="pt">As Piores Prisões do Mundo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402122400 -0300" stop="20200402131200 -0300" channel="Discovery Theater">
-    <title lang="pt">Grandes Missões da NASA</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402131200 -0300" stop="20200402140000 -0300" channel="Discovery Theater">
-    <title lang="pt">As Mega Máquinas do Alasca</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402144800 -0300" channel="Discovery Theater">
-    <title lang="pt">Megaconstruções</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402144800 -0300" stop="20200402153600 -0300" channel="Discovery Theater">
-    <title lang="pt">Como Tudo Funciona</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402153600 -0300" stop="20200402162400 -0300" channel="Discovery Theater">
-    <title lang="pt">West Coast Customs Berlim</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402162400 -0300" stop="20200402171200 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca - Perigo no Ar</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402171200 -0300" stop="20200402180000 -0300" channel="Discovery Theater">
@@ -5428,13 +5072,309 @@
     <title lang="pt">West Coast Customs Berlim</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402123000 -0300" stop="20200402143000 -0300" channel="TC PIPOCA">
-    <title lang="pt">Operação Supletivo</title>
-    <category lang="pt">Filme/Comédia</category>
+  <programme start="20200402170800 -0300" stop="20200402185400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Fábrica De Casamentos</title>
+    <category lang="pt">Séries/Comportamento</category>
   </programme>
-  <programme start="20200402143000 -0300" stop="20200402163000 -0300" channel="TC PIPOCA">
-    <title lang="pt">Lutando Pela Família</title>
-    <category lang="pt">Filme/Drama</category>
+  <programme start="20200402185400 -0300" stop="20200402194400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200402194400 -0300" stop="20200402203500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200402203500 -0300" stop="20200402212800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200402212800 -0300" stop="20200402222100 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200402222100 -0300" stop="20200402231400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200402231400 -0300" stop="20200403000700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Extreme Makeover: Reconstrução Total</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403000700 -0300" stop="20200403010000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403010000 -0300" stop="20200403012700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Boutique Das Noivas Plus Size</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403012700 -0300" stop="20200403015300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403015300 -0300" stop="20200403021900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403021900 -0300" stop="20200403031100 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">A Batalha Dos Piores Cozinheiros</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200403031100 -0300" stop="20200403040400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403040400 -0300" stop="20200403045700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Extreme Makeover: Reconstrução Total</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403045700 -0300" stop="20200403055100 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Esquadrão da Moda</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403055100 -0300" stop="20200403063900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Os Busbys + 5</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403063900 -0300" stop="20200403070300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Boutique Das Noivas Plus Size</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403070300 -0300" stop="20200403075100 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">A Batalha Dos Piores Cozinheiros</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200403075100 -0300" stop="20200403081500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403081500 -0300" stop="20200403083900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Em Busca Da Casa Perfeita - Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403083900 -0300" stop="20200403092800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Confeiteiros Vs. Amadores</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403092800 -0300" stop="20200403101700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Cozinheiros Vs Amadores</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200403101700 -0300" stop="20200403111400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403111400 -0300" stop="20200403120700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403120700 -0300" stop="20200403125700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403125700 -0300" stop="20200403134700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403134700 -0300" stop="20200403143700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403143700 -0300" stop="20200403152700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403152700 -0300" stop="20200403161800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Os Busbys + 5</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403161800 -0300" stop="20200403170900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Os Busbys + 5</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403170900 -0300" stop="20200403173600 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">O Vestido Ideal - Atlanta</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403173600 -0300" stop="20200403180300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">O Vestido Ideal - Atlanta</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200403180300 -0300" stop="20200403190000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Prova de Noiva</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403190000 -0300" stop="20200403195000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403195000 -0300" stop="20200403204000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403204000 -0300" stop="20200403213000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403213000 -0300" stop="20200403222000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200403222000 -0300" stop="20200403234200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Jr. Bake Off Brasil - Mão Na Massa</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200403234200 -0300" stop="20200404003500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404003500 -0300" stop="20200404010200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Boutique Das Noivas Plus Size</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404010200 -0300" stop="20200404012900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Casas Exuberantes</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404012900 -0300" stop="20200404015600 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Casas Exuberantes</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404015600 -0300" stop="20200404022300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Casas Exuberantes</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404022300 -0300" stop="20200404031300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">A Batalha Dos Piores Cozinheiros</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200404031300 -0300" stop="20200404043500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Jr. Bake Off Brasil - Mão Na Massa</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200404043500 -0300" stop="20200404052900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Esquadrão da Moda</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404052900 -0300" stop="20200404061800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Os Busbys + 5</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404061800 -0300" stop="20200404063900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Boutique Das Noivas Plus Size</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404063900 -0300" stop="20200404070300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Boutique Das Noivas Plus Size</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404070300 -0300" stop="20200404075100 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404075100 -0300" stop="20200404083900 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404083900 -0300" stop="20200404092700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404092700 -0300" stop="20200404101500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404101500 -0300" stop="20200404104000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma À Venda</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404104000 -0300" stop="20200404110500 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma À Venda</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404110500 -0300" stop="20200404113000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma À Venda</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404113000 -0300" stop="20200404115600 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma À Venda</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404115600 -0300" stop="20200404122200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma À Venda</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404122200 -0300" stop="20200404124800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma À Venda</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404124800 -0300" stop="20200404131400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404131400 -0300" stop="20200404134000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404134000 -0300" stop="20200404140600 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404140600 -0300" stop="20200404143200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404143200 -0300" stop="20200404145800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404145800 -0300" stop="20200404152400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reformas A Todo Vapor</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404152400 -0300" stop="20200404161600 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404161600 -0300" stop="20200404164200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma Personalizada Com Jasmine Roth</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404164200 -0300" stop="20200404170800 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Reforma Personalizada Com Jasmine Roth</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200404170800 -0300" stop="20200404180000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404180000 -0300" stop="20200404185000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404185000 -0300" stop="20200404194200 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404194200 -0300" stop="20200404203400 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Irmãos à Obra</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404203400 -0300" stop="20200404212700 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404212700 -0300" stop="20200404222000 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404222000 -0300" stop="20200404231300 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Ame-a ou Deixe-a: Austrália</title>
+    <category lang="pt">Séries/Comportamento</category>
+  </programme>
+  <programme start="20200404231300 -0300" stop="20200405000600 -0300" channel="Discovery Home &amp; Health">
+    <title lang="pt">Mulheres À Obra</title>
+    <category lang="pt">Séries/Reality Show</category>
   </programme>
   <programme start="20200402163000 -0300" stop="20200402181500 -0300" channel="TC PIPOCA">
     <title lang="pt">Apenas o Começo</title>
@@ -5556,14 +5496,6 @@
     <title lang="pt">Pets: A Vida Secreta dos Bichos 2</title>
     <category lang="pt">Filme/Animação</category>
   </programme>
-  <programme start="20200402122500 -0300" stop="20200402141500 -0300" channel="TC PREMIUM">
-    <title lang="pt">O Poder e o Impossível</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402141500 -0300" stop="20200402160000 -0300" channel="TC PREMIUM">
-    <title lang="pt">Estado de Calamidade</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200402160000 -0300" stop="20200402180500 -0300" channel="TC PREMIUM">
     <title lang="pt">Jumanji: Bem-vindo à Selva</title>
     <category lang="pt">Filme/Aventura</category>
@@ -5683,30 +5615,6 @@
   <programme start="20200404220000 -0300" stop="20200405001000 -0300" channel="TC PREMIUM">
     <title lang="pt">John Wick: Um Novo Dia Para Matar</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402122200 -0300" stop="20200402130800 -0300" channel="TNT SÉRIES">
-    <title lang="pt">Law &amp; Order: Criminal Intent</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402130800 -0300" stop="20200402135400 -0300" channel="TNT SÉRIES">
-    <title lang="pt">C.S.I. NY</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402135400 -0300" stop="20200402144000 -0300" channel="TNT SÉRIES">
-    <title lang="pt">C.S.I</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402144000 -0300" stop="20200402152700 -0300" channel="TNT SÉRIES">
-    <title lang="pt">C.S.I. Miami</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402152700 -0300" stop="20200402161300 -0300" channel="TNT SÉRIES">
-    <title lang="pt">The Mentalist</title>
-    <category lang="pt">Séries/Suspense</category>
-  </programme>
-  <programme start="20200402161300 -0300" stop="20200402165900 -0300" channel="TNT SÉRIES">
-    <title lang="pt">The Mentalist</title>
-    <category lang="pt">Séries/Suspense</category>
   </programme>
   <programme start="20200402165900 -0300" stop="20200402174500 -0300" channel="TNT SÉRIES">
     <title lang="pt">C.S.I. NY</title>
@@ -6012,22 +5920,6 @@
     <title lang="pt">C.S.I</title>
     <category lang="pt">Séries/Policial</category>
   </programme>
-  <programme start="20200402111500 -0300" stop="20200402130000 -0300" channel="FOX SPORTS ¹">
-    <title lang="pt">VT - River Plate x Boca Juniors</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402150000 -0300" channel="FOX SPORTS ¹">
-    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402164500 -0300" channel="FOX SPORTS ¹">
-    <title lang="pt">VT - Grêmio x Flamengo</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200402164500 -0300" stop="20200402170000 -0300" channel="FOX SPORTS ¹">
-    <title lang="pt">Filler</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
   <programme start="20200402170000 -0300" stop="20200402173000 -0300" channel="FOX SPORTS ¹">
     <title lang="pt">VT - Athletico PR x Peñarol (URU)</title>
     <category lang="pt">Esporte/Futebol</category>
@@ -6192,18 +6084,6 @@
     <title lang="pt">Aqui Com Benja</title>
     <category lang="pt">Variedades/Talk Show</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402134500 -0300" channel="FOX SPORSTS ²">
-    <title lang="pt">VT - Boca Juniors x Atl Tucumán</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200402134500 -0300" stop="20200402153000 -0300" channel="FOX SPORSTS ²">
-    <title lang="pt">VT - Hertha Berlin x Bayern München</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402171500 -0300" channel="FOX SPORSTS ²">
-    <title lang="pt">VT - Náutico x Fortaleza</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
   <programme start="20200402171500 -0300" stop="20200402184500 -0300" channel="FOX SPORSTS ²">
     <title lang="pt">NBB: Flamengo x Franca</title>
     <category lang="pt">Esporte/Basquete</category>
@@ -6367,42 +6247,6 @@
   <programme start="20200404233000 -0300" stop="20200405011500 -0300" channel="FOX SPORSTS ²">
     <title lang="pt">VT - Barcelona x Getafe</title>
     <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200402123000 -0300" stop="20200402130000 -0300" channel="TOONCAST">
-    <title lang="pt">Manda Chuva</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402133000 -0300" channel="TOONCAST">
-    <title lang="pt">Mike, Lu e Og</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402140000 -0300" channel="TOONCAST">
-    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="TOONCAST">
-    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402150000 -0300" channel="TOONCAST">
-    <title lang="pt">Pokémon</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402153000 -0300" channel="TOONCAST">
-    <title lang="pt">Popeye</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402160000 -0300" channel="TOONCAST">
-    <title lang="pt">Mgm Cartoons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402160000 -0300" stop="20200402163000 -0300" channel="TOONCAST">
-    <title lang="pt">Baby Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402163000 -0300" stop="20200402170000 -0300" channel="TOONCAST">
-    <title lang="pt">Looney Tunes</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402170000 -0300" stop="20200402173000 -0300" channel="TOONCAST">
     <title lang="pt">Os Mistérios de Frajola e Piu Piu</title>
@@ -6796,22 +6640,6 @@
     <title lang="pt">O Laboratório de Dexter</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200402123000 -0300" stop="20200402132500 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Macgyver</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20200402132500 -0300" stop="20200402150000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Tempo Contado</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402155500 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Law &amp; Order SVU</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402155500 -0300" stop="20200402165000 -0300" channel="UNIVERSAL CHANNEL">
-    <title lang="pt">Law &amp; Order SVU</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
   <programme start="20200402165000 -0300" stop="20200402174500 -0300" channel="UNIVERSAL CHANNEL">
     <title lang="pt">Law &amp; Order SVU</title>
     <category lang="pt">Séries/Policial</category>
@@ -7039,38 +6867,6 @@
   <programme start="20200404235500 -0300" stop="20200405005000 -0300" channel="UNIVERSAL CHANNEL">
     <title lang="pt">Law &amp; Order SVU</title>
     <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402125500 -0300" stop="20200402132200 -0300" channel="WARNER">
-    <title lang="pt">Friends</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402132200 -0300" stop="20200402134700 -0300" channel="WARNER">
-    <title lang="pt">The Middle</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402134700 -0300" stop="20200402141200 -0300" channel="WARNER">
-    <title lang="pt">The Middle</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402141200 -0300" stop="20200402143700 -0300" channel="WARNER">
-    <title lang="pt">Two and a Half Men</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402143700 -0300" stop="20200402150200 -0300" channel="WARNER">
-    <title lang="pt">Two and a Half Men</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402150200 -0300" stop="20200402152600 -0300" channel="WARNER">
-    <title lang="pt">Two and a Half Men</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402152600 -0300" stop="20200402155100 -0300" channel="WARNER">
-    <title lang="pt">Two and a Half Men</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402155100 -0300" stop="20200402163800 -0300" channel="WARNER">
-    <title lang="pt">Supernatural</title>
-    <category lang="pt">Séries/Suspense</category>
   </programme>
   <programme start="20200402163800 -0300" stop="20200402181300 -0300" channel="WARNER">
     <title lang="pt">Tarzan</title>
@@ -7396,18 +7192,6 @@
     <title lang="pt">Águas Rasas</title>
     <category lang="pt">Filme/Terror</category>
   </programme>
-  <programme start="20200402113000 -0300" stop="20200402131000 -0300" channel="HBO">
-    <title lang="pt">Depois da Verdade: Desinformação e o Custo das Fake News</title>
-    <category lang="pt">Filme/Documentário</category>
-  </programme>
-  <programme start="20200402131000 -0300" stop="20200402150000 -0300" channel="HBO">
-    <title lang="pt">Te Peguei!</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402172000 -0300" channel="HBO">
-    <title lang="pt">Godzilla II: Rei dos Monstros</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200402172000 -0300" stop="20200402190000 -0300" channel="HBO">
     <title lang="pt">My Brilliant Friend</title>
     <category lang="pt">Séries/Drama</category>
@@ -7535,18 +7319,6 @@
   <programme start="20200404220000 -0300" stop="20200405004500 -0300" channel="HBO">
     <title lang="pt">Era uma Vez em Hollywood</title>
     <category lang="pt">Filme/Documentário</category>
-  </programme>
-  <programme start="20200402111000 -0300" stop="20200402132000 -0300" channel="HBO PLUS">
-    <title lang="pt">Nocaute</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402132000 -0300" stop="20200402151500 -0300" channel="HBO PLUS">
-    <title lang="pt">Sete Dias Em Entebbe</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402151500 -0300" stop="20200402165500 -0300" channel="HBO PLUS">
-    <title lang="pt">Chamada de Emergência</title>
-    <category lang="pt">Filme/Suspense</category>
   </programme>
   <programme start="20200402165500 -0300" stop="20200402183500 -0300" channel="HBO PLUS">
     <title lang="pt">Exorcistas no Vaticano</title>
@@ -7691,18 +7463,6 @@
   <programme start="20200404234500 -0300" stop="20200405013500 -0300" channel="HBO PLUS">
     <title lang="pt">Buscando...</title>
     <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402124500 -0300" stop="20200402143000 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Eles não Envelhecerão</title>
-    <category lang="pt">Filme/Documentário</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402162000 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Paterno</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402162000 -0300" stop="20200402170000 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">À Sombra das Torres: O 11 de Setembro em Stuyvesant</title>
-    <category lang="pt">Filme/Documentário</category>
   </programme>
   <programme start="20200402170000 -0300" stop="20200402173400 -0300" channel="HBO SIGNATURE">
     <title lang="pt">Barry</title>
@@ -7924,14 +7684,6 @@
     <title lang="pt">Desmascarando Jihadi John: Anatomia de um Terrorista</title>
     <category lang="pt">Filme/Documentário</category>
   </programme>
-  <programme start="20200402125100 -0300" stop="20200402143200 -0300" channel="SPACE">
-    <title lang="pt">O Vingador da Iugoslávia</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402143200 -0300" stop="20200402163200 -0300" channel="SPACE">
-    <title lang="pt">Daylight</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200402163200 -0300" stop="20200402180400 -0300" channel="SPACE">
     <title lang="pt">Stallone Cobra</title>
     <category lang="pt">Filme/Ação</category>
@@ -8063,34 +7815,6 @@
   <programme start="20200404223000 -0300" stop="20200405001400 -0300" channel="SPACE">
     <title lang="pt">Rápida Vingança</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402114500 -0300" stop="20200402131000 -0300" channel="FOX">
-    <title lang="pt">Beethoven - A Corrida para a Fama</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200402131000 -0300" stop="20200402145500 -0300" channel="FOX">
-    <title lang="pt">Jumanji</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200402145500 -0300" stop="20200402152000 -0300" channel="FOX">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402152000 -0300" stop="20200402154500 -0300" channel="FOX">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402154500 -0300" stop="20200402161000 -0300" channel="FOX">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402161000 -0300" stop="20200402163500 -0300" channel="FOX">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402163500 -0300" stop="20200402170000 -0300" channel="FOX">
-    <title lang="pt">Os Simpsons</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402170000 -0300" stop="20200402172500 -0300" channel="FOX">
     <title lang="pt">Os Simpsons</title>
@@ -8336,18 +8060,6 @@
     <title lang="pt">O Preço do Amanhã</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200402111500 -0300" stop="20200402130000 -0300" channel="FX">
-    <title lang="pt">Demolidor: O Homem Sem Medo</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402145000 -0300" channel="FX">
-    <title lang="pt">Anjos da Lei</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402145000 -0300" stop="20200402164500 -0300" channel="FX">
-    <title lang="pt">Zohan: Um Agente Bom de Corte</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
   <programme start="20200402164500 -0300" stop="20200402182000 -0300" channel="FX">
     <title lang="pt">Muita Calma Nessa Hora 2</title>
     <category lang="pt">Filme/Comédia</category>
@@ -8544,14 +8256,6 @@
     <title lang="pt">Velocidade Máxima 2</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200402123600 -0300" stop="20200402142800 -0300" channel="HBO FAMILY">
-    <title lang="pt">7 Minutos Depois da Meia-noite</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200402142800 -0300" stop="20200402161000 -0300" channel="HBO FAMILY">
-    <title lang="pt">A Lenda da Befana</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
   <programme start="20200402161000 -0300" stop="20200402175500 -0300" channel="HBO FAMILY">
     <title lang="pt">A Feiticeira</title>
     <category lang="pt">Filme/Comédia</category>
@@ -8676,14 +8380,6 @@
     <title lang="pt">Alfa</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200402125500 -0300" stop="20200402143500 -0300" channel="TC ACTION">
-    <title lang="pt">Operação Resgate</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402143500 -0300" stop="20200402165500 -0300" channel="TC ACTION">
-    <title lang="pt">O Retorno da Múmia</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
   <programme start="20200402165500 -0300" stop="20200402182500 -0300" channel="TC ACTION">
     <title lang="pt">Oeste Sem Lei</title>
     <category lang="pt">Filme/Western</category>
@@ -8795,14 +8491,6 @@
   <programme start="20200404220000 -0300" stop="20200405000000 -0300" channel="TC ACTION">
     <title lang="pt">Annabelle 2: A Criação do Mal</title>
     <category lang="pt">Filme/Terror</category>
-  </programme>
-  <programme start="20200402115000 -0300" stop="20200402134000 -0300" channel="TC CULT">
-    <title lang="pt">Gosto de Cereja</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402134000 -0300" stop="20200402154000 -0300" channel="TC CULT">
-    <title lang="pt">No Calor da Noite</title>
-    <category lang="pt">Filme/Drama</category>
   </programme>
   <programme start="20200402154000 -0300" stop="20200402174500 -0300" channel="TC CULT">
     <title lang="pt">Júlio Cesar</title>
@@ -8919,14 +8607,6 @@
   <programme start="20200404220000 -0300" stop="20200405004000 -0300" channel="TC CULT">
     <title lang="pt">Os Infiltrados</title>
     <category lang="pt">Filme/Suspense</category>
-  </programme>
-  <programme start="20200402120000 -0300" stop="20200402144500 -0300" channel="TC FUN">
-    <title lang="pt">Harry Potter e a Câmara Secreta</title>
-    <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200402144500 -0300" stop="20200402163000 -0300" channel="TC FUN">
-    <title lang="pt">O Menino E O Urso</title>
-    <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20200402163000 -0300" stop="20200402183500 -0300" channel="TC FUN">
     <title lang="pt">Hairspray: Em Busca da Fama</title>
@@ -9051,58 +8731,6 @@
   <programme start="20200404220000 -0300" stop="20200405004000 -0300" channel="TC FUN">
     <title lang="pt">Harry Potter e a Pedra Filosofal</title>
     <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200402125500 -0300" stop="20200402132000 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">O Clube das Winx</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402132000 -0300" stop="20200402133200 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Sadie Sparks</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402133200 -0300" stop="20200402134800 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Sadie Sparks</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402134800 -0300" stop="20200402140000 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Sadie Sparks</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402141300 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">As Aventuras Dos Boonie Bears</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402141300 -0300" stop="20200402142500 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">As Aventuras Dos Boonie Bears</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402142500 -0300" stop="20200402154700 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Coco, O Pequeno Dragão 2</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200402154700 -0300" stop="20200402155200 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Mini Beat Power Rockers</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402155200 -0300" stop="20200402155700 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Mini Beat Power Rockers</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402155700 -0300" stop="20200402160200 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Mini Beat Power Rockers</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402160200 -0300" stop="20200402162800 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Peppa</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402162800 -0300" stop="20200402164900 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Lelê e Linguiça</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402164900 -0300" stop="20200402170000 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Super Wings</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402170000 -0300" stop="20200402172500 -0300" channel="DISCOVERY KIDS">
     <title lang="pt">Agente Binky Ao Resgate!</title>
@@ -10124,38 +9752,6 @@
     <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200402114500 -0300" stop="20200402133000 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">Toy Story 2</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402141500 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">Disney Bia</title>
-    <category lang="pt">Séries/Musical</category>
-  </programme>
-  <programme start="20200402141500 -0300" stop="20200402143000 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">Hotel Transylvania - A Série</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402150000 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">Coop e Cami</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402153000 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">Tal Sydney, Tal Max</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402160000 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">Andi Mack</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402160000 -0300" stop="20200402163000 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">Acampados</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
-  <programme start="20200402163000 -0300" stop="20200402170000 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">A Casa da Raven</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200402170000 -0300" stop="20200402173000 -0300" channel="DISNEY CHANNEL">
     <title lang="pt">Hotel Transylvania - A Série</title>
     <category lang="pt">Séries/Infantil</category>
@@ -10503,34 +10099,6 @@
   <programme start="20200404223000 -0300" stop="20200405003000 -0300" channel="DISNEY CHANNEL">
     <title lang="pt">Cinderela</title>
     <category lang="pt">Filme/Romance</category>
-  </programme>
-  <programme start="20200402123000 -0300" stop="20200402140000 -0300" channel="DISNEY JUNIOR">
-    <title lang="pt">Aladdin: O Retorno de Jafar</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402153000 -0300" channel="DISNEY JUNIOR">
-    <title lang="pt">Carros 3</title>
-    <category lang="pt">Filme/Animação</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402160000 -0300" channel="DISNEY JUNIOR">
-    <title lang="pt">A Casa do Mickey Mouse</title>
-    <category lang="pt">Infantil/Animação</category>
-  </programme>
-  <programme start="20200402160000 -0300" stop="20200402163000 -0300" channel="DISNEY JUNIOR">
-    <title lang="pt">A Guarda do Leão</title>
-    <category lang="pt">Infantil/Animação</category>
-  </programme>
-  <programme start="20200402163000 -0300" stop="20200402170000 -0300" channel="DISNEY JUNIOR">
-    <title lang="pt">Elena de Avalor</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402170000 -0300" stop="20200402171500 -0300" channel="DISNEY JUNIOR">
-    <title lang="pt">O Diário de Mika</title>
-    <category lang="pt">Infantil/Animação</category>
-  </programme>
-  <programme start="20200402171500 -0300" stop="20200402172000 -0300" channel="DISNEY JUNIOR">
-    <title lang="pt">Viola e Tambor</title>
-    <category lang="pt">Séries/Infantil</category>
   </programme>
   <programme start="20200402172000 -0300" stop="20200402173000 -0300" channel="DISNEY JUNIOR">
     <title lang="pt">Viola e Tambor</title>
@@ -11016,42 +10584,6 @@
     <title lang="pt">Junior Express</title>
     <category lang="pt">Infantil/Programa</category>
   </programme>
-  <programme start="20200402123000 -0300" stop="20200402130000 -0300" channel="DISNEY XD">
-    <title lang="pt">Amphibia</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402133000 -0300" channel="DISNEY XD">
-    <title lang="pt">Stunt</title>
-    <category lang="pt">Infantil/Animação</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402134500 -0300" channel="DISNEY XD">
-    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402134500 -0300" stop="20200402140000 -0300" channel="DISNEY XD">
-    <title lang="pt">Cupcake &amp; Dino - Serviços Gerais</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="DISNEY XD">
-    <title lang="pt">Trollhunters</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402150000 -0300" channel="DISNEY XD">
-    <title lang="pt">Amphibia</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402164000 -0300" channel="DISNEY XD">
-    <title lang="pt">Alexandre e o Dia Terrível, Horrível, Espantoso e Horroroso</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200402164000 -0300" stop="20200402170000 -0300" channel="DISNEY XD">
-    <title lang="pt">Larva</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
-  <programme start="20200402170000 -0300" stop="20200402171500 -0300" channel="DISNEY XD">
-    <title lang="pt">Pablo</title>
-    <category lang="pt">Séries/Infantil</category>
-  </programme>
   <programme start="20200402171500 -0300" stop="20200402173000 -0300" channel="DISNEY XD">
     <title lang="pt">Fangbone - O Menino Bárbaro</title>
     <category lang="pt">Infantil/Animação</category>
@@ -11448,18 +10980,6 @@
     <title lang="pt">Vingadores: Guerra Infinita</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200402123000 -0300" stop="20200402133000 -0300" channel="ESPN">
-    <title lang="pt">Sportscenter</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402143000 -0300" channel="ESPN">
-    <title lang="pt">ESPN Filmes</title>
-    <category lang="pt">Documentário/Esportivo</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402170000 -0300" channel="ESPN">
-    <title lang="pt">NBA: Toronto Raptors x Milwaukee Bucks</title>
-    <category lang="pt">Esporte/Basquete</category>
-  </programme>
   <programme start="20200402170000 -0300" stop="20200402180000 -0300" channel="ESPN">
     <title lang="pt">Compacto NFL: Los Angeles Rams x San Francisco 49ers</title>
     <category lang="pt">Esporte/Futebol Americano</category>
@@ -11660,14 +11180,6 @@
     <title lang="pt">Basquete: Ncaa Tournament</title>
     <category lang="pt">Esporte/Basquete</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402140000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Bate-Bola - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402150000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Futebol no Mundo - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
   <programme start="20200402150000 -0300" stop="20200402180000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -11815,30 +11327,6 @@
   <programme start="20200404230000 -0300" stop="20200405000000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter - Ao Vivo</title>
     <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200402124500 -0300" stop="20200402133000 -0300" channel="FOX LIFE">
-    <title lang="pt">Private Eyes</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402141500 -0300" channel="FOX LIFE">
-    <title lang="pt">Private Eyes</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20200402141500 -0300" stop="20200402150000 -0300" channel="FOX LIFE">
-    <title lang="pt">Proven Innocent</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402154500 -0300" channel="FOX LIFE">
-    <title lang="pt">Law &amp; Order: Criminal Intent</title>
-    <category lang="pt">Séries/Policial</category>
-  </programme>
-  <programme start="20200402154500 -0300" stop="20200402163000 -0300" channel="FOX LIFE">
-    <title lang="pt">S.W.A.T.</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
-  <programme start="20200402163000 -0300" stop="20200402171500 -0300" channel="FOX LIFE">
-    <title lang="pt">Bones</title>
-    <category lang="pt">Séries/Drama</category>
   </programme>
   <programme start="20200402171500 -0300" stop="20200402180000 -0300" channel="FOX LIFE">
     <title lang="pt">Remedy</title>
@@ -12136,37 +11624,261 @@
     <title lang="pt">Law &amp; Order SVU</title>
     <category lang="pt">Séries/Policial</category>
   </programme>
-  <programme start="20200402124000 -0300" stop="20200402133000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Caçadores de Relíquias</title>
+  <programme start="20200402165600 -0300" stop="20200402182500 -0300" channel="HISTORY²">
+    <title lang="pt">Presidentes: Decisões de Guerra</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402133000 -0300" stop="20200402135500 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Trato Feito</title>
+  <programme start="20200402182500 -0300" stop="20200402190900 -0300" channel="HISTORY²">
+    <title lang="pt">Guia Politicamente Incorreto</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402135500 -0300" stop="20200402142000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Trato Feito</title>
+  <programme start="20200402190900 -0300" stop="20200402195500 -0300" channel="HISTORY²">
+    <title lang="pt">Como O Sexo Mudou O Mundo</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402142000 -0300" stop="20200402144500 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200402144500 -0300" stop="20200402153500 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Desafio Sob Fogo</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200402153500 -0300" stop="20200402163000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Desastres Em Tempo Real</title>
+  <programme start="20200402195500 -0300" stop="20200402204600 -0300" channel="HISTORY²">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402163000 -0300" stop="20200402165500 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries/Reality Show</category>
+  <programme start="20200402204600 -0300" stop="20200402213500 -0300" channel="HISTORY²">
+    <title lang="pt">O Universo: Mistérios Revelados</title>
+    <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402165500 -0300" stop="20200402172000 -0300" channel="HISTORY CHANNEL">
-    <title lang="pt">Quem dá Mais?</title>
-    <category lang="pt">Séries/Reality Show</category>
+  <programme start="20200402213500 -0300" stop="20200402223000 -0300" channel="HISTORY²">
+    <title lang="pt">A Ascensão da Civilização</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200402223000 -0300" stop="20200402232700 -0300" channel="HISTORY²">
+    <title lang="pt">Ideias Revolucionárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200402232700 -0300" stop="20200403002400 -0300" channel="HISTORY²">
+    <title lang="pt">Ideias Revolucionárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403002400 -0300" stop="20200403011100 -0300" channel="HISTORY²">
+    <title lang="pt">Como O Sexo Mudou O Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403011100 -0300" stop="20200403020500 -0300" channel="HISTORY²">
+    <title lang="pt">Decifrando Milagres</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403020500 -0300" stop="20200403025500 -0300" channel="HISTORY²">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403025500 -0300" stop="20200403034900 -0300" channel="HISTORY²">
+    <title lang="pt">A Ascensão da Civilização</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403034900 -0300" stop="20200403044500 -0300" channel="HISTORY²">
+    <title lang="pt">Ideias Revolucionárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403044500 -0300" stop="20200403050900 -0300" channel="HISTORY²">
+    <title lang="pt">Planeta Inovação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403050900 -0300" stop="20200403060000 -0300" channel="HISTORY²">
+    <title lang="pt">Decifrando Milagres</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403065100 -0300" channel="HISTORY²">
+    <title lang="pt">Guia Politicamente Incorreto</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403065100 -0300" stop="20200403074400 -0300" channel="HISTORY²">
+    <title lang="pt">Decifrando Milagres</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403074400 -0300" stop="20200403083500 -0300" channel="HISTORY²">
+    <title lang="pt">Exploração Asteca</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403083500 -0300" stop="20200403092700 -0300" channel="HISTORY²">
+    <title lang="pt">Exploração Inca</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403092700 -0300" stop="20200403101200 -0300" channel="HISTORY²">
+    <title lang="pt">Como O Sexo Mudou O Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403101200 -0300" stop="20200403110100 -0300" channel="HISTORY²">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403110100 -0300" stop="20200403114900 -0300" channel="HISTORY²">
+    <title lang="pt">O Universo: Mistérios Revelados</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403114900 -0300" stop="20200403124100 -0300" channel="HISTORY²">
+    <title lang="pt">Decifrando Milagres</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403124100 -0300" stop="20200403133800 -0300" channel="HISTORY²">
+    <title lang="pt">Ideias Revolucionárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403133800 -0300" stop="20200403143500 -0300" channel="HISTORY²">
+    <title lang="pt">Ideias Revolucionárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403143500 -0300" stop="20200403152900 -0300" channel="HISTORY²">
+    <title lang="pt">Decifrando Milagres</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403152900 -0300" stop="20200403161900 -0300" channel="HISTORY²">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403161900 -0300" stop="20200403170700 -0300" channel="HISTORY²">
+    <title lang="pt">O Universo: Mistérios Revelados</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403170700 -0300" stop="20200403173200 -0300" channel="HISTORY²">
+    <title lang="pt">Planeta Inovação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403173200 -0300" stop="20200403182700 -0300" channel="HISTORY²">
+    <title lang="pt">A Ascensão da Civilização</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403182700 -0300" stop="20200403191900 -0300" channel="HISTORY²">
+    <title lang="pt">Guia Politicamente Incorreto</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403191900 -0300" stop="20200403200500 -0300" channel="HISTORY²">
+    <title lang="pt">Como O Sexo Mudou O Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403200500 -0300" stop="20200403205600 -0300" channel="HISTORY²">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403205600 -0300" stop="20200403214200 -0300" channel="HISTORY²">
+    <title lang="pt">Invenções Lendárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403214200 -0300" stop="20200403223000 -0300" channel="HISTORY²">
+    <title lang="pt">JFK: No Rastro do Assassino</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403223000 -0300" stop="20200403232300 -0300" channel="HISTORY²">
+    <title lang="pt">A História dos Estados Unidos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200403232300 -0300" stop="20200404005400 -0300" channel="HISTORY²">
+    <title lang="pt">Gigantes dos Motores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404005400 -0300" stop="20200404014100 -0300" channel="HISTORY²">
+    <title lang="pt">Como O Sexo Mudou O Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404014100 -0300" stop="20200404023000 -0300" channel="HISTORY²">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404023000 -0300" stop="20200404031400 -0300" channel="HISTORY²">
+    <title lang="pt">Invenções Lendárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404031400 -0300" stop="20200404040000 -0300" channel="HISTORY²">
+    <title lang="pt">JFK: No Rastro do Assassino</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404040000 -0300" stop="20200404045100 -0300" channel="HISTORY²">
+    <title lang="pt">Decifrando Milagres</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404045100 -0300" stop="20200404051500 -0300" channel="HISTORY²">
+    <title lang="pt">Planeta Inovação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404051500 -0300" stop="20200404060000 -0300" channel="HISTORY²">
+    <title lang="pt">A Igreja Oculta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404065300 -0300" channel="HISTORY²">
+    <title lang="pt">Mil Dias: A Saga da Construção de Brasília</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404065300 -0300" stop="20200404073900 -0300" channel="HISTORY²">
+    <title lang="pt">Como O Sexo Mudou O Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404073900 -0300" stop="20200404082500 -0300" channel="HISTORY²">
+    <title lang="pt">A Igreja Oculta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404082500 -0300" stop="20200404095500 -0300" channel="HISTORY²">
+    <title lang="pt">Gigantes dos Motores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404095500 -0300" stop="20200404104100 -0300" channel="HISTORY²">
+    <title lang="pt">Como O Sexo Mudou O Mundo</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404104100 -0300" stop="20200404113100 -0300" channel="HISTORY²">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404113100 -0300" stop="20200404121700 -0300" channel="HISTORY²">
+    <title lang="pt">Invenções Lendárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404121700 -0300" stop="20200404130400 -0300" channel="HISTORY²">
+    <title lang="pt">JFK: No Rastro do Assassino</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404130400 -0300" stop="20200404135700 -0300" channel="HISTORY²">
+    <title lang="pt">A História dos Estados Unidos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404135700 -0300" stop="20200404144300 -0300" channel="HISTORY²">
+    <title lang="pt">Invenções Lendárias</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404144300 -0300" stop="20200404153000 -0300" channel="HISTORY²">
+    <title lang="pt">A Igreja Oculta</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404153000 -0300" stop="20200404162100 -0300" channel="HISTORY²">
+    <title lang="pt">Humanidade: A História de Todos Nós</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404162100 -0300" stop="20200404164600 -0300" channel="HISTORY²">
+    <title lang="pt">Planeta Inovação</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404164600 -0300" stop="20200404181700 -0300" channel="HISTORY²">
+    <title lang="pt">Gigantes dos Motores</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404181700 -0300" stop="20200404191100 -0300" channel="HISTORY²">
+    <title lang="pt">Mil Dias: A Saga da Construção de Brasília</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404191100 -0300" stop="20200404200400 -0300" channel="HISTORY²">
+    <title lang="pt">A História dos Estados Unidos</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404200400 -0300" stop="20200404205100 -0300" channel="HISTORY²">
+    <title lang="pt">O Verdadeiro Estripador</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200404205100 -0300" stop="20200404214000 -0300" channel="HISTORY²">
+    <title lang="pt">Knightfall</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200404214000 -0300" stop="20200404223000 -0300" channel="HISTORY²">
+    <title lang="pt">Knightfall</title>
+    <category lang="pt">Séries/Aventura</category>
+  </programme>
+  <programme start="20200404223000 -0300" stop="20200405000100 -0300" channel="HISTORY²">
+    <title lang="pt">Narcoamérica</title>
+    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402172000 -0300" stop="20200402174500 -0300" channel="HISTORY CHANNEL">
     <title lang="pt">Trato Feito</title>
@@ -12572,14 +12284,6 @@
     <title lang="pt">Alienígenas do Passado</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402125500 -0300" stop="20200402150000 -0300" channel="MEGAPIX">
-    <title lang="pt">Victor Frankenstein</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402165500 -0300" channel="MEGAPIX">
-    <title lang="pt">Os Mercenários</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200402165500 -0300" stop="20200402183000 -0300" channel="MEGAPIX">
     <title lang="pt">Bobeou Dançou</title>
     <category lang="pt">Filme/Comédia</category>
@@ -12691,46 +12395,6 @@
   <programme start="20200404220000 -0300" stop="20200405002500 -0300" channel="MEGAPIX">
     <title lang="pt">Piratas do Caribe: A Maldição do Pérola Negra</title>
     <category lang="pt">Filme/Aventura</category>
-  </programme>
-  <programme start="20200402123000 -0300" stop="20200402130000 -0300" channel="MULTISHOW">
-    <title lang="pt">Bis No Multishow</title>
-    <category lang="pt">Variedades/Musical</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402133100 -0300" channel="MULTISHOW">
-    <title lang="pt">Chaves</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402133100 -0300" stop="20200402143100 -0300" channel="MULTISHOW">
-    <title lang="pt">Big Brother Brasil 20 - A Eliminação</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200402143100 -0300" stop="20200402143900 -0300" channel="MULTISHOW">
-    <title lang="pt">Big Brother Brasil 20 - Rede BBB</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200402143900 -0300" stop="20200402150900 -0300" channel="MULTISHOW">
-    <title lang="pt">Anota Aí - Os 10 Mais</title>
-    <category lang="pt">Séries/Viagem</category>
-  </programme>
-  <programme start="20200402150900 -0300" stop="20200402154600 -0300" channel="MULTISHOW">
-    <title lang="pt">Off No Multishow</title>
-    <category lang="pt">Séries/Aventura</category>
-  </programme>
-  <programme start="20200402154600 -0300" stop="20200402155400 -0300" channel="MULTISHOW">
-    <title lang="pt">Big Brother Brasil 20 - Rede BBB</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200402155400 -0300" stop="20200402161900 -0300" channel="MULTISHOW">
-    <title lang="pt">Chapolin</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402161900 -0300" stop="20200402164500 -0300" channel="MULTISHOW">
-    <title lang="pt">Big Brother Brasil 20 - Rede BBB</title>
-    <category lang="pt">Séries/Reality Show</category>
-  </programme>
-  <programme start="20200402164500 -0300" stop="20200402171500 -0300" channel="MULTISHOW">
-    <title lang="pt">Reclame</title>
-    <category lang="pt">Jornalismo/Informativo</category>
   </programme>
   <programme start="20200402171500 -0300" stop="20200402180000 -0300" channel="MULTISHOW">
     <title lang="pt">Big Brother Brasil 20 - Ao Vivo</title>
@@ -13059,42 +12723,6 @@
   <programme start="20200404233000 -0300" stop="20200405003000 -0300" channel="MULTISHOW">
     <title lang="pt">Vai Que Cola</title>
     <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402123000 -0300" stop="20200402130000 -0300" channel="NICKELODEON">
-    <title lang="pt">Henry Danger</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402133000 -0300" channel="NICKELODEON">
-    <title lang="pt">Game Shakers</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402140000 -0300" channel="NICKELODEON">
-    <title lang="pt">Game Shakers</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="NICKELODEON">
-    <title lang="pt">Henry Danger</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402150000 -0300" channel="NICKELODEON">
-    <title lang="pt">Henry Danger</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402153000 -0300" channel="NICKELODEON">
-    <title lang="pt">The Thundermans</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402160000 -0300" channel="NICKELODEON">
-    <title lang="pt">The Thundermans</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402160000 -0300" stop="20200402163000 -0300" channel="NICKELODEON">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402163000 -0300" stop="20200402170000 -0300" channel="NICKELODEON">
-    <title lang="pt">Bob Esponja, Calça Quadrada</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402170000 -0300" stop="20200402173000 -0300" channel="NICKELODEON">
     <title lang="pt">The Loud House</title>
@@ -13515,42 +13143,6 @@
   <programme start="20200404233000 -0300" stop="20200405000000 -0300" channel="NICKELODEON">
     <title lang="pt">Henry Danger</title>
     <category lang="pt">Séries/Comédia</category>
-  </programme>
-  <programme start="20200402123000 -0300" stop="20200402130000 -0300" channel="NICK JR.">
-    <title lang="pt">Blaze e Os Monster Machine</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402133000 -0300" channel="NICK JR.">
-    <title lang="pt">Abby Hatcher</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402133000 -0300" stop="20200402140000 -0300" channel="NICK JR.">
-    <title lang="pt">Rainbow Rangers</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="NICK JR.">
-    <title lang="pt">Butterbean's Cafe</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402150000 -0300" channel="NICK JR.">
-    <title lang="pt">Patrulha Canina</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402153000 -0300" channel="NICK JR.">
-    <title lang="pt">Rusty Rivets</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402153000 -0300" stop="20200402160000 -0300" channel="NICK JR.">
-    <title lang="pt">Blaze e Os Monster Machine</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402160000 -0300" stop="20200402163000 -0300" channel="NICK JR.">
-    <title lang="pt">Blaze e Os Monster Machine</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402163000 -0300" stop="20200402170000 -0300" channel="NICK JR.">
-    <title lang="pt">Butterbean's Cafe</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402170000 -0300" stop="20200402173000 -0300" channel="NICK JR.">
     <title lang="pt">Rainbow Rangers</title>
@@ -13988,10 +13580,6 @@
     <title lang="pt">Patrulha Canina</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200402123000 -0300" stop="20200402152500 -0300" channel="PARAMOUNT CHANNEL">
-    <title lang="pt">Transformers: O Lado Oculto da Lua</title>
-    <category lang="pt">Filme/Ação</category>
-  </programme>
   <programme start="20200402152500 -0300" stop="20200402183000 -0300" channel="PARAMOUNT CHANNEL">
     <title lang="pt">Transformers: A Era da Extinção</title>
     <category lang="pt">Filme/Ação</category>
@@ -14136,25 +13724,1049 @@
     <title lang="pt">O Hobbit: Uma Jornada Inesperada</title>
     <category lang="pt">Filme/Aventura</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402130000 -0300" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Náutico x Botafogo</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200402000000 -0300" stop="20200402060000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
   </programme>
-  <programme start="20200402130000 -0300" stop="20200402140000 -0300" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Tombense x Cruzeiro</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200402060000 -0300" stop="20200402120000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
   </programme>
-  <programme start="20200402140000 -0300" stop="20200402150000 -0300" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Palmeiras x Guarani</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200402120000 -0300" stop="20200402180000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
   </programme>
-  <programme start="20200402150000 -0300" stop="20200402160000 -0300" channel="PREMIERE CLUBES">
-    <title lang="pt">VT - Água Santa x Corinthians</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200402180000 -0300" stop="20200403000000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
   </programme>
-  <programme start="20200402160000 -0300" stop="20200402170000 -0300" channel="PREMIERE CLUBES">
-    <title lang="pt">Campeonato Gaúcho</title>
-    <category lang="pt">Esporte/Futebol</category>
+  <programme start="20200403000000 -0300" stop="20200403060000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403120000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403120000 -0300" stop="20200403180000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403180000 -0300" stop="20200404000000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404000000 -0300" stop="20200404060000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404120000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404120000 -0300" stop="20200404180000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404180000 -0300" stop="20200405000000 -0300" channel="Premiere HD 2">
+    <title lang="pt">Comunicado importante Premiere</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402000000 -0300" stop="20200402010000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402010000 -0300" stop="20200402020000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402020000 -0300" stop="20200402030000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402030000 -0300" stop="20200402040000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402040000 -0300" stop="20200402050000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402050000 -0300" stop="20200402060000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402060000 -0300" stop="20200402070000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402070000 -0300" stop="20200402080000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402080000 -0300" stop="20200402090000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402090000 -0300" stop="20200402100000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402100000 -0300" stop="20200402110000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402110000 -0300" stop="20200402120000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402130000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402130000 -0300" stop="20200402140000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402140000 -0300" stop="20200402150000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402150000 -0300" stop="20200402160000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402160000 -0300" stop="20200402170000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402170000 -0300" stop="20200402180000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402180000 -0300" stop="20200402190000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402190000 -0300" stop="20200402200000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402200000 -0300" stop="20200402210000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402210000 -0300" stop="20200402220000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200402230000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402230000 -0300" stop="20200403000000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403000000 -0300" stop="20200403010000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403010000 -0300" stop="20200403020000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403020000 -0300" stop="20200403030000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403030000 -0300" stop="20200403040000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403040000 -0300" stop="20200403050000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403050000 -0300" stop="20200403060000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403070000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403070000 -0300" stop="20200403080000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403090000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403090000 -0300" stop="20200403100000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403100000 -0300" stop="20200403110000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403110000 -0300" stop="20200403120000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403120000 -0300" stop="20200403130000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403130000 -0300" stop="20200403140000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403140000 -0300" stop="20200403150000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403150000 -0300" stop="20200403160000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403160000 -0300" stop="20200403170000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403170000 -0300" stop="20200403180000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403180000 -0300" stop="20200403190000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403190000 -0300" stop="20200403200000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403200000 -0300" stop="20200403210000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403210000 -0300" stop="20200403220000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200403230000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403230000 -0300" stop="20200404000000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404000000 -0300" stop="20200404010000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404010000 -0300" stop="20200404020000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404020000 -0300" stop="20200404030000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404030000 -0300" stop="20200404040000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404040000 -0300" stop="20200404050000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404050000 -0300" stop="20200404060000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404070000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404080000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404090000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404090000 -0300" stop="20200404100000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404110000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404110000 -0300" stop="20200404120000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404120000 -0300" stop="20200404130000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404130000 -0300" stop="20200404140000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404140000 -0300" stop="20200404150000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404150000 -0300" stop="20200404160000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404160000 -0300" stop="20200404170000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404170000 -0300" stop="20200404180000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404180000 -0300" stop="20200404190000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404190000 -0300" stop="20200404200000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404210000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404210000 -0300" stop="20200404220000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200404230000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404230000 -0300" stop="20200405000000 -0300" channel="PREMIERE HD 3">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402000000 -0300" stop="20200402023000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402023000 -0300" stop="20200402030000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402030000 -0300" stop="20200402050000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402050000 -0300" stop="20200402060000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402060000 -0300" stop="20200402080000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402080000 -0300" stop="20200402100000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402100000 -0300" stop="20200402120000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402140000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402143000 -0300" stop="20200402163000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402163000 -0300" stop="20200402170000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402170000 -0300" stop="20200402190000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402190000 -0300" stop="20200402200000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402200000 -0300" stop="20200402220000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200403000000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403000000 -0300" stop="20200403023000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403023000 -0300" stop="20200403030000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403030000 -0300" stop="20200403050000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403050000 -0300" stop="20200403060000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403080000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403100000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403100000 -0300" stop="20200403120000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403120000 -0300" stop="20200403140000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403140000 -0300" stop="20200403143000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403143000 -0300" stop="20200403163000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403163000 -0300" stop="20200403170000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403170000 -0300" stop="20200403190000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403190000 -0300" stop="20200403200000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403200000 -0300" stop="20200403220000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200404000000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404000000 -0300" stop="20200404023000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404023000 -0300" stop="20200404030000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404030000 -0300" stop="20200404050000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404050000 -0300" stop="20200404060000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404080000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404100000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404120000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404120000 -0300" stop="20200404140000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404140000 -0300" stop="20200404143000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404143000 -0300" stop="20200404163000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404163000 -0300" stop="20200404170000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404170000 -0300" stop="20200404190000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404190000 -0300" stop="20200404200000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404220000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200405000000 -0300" channel="PREMIERE 4">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402000000 -0300" stop="20200402023000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402023000 -0300" stop="20200402030000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402030000 -0300" stop="20200402050000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402050000 -0300" stop="20200402060000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402060000 -0300" stop="20200402080000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402080000 -0300" stop="20200402100000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402100000 -0300" stop="20200402120000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402140000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402143000 -0300" stop="20200402163000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402163000 -0300" stop="20200402170000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402170000 -0300" stop="20200402190000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402190000 -0300" stop="20200402200000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402200000 -0300" stop="20200402220000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200403000000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403000000 -0300" stop="20200403023000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403023000 -0300" stop="20200403030000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403030000 -0300" stop="20200403050000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403050000 -0300" stop="20200403060000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403080000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403100000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403100000 -0300" stop="20200403120000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403120000 -0300" stop="20200403140000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403140000 -0300" stop="20200403143000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403143000 -0300" stop="20200403163000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403163000 -0300" stop="20200403170000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403170000 -0300" stop="20200403190000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403190000 -0300" stop="20200403200000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403200000 -0300" stop="20200403220000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200404000000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404000000 -0300" stop="20200404023000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404023000 -0300" stop="20200404030000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404030000 -0300" stop="20200404050000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404050000 -0300" stop="20200404060000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404080000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404100000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404120000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404120000 -0300" stop="20200404140000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404140000 -0300" stop="20200404143000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404143000 -0300" stop="20200404163000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404163000 -0300" stop="20200404170000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404170000 -0300" stop="20200404190000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404190000 -0300" stop="20200404200000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404220000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200405000000 -0300" channel="PREMIERE 5">
+    <title lang="pt">Com o Premiere Sempre dá jogo. Assine já!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
   </programme>
   <programme start="20200402170000 -0300" stop="20200402180000 -0300" channel="PREMIERE CLUBES">
     <title lang="pt">VT - Vasco x São Caetano</title>
@@ -14376,26 +14988,6 @@
     <title lang="pt">Grande Círculo</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402115500 -0300" stop="20200402134500 -0300" channel="SONY">
-    <title lang="pt">Quase Irmãos</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200402134500 -0300" stop="20200402144000 -0300" channel="SONY">
-    <title lang="pt">The Good Doctor: O Bom Doutor</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20200402144000 -0300" stop="20200402153500 -0300" channel="SONY">
-    <title lang="pt">The Good Doctor: O Bom Doutor</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20200402153500 -0300" stop="20200402163000 -0300" channel="SONY">
-    <title lang="pt">The Good Doctor: O Bom Doutor</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20200402163000 -0300" stop="20200402172500 -0300" channel="SONY">
-    <title lang="pt">The Good Doctor: O Bom Doutor</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
   <programme start="20200402172500 -0300" stop="20200402182000 -0300" channel="SONY">
     <title lang="pt">The Good Doctor: O Bom Doutor</title>
     <category lang="pt">Séries/Drama</category>
@@ -14567,22 +15159,6 @@
   <programme start="20200404214000 -0300" stop="20200405000500 -0300" channel="SONY">
     <title lang="pt">O Legado Bourne</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402125000 -0300" stop="20200402134000 -0300" channel="syfy">
-    <title lang="pt">Grimm</title>
-    <category lang="pt">Séries/Drama</category>
-  </programme>
-  <programme start="20200402134000 -0300" stop="20200402143000 -0300" channel="syfy">
-    <title lang="pt">Lucifer</title>
-    <category lang="pt">Séries/Ficção</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402152000 -0300" channel="syfy">
-    <title lang="pt">Lucifer</title>
-    <category lang="pt">Séries/Ficção</category>
-  </programme>
-  <programme start="20200402152000 -0300" stop="20200402165000 -0300" channel="syfy">
-    <title lang="pt">A Destruição da Terra</title>
-    <category lang="pt">Filme/Ficção</category>
   </programme>
   <programme start="20200402165000 -0300" stop="20200402182000 -0300" channel="syfy">
     <title lang="pt">Desastre</title>
@@ -14812,26 +15388,6 @@
     <title lang="pt">Lucifer</title>
     <category lang="pt">Séries/Ficção</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402130000 -0300" channel="SPORTV ¹">
-    <title lang="pt">VT - Coritiba x Vasco</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200402130000 -0300" stop="20200402140000 -0300" channel="SPORTV ¹">
-    <title lang="pt">Redação SporTV - Ao Vivo</title>
-    <category lang="pt">Jornalismo/Esportivo</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402150000 -0300" channel="SPORTV ¹">
-    <title lang="pt">VT - Flamengo x Vasco</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
-  <programme start="20200402150000 -0300" stop="20200402160000 -0300" channel="SPORTV ¹">
-    <title lang="pt">SporTV Retrô</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200402160000 -0300" stop="20200402163000 -0300" channel="SPORTV ¹">
-    <title lang="pt">Baú do Esporte</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
   <programme start="20200402163000 -0300" stop="20200402173000 -0300" channel="SPORTV ¹">
     <title lang="pt">VT - Sporting Cristal (PER) x Cruzeiro</title>
     <category lang="pt">Esporte/Futebol</category>
@@ -15036,18 +15592,6 @@
     <title lang="pt">VT - Flamengo x Internacional</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402140000 -0300" channel="SPORTV ²">
-    <title lang="pt">NBA All-star Game</title>
-    <category lang="pt">Esporte/Basquete</category>
-  </programme>
-  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="SPORTV ²">
-    <title lang="pt">Baú do Esporte</title>
-    <category lang="pt">Esporte/Diversos</category>
-  </programme>
-  <programme start="20200402143000 -0300" stop="20200402170000 -0300" channel="SPORTV ²">
-    <title lang="pt">VT - Brasil x Dinamarca</title>
-    <category lang="pt">Esporte/Futebol</category>
-  </programme>
   <programme start="20200402170000 -0300" stop="20200402180000 -0300" channel="SPORTV ²">
     <title lang="pt">Redação SporTV</title>
     <category lang="pt">Jornalismo/Esportivo</category>
@@ -15188,14 +15732,6 @@
     <title lang="pt">VT - Brasil x Alemanha</title>
     <category lang="pt">Esporte/Futebol</category>
   </programme>
-  <programme start="20200402120000 -0300" stop="20200402152000 -0300" channel="SPORTV ³">
-    <title lang="pt">Masters 1000</title>
-    <category lang="pt">Esporte/Tênis</category>
-  </programme>
-  <programme start="20200402152000 -0300" stop="20200402172000 -0300" channel="SPORTV ³">
-    <title lang="pt">Masters Cup 2000</title>
-    <category lang="pt">Esporte/Tênis</category>
-  </programme>
   <programme start="20200402172000 -0300" stop="20200402192000 -0300" channel="SPORTV ³">
     <title lang="pt">Masters Cup 2000</title>
     <category lang="pt">Esporte/Tênis</category>
@@ -15327,18 +15863,6 @@
   <programme start="20200404230000 -0300" stop="20200405010000 -0300" channel="SPORTV ³">
     <title lang="pt">Faixa Combate: Mma Nacional</title>
     <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402114000 -0300" stop="20200402131000 -0300" channel="STUDIO UNIVERSAL">
-    <title lang="pt">Um Mistério de Aurora Teagarden: A Casa dos Julius</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402131000 -0300" stop="20200402145500 -0300" channel="STUDIO UNIVERSAL">
-    <title lang="pt">Mary e Martha: Unidas Pela Esperança</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402145500 -0300" stop="20200402165000 -0300" channel="STUDIO UNIVERSAL">
-    <title lang="pt">O Atentado</title>
-    <category lang="pt">Filme/Drama</category>
   </programme>
   <programme start="20200402165000 -0300" stop="20200402183500 -0300" channel="STUDIO UNIVERSAL">
     <title lang="pt">Circuito Fechado</title>
@@ -15480,14 +16004,6 @@
     <title lang="pt">Corrida Mortal</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
-  <programme start="20200402121000 -0300" stop="20200402134500 -0300" channel="TC TOUCH">
-    <title lang="pt">Sem Dormir Até o Natal</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200402134500 -0300" stop="20200402153500 -0300" channel="TC TOUCH">
-    <title lang="pt">O Rapto</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20200402153500 -0300" stop="20200402180000 -0300" channel="TC TOUCH">
     <title lang="pt">Get On Up - A História de James Brown</title>
     <category lang="pt">Filme/Drama</category>
@@ -15607,14 +16123,6 @@
   <programme start="20200404220000 -0300" stop="20200405003000 -0300" channel="TC TOUCH">
     <title lang="pt">O Voo</title>
     <category lang="pt">Filme/Drama</category>
-  </programme>
-  <programme start="20200402122200 -0300" stop="20200402140400 -0300" channel="TNT">
-    <title lang="pt">A Verdade Nua e Crua</title>
-    <category lang="pt">Filme/Comédia</category>
-  </programme>
-  <programme start="20200402140400 -0300" stop="20200402155500 -0300" channel="TNT">
-    <title lang="pt">Moana: Um Mar de Aventuras</title>
-    <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20200402155500 -0300" stop="20200402181200 -0300" channel="TNT">
     <title lang="pt">A Bela e a Fera</title>
