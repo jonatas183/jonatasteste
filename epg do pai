@@ -1,0 +1,2159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TNT SÉRIES">
+    <display-name lang="pt">TNT SÉRIES</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200402024900 -0300" stop="20200402033200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402033200 -0300" stop="20200402041400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402041400 -0300" stop="20200402045700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402045700 -0300" stop="20200402054000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402054000 -0300" stop="20200402065900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Hollywood One on One</title>
+    <category lang="pt">Documentário/Cinema</category>
+  </programme>
+  <programme start="20200402065900 -0300" stop="20200402074500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402074500 -0300" stop="20200402083000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402083000 -0300" stop="20200402091700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402091700 -0300" stop="20200402100200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402100200 -0300" stop="20200402105000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402105000 -0300" stop="20200402113500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200402113500 -0300" stop="20200402122200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200402122200 -0300" stop="20200402130800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402130800 -0300" stop="20200402135400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402135400 -0300" stop="20200402144000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402144000 -0300" stop="20200402152700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402152700 -0300" stop="20200402161300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200402161300 -0300" stop="20200402165900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200402165900 -0300" stop="20200402174500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402174500 -0300" stop="20200402183200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402183200 -0300" stop="20200402185900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402185900 -0300" stop="20200402192600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402192600 -0300" stop="20200402201000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402201000 -0300" stop="20200402205700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402205700 -0300" stop="20200402214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200402214400 -0300" stop="20200402223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200402223000 -0300" stop="20200402231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200402231500 -0300" stop="20200403000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403000200 -0300" stop="20200403004900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403004900 -0300" stop="20200403013500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403013500 -0300" stop="20200403022000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403022000 -0300" stop="20200403030200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403030200 -0300" stop="20200403034600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403034600 -0300" stop="20200403043100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403043100 -0300" stop="20200403051400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403051400 -0300" stop="20200403060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403063500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403063500 -0300" stop="20200403072300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403072300 -0300" stop="20200403080700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403080700 -0300" stop="20200403085500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403085500 -0300" stop="20200403094000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403094000 -0300" stop="20200403102800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403102800 -0300" stop="20200403111400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200403111400 -0300" stop="20200403120000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200403120000 -0300" stop="20200403124700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403124700 -0300" stop="20200403133100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403133100 -0300" stop="20200403141900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403141900 -0300" stop="20200403150300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403150300 -0300" stop="20200403155000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200403155000 -0300" stop="20200403163500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200403163500 -0300" stop="20200403172300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403172300 -0300" stop="20200403180900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403180900 -0300" stop="20200403183600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403183600 -0300" stop="20200403192500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Terrores Urbanos</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200403192500 -0300" stop="20200403200900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403200900 -0300" stop="20200403205600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403205600 -0300" stop="20200403214300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200403214300 -0300" stop="20200403223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200403223000 -0300" stop="20200403231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200403231500 -0300" stop="20200403233800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Brooklyn 9-9</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200403233800 -0300" stop="20200404000300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Rick &amp; Morty</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404000300 -0300" stop="20200404004900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404004900 -0300" stop="20200404013500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404013500 -0300" stop="20200404021900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404021900 -0300" stop="20200404030200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404030200 -0300" stop="20200404034600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404034600 -0300" stop="20200404043000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404043000 -0300" stop="20200404051500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404051500 -0300" stop="20200404060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404063000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404063000 -0300" stop="20200404071300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404071300 -0300" stop="20200404080000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404084300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404084300 -0300" stop="20200404090700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Brooklyn 9-9</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200404090700 -0300" stop="20200404093200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Rick &amp; Morty</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404093200 -0300" stop="20200404101700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404101700 -0300" stop="20200404110500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404110500 -0300" stop="20200404114900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404114900 -0300" stop="20200404123500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404123500 -0300" stop="20200404132100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404132100 -0300" stop="20200404140800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404140800 -0300" stop="20200404145400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404145400 -0300" stop="20200404153900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404153900 -0300" stop="20200404162500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200404162500 -0300" stop="20200404171000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200404171000 -0300" stop="20200404175600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200404175600 -0300" stop="20200404184100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200404184100 -0300" stop="20200404192800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404192800 -0300" stop="20200404201300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404201300 -0300" stop="20200404210000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404210000 -0300" stop="20200404214500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404214500 -0300" stop="20200404223700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">O Doutrinador</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404223700 -0300" stop="20200404232300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200404232300 -0300" stop="20200405001000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405001000 -0300" stop="20200405005700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405005700 -0300" stop="20200405014200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405014200 -0300" stop="20200405022700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405022700 -0300" stop="20200405030400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405030400 -0300" stop="20200405034700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405034700 -0300" stop="20200405043100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405043100 -0300" stop="20200405051200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405051200 -0300" stop="20200405060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405060000 -0300" stop="20200405063000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405063000 -0300" stop="20200405071400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405071400 -0300" stop="20200405080000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405080000 -0300" stop="20200405084700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405084700 -0300" stop="20200405093100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405093100 -0300" stop="20200405101700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405101700 -0300" stop="20200405110200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405110200 -0300" stop="20200405114900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405114900 -0300" stop="20200405123400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405123400 -0300" stop="20200405132100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405132100 -0300" stop="20200405140500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200405140500 -0300" stop="20200405145200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200405145200 -0300" stop="20200405153600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200405153600 -0300" stop="20200405162300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200405162300 -0300" stop="20200405170900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405170900 -0300" stop="20200405175600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405175600 -0300" stop="20200405184300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405184300 -0300" stop="20200405193000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405193000 -0300" stop="20200405201500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200405201500 -0300" stop="20200405210100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200405210100 -0300" stop="20200405214600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200405214600 -0300" stop="20200405223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200405223000 -0300" stop="20200405231700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200405231700 -0300" stop="20200406000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406000200 -0300" stop="20200406005000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406005000 -0300" stop="20200406013600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406013600 -0300" stop="20200406022000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406022000 -0300" stop="20200406030400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406030400 -0300" stop="20200406034600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406034600 -0300" stop="20200406042800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406042800 -0300" stop="20200406051300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406051300 -0300" stop="20200406060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406060000 -0300" stop="20200406070500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406070500 -0300" stop="20200406075300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406075300 -0300" stop="20200406083700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406083700 -0300" stop="20200406092500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406092500 -0300" stop="20200406101000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406101000 -0300" stop="20200406105800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406105800 -0300" stop="20200406114400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406114400 -0300" stop="20200406123000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406123000 -0300" stop="20200406131700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406131700 -0300" stop="20200406140100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406140100 -0300" stop="20200406144900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406144900 -0300" stop="20200406153300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406153300 -0300" stop="20200406161900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406161900 -0300" stop="20200406170400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406170400 -0300" stop="20200406175200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406175200 -0300" stop="20200406183800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406183800 -0300" stop="20200406192600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406192600 -0300" stop="20200406201000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406201000 -0300" stop="20200406205700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406205700 -0300" stop="20200406214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200406214400 -0300" stop="20200406223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406223000 -0300" stop="20200406231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200406231500 -0300" stop="20200407000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407000200 -0300" stop="20200407004700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407004700 -0300" stop="20200407013300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407013300 -0300" stop="20200407021700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407021700 -0300" stop="20200407030000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407030000 -0300" stop="20200407034400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407034400 -0300" stop="20200407042800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407042800 -0300" stop="20200407051300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407051300 -0300" stop="20200407060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407060000 -0300" stop="20200407065100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407065100 -0300" stop="20200407073700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407073700 -0300" stop="20200407082300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407082300 -0300" stop="20200407090900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407090900 -0300" stop="20200407095700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407095700 -0300" stop="20200407104400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407104400 -0300" stop="20200407113000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200407113000 -0300" stop="20200407121500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200407121500 -0300" stop="20200407132000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407132000 -0300" stop="20200407140400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407140400 -0300" stop="20200407145200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407145200 -0300" stop="20200407153500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407153500 -0300" stop="20200407162100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200407162100 -0300" stop="20200407170500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200407170500 -0300" stop="20200407175100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407175100 -0300" stop="20200407183700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407183700 -0300" stop="20200407192500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407192500 -0300" stop="20200407200900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407200900 -0300" stop="20200407205700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407205700 -0300" stop="20200407214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200407214400 -0300" stop="20200407223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200407223000 -0300" stop="20200407231400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200407231400 -0300" stop="20200408000100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408000100 -0300" stop="20200408004500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408004500 -0300" stop="20200408015000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408015000 -0300" stop="20200408023300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408023300 -0300" stop="20200408031600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408031600 -0300" stop="20200408040000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408040000 -0300" stop="20200408044500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408044500 -0300" stop="20200408052800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408052800 -0300" stop="20200408060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408060000 -0300" stop="20200408064800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408064800 -0300" stop="20200408073400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408073400 -0300" stop="20200408082000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408082000 -0300" stop="20200408090600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408090600 -0300" stop="20200408095400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408095400 -0300" stop="20200408104000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408104000 -0300" stop="20200408112700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200408112700 -0300" stop="20200408121000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200408121000 -0300" stop="20200408131500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408131500 -0300" stop="20200408140000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408140000 -0300" stop="20200408144700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408144700 -0300" stop="20200408153200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408153200 -0300" stop="20200408161900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200408161900 -0300" stop="20200408170200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200408170200 -0300" stop="20200408174700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408174700 -0300" stop="20200408183300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408183300 -0300" stop="20200408192500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">O Doutrinador</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408192500 -0300" stop="20200408200900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408200900 -0300" stop="20200408205700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408205700 -0300" stop="20200408214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200408214400 -0300" stop="20200408223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200408223000 -0300" stop="20200408231400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200408231400 -0300" stop="20200409000100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409000100 -0300" stop="20200409004700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409004700 -0300" stop="20200409015100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409015100 -0300" stop="20200409023300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409023300 -0300" stop="20200409031600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409031600 -0300" stop="20200409040100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409040100 -0300" stop="20200409044500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409044500 -0300" stop="20200409052800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409052800 -0300" stop="20200409060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409060000 -0300" stop="20200409070300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409070300 -0300" stop="20200409074900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409074900 -0300" stop="20200409083500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409083500 -0300" stop="20200409092300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409092300 -0300" stop="20200409100900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409100900 -0300" stop="20200409105500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200409105500 -0300" stop="20200409114000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200409114000 -0300" stop="20200409124500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409124500 -0300" stop="20200409133000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409133000 -0300" stop="20200409141700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409141700 -0300" stop="20200409150200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409150200 -0300" stop="20200409154700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200409154700 -0300" stop="20200409163200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200409163200 -0300" stop="20200409171900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409171900 -0300" stop="20200409180500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409180500 -0300" stop="20200409183200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200409183200 -0300" stop="20200409185900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200409185900 -0300" stop="20200409192600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200409192600 -0300" stop="20200409201000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409201000 -0300" stop="20200409205800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409205800 -0300" stop="20200409214500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200409214500 -0300" stop="20200409223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200409223000 -0300" stop="20200409231600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200409231600 -0300" stop="20200410000300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410000300 -0300" stop="20200410005000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410005000 -0300" stop="20200410015400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410015400 -0300" stop="20200410023600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410023600 -0300" stop="20200410031900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410031900 -0300" stop="20200410040400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410040400 -0300" stop="20200410044900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410044900 -0300" stop="20200410053200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410053200 -0300" stop="20200410060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410060000 -0300" stop="20200410064300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410064300 -0300" stop="20200410073000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410073000 -0300" stop="20200410081500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410081500 -0300" stop="20200410090200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410090200 -0300" stop="20200410095000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410095000 -0300" stop="20200410103600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410103600 -0300" stop="20200410112200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200410112200 -0300" stop="20200410120700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200410120700 -0300" stop="20200410125500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410125500 -0300" stop="20200410133900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410133900 -0300" stop="20200410142700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410142700 -0300" stop="20200410151200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410151200 -0300" stop="20200410155700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200410155700 -0300" stop="20200410164300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200410164300 -0300" stop="20200410173000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410173000 -0300" stop="20200410181700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410181700 -0300" stop="20200410184200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200410184200 -0300" stop="20200410192600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Terrores Urbanos</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200410192600 -0300" stop="20200410201000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410201000 -0300" stop="20200410205800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410205800 -0300" stop="20200410214500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200410214500 -0300" stop="20200410223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200410223000 -0300" stop="20200410231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200410231500 -0300" stop="20200410233800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Brooklyn 9-9</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200410233800 -0300" stop="20200411000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Rick &amp; Morty</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200411000200 -0300" stop="20200411004900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411004900 -0300" stop="20200411013500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411013500 -0300" stop="20200411021900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411021900 -0300" stop="20200411030200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411030200 -0300" stop="20200411034700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411034700 -0300" stop="20200411043100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411043100 -0300" stop="20200411051600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411051600 -0300" stop="20200411060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411060000 -0300" stop="20200411070400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411070400 -0300" stop="20200411075000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411075000 -0300" stop="20200411083400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411083400 -0300" stop="20200411085800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Brooklyn 9-9</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200411085800 -0300" stop="20200411092200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Rick &amp; Morty</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200411092200 -0300" stop="20200411100700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411100700 -0300" stop="20200411105500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411105500 -0300" stop="20200411113900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411113900 -0300" stop="20200411122700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411122700 -0300" stop="20200411131400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411131400 -0300" stop="20200411140000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411140000 -0300" stop="20200411144800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411144800 -0300" stop="20200411153400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411153400 -0300" stop="20200411161700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200411161700 -0300" stop="20200411170100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200411170100 -0300" stop="20200411174700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200411174700 -0300" stop="20200411183200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200411183200 -0300" stop="20200411192000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411192000 -0300" stop="20200411200500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411200500 -0300" stop="20200411205200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411205200 -0300" stop="20200411213800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411213800 -0300" stop="20200411223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">O Doutrinador</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411223000 -0300" stop="20200411231700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200411231700 -0300" stop="20200412000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412000200 -0300" stop="20200412005000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412005000 -0300" stop="20200412013600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412013600 -0300" stop="20200412022200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412022200 -0300" stop="20200412030600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412030600 -0300" stop="20200412035000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412035000 -0300" stop="20200412043400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412043400 -0300" stop="20200412051600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412051600 -0300" stop="20200412060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412060000 -0300" stop="20200412062900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412062900 -0300" stop="20200412071400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412071400 -0300" stop="20200412080000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412080000 -0300" stop="20200412084700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412084700 -0300" stop="20200412093100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412093100 -0300" stop="20200412101900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412101900 -0300" stop="20200412110500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412110500 -0300" stop="20200412115200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412115200 -0300" stop="20200412123700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412123700 -0300" stop="20200412132500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412132500 -0300" stop="20200412140700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200412140700 -0300" stop="20200412145300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200412145300 -0300" stop="20200412153800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200412153800 -0300" stop="20200412162500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200412162500 -0300" stop="20200412171000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412171000 -0300" stop="20200412175700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412175700 -0300" stop="20200412184300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412184300 -0300" stop="20200412193000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412193000 -0300" stop="20200412201400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200412201400 -0300" stop="20200412205800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200412205800 -0300" stop="20200412214200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200412214200 -0300" stop="20200412222600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200412222600 -0300" stop="20200412231100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412231100 -0300" stop="20200412235800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200412235800 -0300" stop="20200413004400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413004400 -0300" stop="20200413013100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413013100 -0300" stop="20200413021400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413021400 -0300" stop="20200413025600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413025600 -0300" stop="20200413033800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413033800 -0300" stop="20200413042000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413042000 -0300" stop="20200413050400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413050400 -0300" stop="20200413060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413060000 -0300" stop="20200413070600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413070600 -0300" stop="20200413075400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413075400 -0300" stop="20200413083800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413083800 -0300" stop="20200413092600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413092600 -0300" stop="20200413101200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413101200 -0300" stop="20200413105900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413105900 -0300" stop="20200413114500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413114500 -0300" stop="20200413123000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413123000 -0300" stop="20200413131800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413131800 -0300" stop="20200413140200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413140200 -0300" stop="20200413145000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413145000 -0300" stop="20200413153500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413153500 -0300" stop="20200413162100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413162100 -0300" stop="20200413170500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413170500 -0300" stop="20200413175200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413175200 -0300" stop="20200413183800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413183800 -0300" stop="20200413192500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413192500 -0300" stop="20200413200900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413200900 -0300" stop="20200413205700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413205700 -0300" stop="20200413214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200413214400 -0300" stop="20200413223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413223000 -0300" stop="20200413231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200413231500 -0300" stop="20200414000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414000200 -0300" stop="20200414004900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414004900 -0300" stop="20200414013500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414013500 -0300" stop="20200414021900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414021900 -0300" stop="20200414030200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414030200 -0300" stop="20200414034600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414034600 -0300" stop="20200414043100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414043100 -0300" stop="20200414051500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414051500 -0300" stop="20200414060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414060000 -0300" stop="20200414071200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414071200 -0300" stop="20200414075800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414075800 -0300" stop="20200414084200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414084200 -0300" stop="20200414092900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414092900 -0300" stop="20200414101400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414101400 -0300" stop="20200414110100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414110100 -0300" stop="20200414114700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200414114700 -0300" stop="20200414123100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200414123100 -0300" stop="20200414131900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414131900 -0300" stop="20200414140300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414140300 -0300" stop="20200414145100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414145100 -0300" stop="20200414153600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414153600 -0300" stop="20200414162300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200414162300 -0300" stop="20200414170700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200414170700 -0300" stop="20200414175400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414175400 -0300" stop="20200414184000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414184000 -0300" stop="20200414192800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414192800 -0300" stop="20200414201300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414201300 -0300" stop="20200414205800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414205800 -0300" stop="20200414214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200414214400 -0300" stop="20200414223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200414223000 -0300" stop="20200414231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200414231500 -0300" stop="20200415000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415000200 -0300" stop="20200415004900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415004900 -0300" stop="20200415013400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415013400 -0300" stop="20200415021900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415021900 -0300" stop="20200415030100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415030100 -0300" stop="20200415034400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415034400 -0300" stop="20200415042800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415042800 -0300" stop="20200415051100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415051100 -0300" stop="20200415060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415060000 -0300" stop="20200415071000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415071000 -0300" stop="20200415075800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415075800 -0300" stop="20200415084200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415084200 -0300" stop="20200415092800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415092800 -0300" stop="20200415101200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415101200 -0300" stop="20200415105900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415105900 -0300" stop="20200415114500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200415114500 -0300" stop="20200415123000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200415123000 -0300" stop="20200415131700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415131700 -0300" stop="20200415140100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415140100 -0300" stop="20200415144700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415144700 -0300" stop="20200415153200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415153200 -0300" stop="20200415161800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200415161800 -0300" stop="20200415170300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200415170300 -0300" stop="20200415175000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415175000 -0300" stop="20200415183600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415183600 -0300" stop="20200415192800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">O Doutrinador</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415192800 -0300" stop="20200415201200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415201200 -0300" stop="20200415205700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415205700 -0300" stop="20200415214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200415214400 -0300" stop="20200415223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200415223000 -0300" stop="20200415231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200415231500 -0300" stop="20200416000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416000200 -0300" stop="20200416004900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416004900 -0300" stop="20200416013400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416013400 -0300" stop="20200416021900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416021900 -0300" stop="20200416030100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416030100 -0300" stop="20200416034400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416034400 -0300" stop="20200416042900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416042900 -0300" stop="20200416051200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416051200 -0300" stop="20200416060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416060000 -0300" stop="20200416070400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416070400 -0300" stop="20200416075100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416075100 -0300" stop="20200416083500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416083500 -0300" stop="20200416092200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416092200 -0300" stop="20200416100700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416100700 -0300" stop="20200416105500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416105500 -0300" stop="20200416113900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200416113900 -0300" stop="20200416122600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200416122600 -0300" stop="20200416131300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416131300 -0300" stop="20200416135800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416135800 -0300" stop="20200416144400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416144400 -0300" stop="20200416153000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416153000 -0300" stop="20200416161500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200416161500 -0300" stop="20200416170100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200416170100 -0300" stop="20200416174800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416174800 -0300" stop="20200416183400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416183400 -0300" stop="20200416190100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200416190100 -0300" stop="20200416192800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200416192800 -0300" stop="20200416201200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416201200 -0300" stop="20200416205800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416205800 -0300" stop="20200416214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200416214400 -0300" stop="20200416223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200416223000 -0300" stop="20200416231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200416231500 -0300" stop="20200417000200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417000200 -0300" stop="20200417004900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417004900 -0300" stop="20200417013500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417013500 -0300" stop="20200417021900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417021900 -0300" stop="20200417030200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417030200 -0300" stop="20200417034600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417034600 -0300" stop="20200417042900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417042900 -0300" stop="20200417051300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417051300 -0300" stop="20200417060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417060000 -0300" stop="20200417064200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417064200 -0300" stop="20200417072800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417072800 -0300" stop="20200417081300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417081300 -0300" stop="20200417085900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417085900 -0300" stop="20200417094500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417094500 -0300" stop="20200417103200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417103200 -0300" stop="20200417111800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200417111800 -0300" stop="20200417120300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200417120300 -0300" stop="20200417125000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417125000 -0300" stop="20200417133400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417133400 -0300" stop="20200417142100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417142100 -0300" stop="20200417150600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417150600 -0300" stop="20200417155300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200417155300 -0300" stop="20200417163700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200417163700 -0300" stop="20200417172400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417172400 -0300" stop="20200417181000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417181000 -0300" stop="20200417183700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Mapa do Pop</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200417183700 -0300" stop="20200417192800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Terrores Urbanos</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200417192800 -0300" stop="20200417201200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417201200 -0300" stop="20200417205800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417205800 -0300" stop="20200417214400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200417214400 -0300" stop="20200417223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200417223000 -0300" stop="20200417231500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200417231500 -0300" stop="20200417233800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Brooklyn 9-9</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200417233800 -0300" stop="20200418000300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Rick &amp; Morty</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200418000300 -0300" stop="20200418005000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418005000 -0300" stop="20200418013600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418013600 -0300" stop="20200418022000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Major Crimes</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418022000 -0300" stop="20200418030300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418030300 -0300" stop="20200418034700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418034700 -0300" stop="20200418043000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418043000 -0300" stop="20200418051400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418051400 -0300" stop="20200418060000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418060000 -0300" stop="20200418065900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418065900 -0300" stop="20200418074400 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418074400 -0300" stop="20200418082900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418082900 -0300" stop="20200418085300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Brooklyn 9-9</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200418085300 -0300" stop="20200418091800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Rick &amp; Morty</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200418091800 -0300" stop="20200418100200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418100200 -0300" stop="20200418105000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418105000 -0300" stop="20200418113500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418113500 -0300" stop="20200418122200 -0300" channel="TNT SÉRIES">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418122200 -0300" stop="20200418130800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418130800 -0300" stop="20200418135600 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418135600 -0300" stop="20200418144300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418144300 -0300" stop="20200418152900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418152900 -0300" stop="20200418161500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200418161500 -0300" stop="20200418170100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200418170100 -0300" stop="20200418174500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200418174500 -0300" stop="20200418183100 -0300" channel="TNT SÉRIES">
+    <title lang="pt">The Mentalist</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200418183100 -0300" stop="20200418191900 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418191900 -0300" stop="20200418200500 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418200500 -0300" stop="20200418205300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418205300 -0300" stop="20200418213800 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418213800 -0300" stop="20200418223000 -0300" channel="TNT SÉRIES">
+    <title lang="pt">O Doutrinador</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418223000 -0300" stop="20200418231700 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200418231700 -0300" stop="20200419000300 -0300" channel="TNT SÉRIES">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+</tv>
