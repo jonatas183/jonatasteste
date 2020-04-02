@@ -92,6 +92,30 @@
     <display-name lang="pt">SPACE</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="pt">HBO FAMILY</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC ACTION">
+    <display-name lang="pt">TC ACTION</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC CULT">
+    <display-name lang="pt">TC CULT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC FUN">
+    <display-name lang="pt">TC FUN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
   <programme start="20200402050500 -0300" stop="20200402063000 -0300" channel="amc">
     <title lang="pt">Chloe e Theo</title>
     <category lang="pt">Filme/Drama</category>
@@ -919,18 +943,6 @@
   <programme start="20200404233500 -0300" stop="20200405000000 -0300" channel="axn">
     <title lang="pt">Sem Rastro</title>
     <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200402045500 -0300" stop="20200402050600 -0300" channel="cartoon network">
-    <title lang="pt">Hora de Aventura</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402050600 -0300" stop="20200402051300 -0300" channel="cartoon network">
-    <title lang="pt">A Vaca e o Frango</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402051300 -0300" stop="20200402052000 -0300" channel="cartoon network">
-    <title lang="pt">A Vaca e o Frango</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402052000 -0300" stop="20200402054300 -0300" channel="cartoon network">
     <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
@@ -2535,10 +2547,6 @@
   <programme start="20200404200000 -0300" stop="20200405020000 -0300" channel="COMBATE">
     <title lang="pt">Lutas Ao Vivo</title>
     <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402050600 -0300" stop="20200402051700 -0300" channel="BOOMERANG">
-    <title lang="pt">Inspetor Bugiganga</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402051700 -0300" stop="20200402052900 -0300" channel="BOOMERANG">
     <title lang="pt">Inspetor Bugiganga</title>
@@ -4592,10 +4600,6 @@
     <title lang="pt">Especial MMA</title>
     <category lang="pt">Esporte/Luta</category>
   </programme>
-  <programme start="20200402044500 -0300" stop="20200402051000 -0300" channel="Comedy Central">
-    <title lang="pt">Ugly Americans</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
   <programme start="20200402051000 -0300" stop="20200402053500 -0300" channel="Comedy Central">
     <title lang="pt">A Casa Animada</title>
     <category lang="pt">Séries/Animação</category>
@@ -5116,10 +5120,6 @@
     <title lang="pt">Comedy Central Stand Up: Especial Caras Novas</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200402042700 -0300" stop="20200402051100 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Sobreviventes</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200402051100 -0300" stop="20200402055500 -0300" channel="DISCOVERY CHANNEL">
     <title lang="pt">Destiladores</title>
     <category lang="pt">Séries/Documentário</category>
@@ -5466,10 +5466,6 @@
   </programme>
   <programme start="20200404234300 -0300" stop="20200405003400 -0300" channel="DISCOVERY CHANNEL">
     <title lang="pt">As Piores Prisões do Mundo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402042400 -0300" stop="20200402051200 -0300" channel="Discovery Theater">
-    <title lang="pt">Alasca ao Extremo</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402051200 -0300" stop="20200402060000 -0300" channel="Discovery Theater">
@@ -7648,10 +7644,6 @@
     <title lang="pt">Law &amp; Order SVU</title>
     <category lang="pt">Séries/Policial</category>
   </programme>
-  <programme start="20200402044700 -0300" stop="20200402051000 -0300" channel="WARNER">
-    <title lang="pt">The Middle</title>
-    <category lang="pt">Séries/Comédia</category>
-  </programme>
   <programme start="20200402051000 -0300" stop="20200402060000 -0300" channel="WARNER">
     <title lang="pt">Blindspot</title>
     <category lang="pt">Séries/Drama</category>
@@ -8815,5 +8807,1153 @@
   <programme start="20200404223000 -0300" stop="20200405001400 -0300" channel="SPACE">
     <title lang="pt">Rápida Vingança</title>
     <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402041800 -0300" stop="20200402055600 -0300" channel="FOX">
+    <title lang="pt">Linhas Cruzadas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402055600 -0300" stop="20200402062100 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402062100 -0300" stop="20200402064600 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402064600 -0300" stop="20200402070000 -0300" channel="FOX">
+    <title lang="pt">Megamente: O Botão da Destruição</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200402070000 -0300" stop="20200402074500 -0300" channel="FOX">
+    <title lang="pt">The Passage</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200402074500 -0300" stop="20200402075200 -0300" channel="FOX">
+    <title lang="pt">Zoom In</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20200402075200 -0300" stop="20200402080000 -0300" channel="FOX">
+    <title lang="pt">Zoom In</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20200402080000 -0300" stop="20200402083000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402083000 -0300" stop="20200402090000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402090000 -0300" stop="20200402100000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402100000 -0300" stop="20200402114500 -0300" channel="FOX">
+    <title lang="pt">O Pequeno Stuart Little</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200402114500 -0300" stop="20200402131000 -0300" channel="FOX">
+    <title lang="pt">Beethoven - A Corrida para a Fama</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402131000 -0300" stop="20200402145500 -0300" channel="FOX">
+    <title lang="pt">Jumanji</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402145500 -0300" stop="20200402152000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402152000 -0300" stop="20200402154500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402154500 -0300" stop="20200402161000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402161000 -0300" stop="20200402163500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402163500 -0300" stop="20200402170000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402170000 -0300" stop="20200402172500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402172500 -0300" stop="20200402191500 -0300" channel="FOX">
+    <title lang="pt">A Era do Gelo: O Big Bang</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200402191500 -0300" stop="20200402193700 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402193700 -0300" stop="20200402200000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402200000 -0300" stop="20200402202500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402202500 -0300" stop="20200402205000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402205000 -0300" stop="20200402211500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402211500 -0300" stop="20200402214000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402214000 -0300" stop="20200402220500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402220500 -0300" stop="20200402223000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402223000 -0300" stop="20200403004000 -0300" channel="FOX">
+    <title lang="pt">Percy Jackson e o Ladrão de Raios</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403004000 -0300" stop="20200403013000 -0300" channel="FOX">
+    <title lang="pt">The Walking Dead</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200403013000 -0300" stop="20200403041000 -0300" channel="FOX">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403041000 -0300" stop="20200403063000 -0300" channel="FOX">
+    <title lang="pt">Noé</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403063000 -0300" stop="20200403070000 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403070000 -0300" stop="20200403074500 -0300" channel="FOX">
+    <title lang="pt">The Passage</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200403074500 -0300" stop="20200403075200 -0300" channel="FOX">
+    <title lang="pt">Zoom In</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20200403075200 -0300" stop="20200403080000 -0300" channel="FOX">
+    <title lang="pt">Zoom In</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403083000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403083000 -0300" stop="20200403090000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403090000 -0300" stop="20200403100000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403100000 -0300" stop="20200403112500 -0300" channel="FOX">
+    <title lang="pt">Alvin e os Esquilos 2</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200403112500 -0300" stop="20200403125500 -0300" channel="FOX">
+    <title lang="pt">O Pequeno Stuart Little</title>
+    <category lang="pt">Filme/Infantil</category>
+  </programme>
+  <programme start="20200403125500 -0300" stop="20200403143000 -0300" channel="FOX">
+    <title lang="pt">A Era do Gelo 3</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403143000 -0300" stop="20200403145500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403145500 -0300" stop="20200403152000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403152000 -0300" stop="20200403155000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403155000 -0300" stop="20200403161500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403161500 -0300" stop="20200403164000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403164000 -0300" stop="20200403170500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403170500 -0300" stop="20200403173500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403173500 -0300" stop="20200403180500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403180500 -0300" stop="20200403195000 -0300" channel="FOX">
+    <title lang="pt">Meu Passado Me Condena 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403195000 -0300" stop="20200403201500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403201500 -0300" stop="20200403204000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403204000 -0300" stop="20200403223000 -0300" channel="FOX">
+    <title lang="pt">Vovó... Zona 3: Tal Pai, Tal Filho</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403223000 -0300" stop="20200404005000 -0300" channel="FOX">
+    <title lang="pt">Homem-Aranha 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404005000 -0300" stop="20200404022500 -0300" channel="FOX">
+    <title lang="pt">Cada um tem a Gêmea que Merece</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404022500 -0300" stop="20200404043500 -0300" channel="FOX">
+    <title lang="pt">A Menina que Roubava Livros</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404043500 -0300" stop="20200404061500 -0300" channel="FOX">
+    <title lang="pt">O Garoto do Alabama</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404061500 -0300" stop="20200404063500 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404063500 -0300" stop="20200404070000 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404074500 -0300" channel="FOX">
+    <title lang="pt">The Passage</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200404074500 -0300" stop="20200404075200 -0300" channel="FOX">
+    <title lang="pt">Zoom In</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20200404075200 -0300" stop="20200404080000 -0300" channel="FOX">
+    <title lang="pt">Zoom In</title>
+    <category lang="pt">Variedades/Cinema</category>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404083000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404083000 -0300" stop="20200404090000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404090000 -0300" stop="20200404100000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404112500 -0300" channel="FOX">
+    <title lang="pt">Um Herói de Brinquedo</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404112500 -0300" stop="20200404115000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404115000 -0300" stop="20200404121500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404121500 -0300" stop="20200404124000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404124000 -0300" stop="20200404130500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404130500 -0300" stop="20200404133000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404133000 -0300" stop="20200404135500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404135500 -0300" stop="20200404152000 -0300" channel="FOX">
+    <title lang="pt">Os Pinguins de Madagascar</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404152000 -0300" stop="20200404165500 -0300" channel="FOX">
+    <title lang="pt">Vovó... Zona 3: Tal Pai, Tal Filho</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404165500 -0300" stop="20200404184500 -0300" channel="FOX">
+    <title lang="pt">O Poderoso Chefinho</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404184500 -0300" stop="20200404210000 -0300" channel="FOX">
+    <title lang="pt">Velozes e Furiosos 8</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404210000 -0300" stop="20200404232000 -0300" channel="FOX">
+    <title lang="pt">Logan</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404232000 -0300" stop="20200405010500 -0300" channel="FOX">
+    <title lang="pt">O Preço do Amanhã</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402043000 -0300" stop="20200402061100 -0300" channel="FX">
+    <title lang="pt">Arraste-Me para o Inferno</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200402061100 -0300" stop="20200402063500 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402063500 -0300" stop="20200402070000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402070000 -0300" stop="20200402073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402073000 -0300" stop="20200402080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402080000 -0300" stop="20200402083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402083000 -0300" stop="20200402090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402090000 -0300" stop="20200402100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200402100000 -0300" stop="20200402102500 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402102500 -0300" stop="20200402105000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402105000 -0300" stop="20200402111500 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402111500 -0300" stop="20200402130000 -0300" channel="FX">
+    <title lang="pt">Demolidor: O Homem Sem Medo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402130000 -0300" stop="20200402145000 -0300" channel="FX">
+    <title lang="pt">Anjos da Lei</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402145000 -0300" stop="20200402164500 -0300" channel="FX">
+    <title lang="pt">Zohan: Um Agente Bom de Corte</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402164500 -0300" stop="20200402182000 -0300" channel="FX">
+    <title lang="pt">Muita Calma Nessa Hora 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402182000 -0300" stop="20200402200500 -0300" channel="FX">
+    <title lang="pt">Norbit</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402200500 -0300" stop="20200402220000 -0300" channel="FX">
+    <title lang="pt">Que Horas Ela Volta?</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200402235000 -0300" channel="FX">
+    <title lang="pt">A Múmia</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402235000 -0300" stop="20200403024000 -0300" channel="FX">
+    <title lang="pt">Django Livre</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200403024000 -0300" stop="20200403031000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403031000 -0300" stop="20200403033500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403033500 -0300" stop="20200403040000 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403040000 -0300" stop="20200403061500 -0300" channel="FX">
+    <title lang="pt">Ilha do Medo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403061500 -0300" stop="20200403064000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403064000 -0300" stop="20200403070000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403070000 -0300" stop="20200403073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403073000 -0300" stop="20200403080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403083000 -0300" stop="20200403090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403090000 -0300" stop="20200403100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403100000 -0300" stop="20200403112500 -0300" channel="FX">
+    <title lang="pt">Festa da Salsicha</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403112500 -0300" stop="20200403130000 -0300" channel="FX">
+    <title lang="pt">Táxi</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403130000 -0300" stop="20200403132500 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403132500 -0300" stop="20200403134500 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403134500 -0300" stop="20200403151000 -0300" channel="FX">
+    <title lang="pt">Todo Mundo em Pânico</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403151000 -0300" stop="20200403164500 -0300" channel="FX">
+    <title lang="pt">O Atirador 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403164500 -0300" stop="20200403184500 -0300" channel="FX">
+    <title lang="pt">Colateral</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403184500 -0300" stop="20200403202000 -0300" channel="FX">
+    <title lang="pt">Adrenalina 2 - Alta Voltagem</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403202000 -0300" stop="20200403220000 -0300" channel="FX">
+    <title lang="pt">Os Mercenários 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200404000500 -0300" channel="FX">
+    <title lang="pt">Duro de Matar 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404000500 -0300" stop="20200404021500 -0300" channel="FX">
+    <title lang="pt">Duro de Matar 4.0</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404021500 -0300" stop="20200404024000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404024000 -0300" stop="20200404031000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404031000 -0300" stop="20200404033500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404033500 -0300" stop="20200404051500 -0300" channel="FX">
+    <title lang="pt">A Inveja Mata</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404051500 -0300" stop="20200404064000 -0300" channel="FX">
+    <title lang="pt">Festa da Salsicha</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404064000 -0300" stop="20200404070000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404073000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404073000 -0300" stop="20200404080000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404083000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404083000 -0300" stop="20200404090000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404090000 -0300" stop="20200404100000 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404103000 -0300" channel="FX">
+    <title lang="pt">American Dad</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404103000 -0300" stop="20200404110000 -0300" channel="FX">
+    <title lang="pt">Uma Família da Pesada</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404110000 -0300" stop="20200404112500 -0300" channel="FX">
+    <title lang="pt">Bob's Burgers</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404112500 -0300" stop="20200404130500 -0300" channel="FX">
+    <title lang="pt">Demolidor: O Homem Sem Medo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404130500 -0300" stop="20200404144000 -0300" channel="FX">
+    <title lang="pt">As Panteras</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404144000 -0300" stop="20200404162000 -0300" channel="FX">
+    <title lang="pt">MIB - Homens de Preto 3</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404162000 -0300" stop="20200404180500 -0300" channel="FX">
+    <title lang="pt">Norbit</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404180500 -0300" stop="20200404195500 -0300" channel="FX">
+    <title lang="pt">A Múmia</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404195500 -0300" stop="20200404220000 -0300" channel="FX">
+    <title lang="pt">Riddick 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200404234000 -0300" channel="FX">
+    <title lang="pt">Incontrolável</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404234000 -0300" stop="20200405015500 -0300" channel="FX">
+    <title lang="pt">Velocidade Máxima 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402042600 -0300" stop="20200402062300 -0300" channel="HBO FAMILY">
+    <title lang="pt">Os Goonies</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402062300 -0300" stop="20200402075900 -0300" channel="HBO FAMILY">
+    <title lang="pt">As Aventuras de Sharkboy e Lavagirl</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402075900 -0300" stop="20200402092000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Lego DC Comics Super Herois: O Flash</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200402092000 -0300" stop="20200402110000 -0300" channel="HBO FAMILY">
+    <title lang="pt">A Caminho de Casa</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402110000 -0300" stop="20200402123600 -0300" channel="HBO FAMILY">
+    <title lang="pt">Show Dogs: O Agente Canino</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402123600 -0300" stop="20200402142800 -0300" channel="HBO FAMILY">
+    <title lang="pt">7 Minutos Depois da Meia-noite</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200402142800 -0300" stop="20200402161000 -0300" channel="HBO FAMILY">
+    <title lang="pt">A Lenda da Befana</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402161000 -0300" stop="20200402175500 -0300" channel="HBO FAMILY">
+    <title lang="pt">A Feiticeira</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402175500 -0300" stop="20200402200000 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Mundo Imaginário do Dr. Parnassus</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402200000 -0300" stop="20200402220100 -0300" channel="HBO FAMILY">
+    <title lang="pt">Homem-Aranha no Aranhaverso</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200402220100 -0300" stop="20200403002000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403002000 -0300" stop="20200403021300 -0300" channel="HBO FAMILY">
+    <title lang="pt">Arthur - O Milionário Irresistível</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403021300 -0300" stop="20200403043800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Hook - A Volta do Capitão Gancho</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403043800 -0300" stop="20200403063200 -0300" channel="HBO FAMILY">
+    <title lang="pt">Um Robô em Curto-Circuito</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200403063200 -0300" stop="20200403080200 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Gigante de Ferro</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403080200 -0300" stop="20200403094200 -0300" channel="HBO FAMILY">
+    <title lang="pt">Pé Pequeno</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403094200 -0300" stop="20200403111200 -0300" channel="HBO FAMILY">
+    <title lang="pt">Casamento Real</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403111200 -0300" stop="20200403124600 -0300" channel="HBO FAMILY">
+    <title lang="pt">No Pique de Nova York</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403124600 -0300" stop="20200403143000 -0300" channel="HBO FAMILY">
+    <title lang="pt">DUFF: Você Conhece, Tem ou É</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403143000 -0300" stop="20200403163800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Julie &amp; Julia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403163800 -0300" stop="20200403182000 -0300" channel="HBO FAMILY">
+    <title lang="pt">A-X-L: O Cão Robô</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403182000 -0300" stop="20200403200000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Pé Pequeno</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403200000 -0300" stop="20200403215300 -0300" channel="HBO FAMILY">
+    <title lang="pt">Agente 86</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403215300 -0300" stop="20200403235300 -0300" channel="HBO FAMILY">
+    <title lang="pt">Amor a Toda Prova</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403235300 -0300" stop="20200404014200 -0300" channel="HBO FAMILY">
+    <title lang="pt">Um Bom Partido</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404014200 -0300" stop="20200404033500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Curtindo a Liberdade</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200404033500 -0300" stop="20200404052800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Dave - Presidente por um Dia</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404052800 -0300" stop="20200404070800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Spot: Um Cão da Pesada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404070800 -0300" stop="20200404083600 -0300" channel="HBO FAMILY">
+    <title lang="pt">Todos os Cães Merecem o Céu</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404083600 -0300" stop="20200404101800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404101800 -0300" stop="20200404123500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Animais Fantásticos: Os Crimes de Grindelwald</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404123500 -0300" stop="20200404145500 -0300" channel="HBO FAMILY">
+    <title lang="pt">Valerian e a Cidade dos Mil Planetas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404145500 -0300" stop="20200404162600 -0300" channel="HBO FAMILY">
+    <title lang="pt">A Fuga do Planeta Terra</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404162600 -0300" stop="20200404182600 -0300" channel="HBO FAMILY">
+    <title lang="pt">Homem-Aranha no Aranhaverso</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404182600 -0300" stop="20200404200000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Goosebumps 2: Halloween Assombrado</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404214100 -0300" channel="HBO FAMILY">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404214100 -0300" stop="20200404235800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Animais Fantásticos: Os Crimes de Grindelwald</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404235800 -0300" stop="20200405013800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Alfa</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402040500 -0300" stop="20200402054000 -0300" channel="TC ACTION">
+    <title lang="pt">Amores Sacanas</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200402054000 -0300" stop="20200402071500 -0300" channel="TC ACTION">
+    <title lang="pt">A Maldição de Downers Grove</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200402071500 -0300" stop="20200402085500 -0300" channel="TC ACTION">
+    <title lang="pt">Autodestruição</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200402085500 -0300" stop="20200402104000 -0300" channel="TC ACTION">
+    <title lang="pt">O Último Rei</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402104000 -0300" stop="20200402125500 -0300" channel="TC ACTION">
+    <title lang="pt">Revelação</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200402125500 -0300" stop="20200402143500 -0300" channel="TC ACTION">
+    <title lang="pt">Operação Resgate</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402143500 -0300" stop="20200402165500 -0300" channel="TC ACTION">
+    <title lang="pt">O Retorno da Múmia</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402165500 -0300" stop="20200402182500 -0300" channel="TC ACTION">
+    <title lang="pt">Oeste Sem Lei</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200402182500 -0300" stop="20200402201500 -0300" channel="TC ACTION">
+    <title lang="pt">Albatroz</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200402201500 -0300" stop="20200402220000 -0300" channel="TC ACTION">
+    <title lang="pt">Kickboxer: A Vingança Do Dragão</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200403002000 -0300" channel="TC ACTION">
+    <title lang="pt">Pantera Negra</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403002000 -0300" stop="20200403020500 -0300" channel="TC ACTION">
+    <title lang="pt">Duro de Matar: Um Bom Dia Para Morrer</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403020500 -0300" stop="20200403034500 -0300" channel="TC ACTION">
+    <title lang="pt">O Som</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200403034500 -0300" stop="20200403054000 -0300" channel="TC ACTION">
+    <title lang="pt">As Maníacas</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200403054000 -0300" stop="20200403075500 -0300" channel="TC ACTION">
+    <title lang="pt">Esquadrão Red Tails</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403075500 -0300" stop="20200403100000 -0300" channel="TC ACTION">
+    <title lang="pt">A Série Divergente: Convergente</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403100000 -0300" stop="20200403122000 -0300" channel="TC ACTION">
+    <title lang="pt">Waterworld - O Segredo das Águas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403122000 -0300" stop="20200403141500 -0300" channel="TC ACTION">
+    <title lang="pt">Terra Selvagem</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200403141500 -0300" stop="20200403160500 -0300" channel="TC ACTION">
+    <title lang="pt">X-men: O Filme</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403160500 -0300" stop="20200403175000 -0300" channel="TC ACTION">
+    <title lang="pt">A Origem Do Dragão</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403175000 -0300" stop="20200403193500 -0300" channel="TC ACTION">
+    <title lang="pt">Legalize Já - Amizade Nunca Morre</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403193500 -0300" stop="20200403220000 -0300" channel="TC ACTION">
+    <title lang="pt">Sete Homens E Um Destino (2016)</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200403234000 -0300" channel="TC ACTION">
+    <title lang="pt">No Limite (2017)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403234000 -0300" stop="20200404021000 -0300" channel="TC ACTION">
+    <title lang="pt">Transformers</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404021000 -0300" stop="20200404040500 -0300" channel="TC ACTION">
+    <title lang="pt">Doce Vingança</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200404040500 -0300" stop="20200404054500 -0300" channel="TC ACTION">
+    <title lang="pt">A Secretária Submissa</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200404054500 -0300" stop="20200404072500 -0300" channel="TC ACTION">
+    <title lang="pt">12 Horas</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404072500 -0300" stop="20200404092000 -0300" channel="TC ACTION">
+    <title lang="pt">Operação Sombra - Jack Ryan</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404092000 -0300" stop="20200404111000 -0300" channel="TC ACTION">
+    <title lang="pt">Território Sem Lei</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404111000 -0300" stop="20200404130500 -0300" channel="TC ACTION">
+    <title lang="pt">+ Velozes + Furiosos</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404130500 -0300" stop="20200404152000 -0300" channel="TC ACTION">
+    <title lang="pt">Atração Perigosa</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200404152000 -0300" stop="20200404174000 -0300" channel="TC ACTION">
+    <title lang="pt">Missão: Impossível - Nação Secreta</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404174000 -0300" stop="20200404193500 -0300" channel="TC ACTION">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404193500 -0300" stop="20200404220000 -0300" channel="TC ACTION">
+    <title lang="pt">Pantera Negra</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200405000000 -0300" channel="TC ACTION">
+    <title lang="pt">Annabelle 2: A Criação do Mal</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200402043000 -0300" stop="20200402062500 -0300" channel="TC CULT">
+    <title lang="pt">A Garota Desconhecida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402062500 -0300" stop="20200402080500 -0300" channel="TC CULT">
+    <title lang="pt">Rainha Do Mundo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402080500 -0300" stop="20200402095500 -0300" channel="TC CULT">
+    <title lang="pt">O Sétimo Selo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402095500 -0300" stop="20200402115000 -0300" channel="TC CULT">
+    <title lang="pt">O Otário</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402115000 -0300" stop="20200402134000 -0300" channel="TC CULT">
+    <title lang="pt">Gosto de Cereja</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402134000 -0300" stop="20200402154000 -0300" channel="TC CULT">
+    <title lang="pt">No Calor da Noite</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402154000 -0300" stop="20200402174500 -0300" channel="TC CULT">
+    <title lang="pt">Júlio Cesar</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402174500 -0300" stop="20200402200000 -0300" channel="TC CULT">
+    <title lang="pt">Uma Canta, a Outra Não</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402200000 -0300" stop="20200402220000 -0300" channel="TC CULT">
+    <title lang="pt">Praça Paris</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200402234500 -0300" channel="TC CULT">
+    <title lang="pt">Surfe no Havaí</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402234500 -0300" stop="20200403001000 -0300" channel="TC CULT">
+    <title lang="pt">O Segredo do Abismo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403001000 -0300" stop="20200403021500 -0300" channel="TC CULT">
+    <title lang="pt">Um Assunto de Mulheres</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403021500 -0300" stop="20200403043500 -0300" channel="TC CULT">
+    <title lang="pt">Último Tango em Paris</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403043500 -0300" stop="20200403063500 -0300" channel="TC CULT">
+    <title lang="pt">A Mão Que Balança O Berço</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200403063500 -0300" stop="20200403083000 -0300" channel="TC CULT">
+    <title lang="pt">Esplendor</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403083000 -0300" stop="20200403103000 -0300" channel="TC CULT">
+    <title lang="pt">A Última Barricada</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200403103000 -0300" stop="20200403123000 -0300" channel="TC CULT">
+    <title lang="pt">Um Peixe Chamado Wanda</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403123000 -0300" stop="20200403142500 -0300" channel="TC CULT">
+    <title lang="pt">Insubstituível</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403142500 -0300" stop="20200403163500 -0300" channel="TC CULT">
+    <title lang="pt">Terremoto</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200403163500 -0300" stop="20200403180500 -0300" channel="TC CULT">
+    <title lang="pt">A Baía dos Anjos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403180500 -0300" stop="20200403195500 -0300" channel="TC CULT">
+    <title lang="pt">Djon África</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403195500 -0300" stop="20200403220000 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Novos Clássicos: Faça a Coisa Certa</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200404000500 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Novos Clássicos: Robocop 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404000500 -0300" stop="20200404023500 -0300" channel="TC CULT">
+    <title lang="pt">2001: Uma Odisséia No Espaço</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200404023500 -0300" stop="20200404041500 -0300" channel="TC CULT">
+    <title lang="pt">Foxy Brown</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404041500 -0300" stop="20200404060500 -0300" channel="TC CULT">
+    <title lang="pt">Belém: Zona de Conflito</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404060500 -0300" stop="20200404080500 -0300" channel="TC CULT">
+    <title lang="pt">O Confeiteiro</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404080500 -0300" stop="20200404092500 -0300" channel="TC CULT">
+    <title lang="pt">Duelo em Monterey</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200404092500 -0300" stop="20200404111000 -0300" channel="TC CULT">
+    <title lang="pt">Surfe no Havaí</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200404111000 -0300" stop="20200404123000 -0300" channel="TC CULT">
+    <title lang="pt">O Mensageiro Trapalhão</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404123000 -0300" stop="20200404144000 -0300" channel="TC CULT">
+    <title lang="pt">Noites de Cabíria</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200404144000 -0300" stop="20200404170000 -0300" channel="TC CULT">
+    <title lang="pt">20.000 Léguas Submarinas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404170000 -0300" stop="20200404185000 -0300" channel="TC CULT">
+    <title lang="pt">As Minas Do Rei Salomão</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404185000 -0300" stop="20200404220000 -0300" channel="TC CULT">
+    <title lang="pt">Três Homens em Conflito</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200405004000 -0300" channel="TC CULT">
+    <title lang="pt">Os Infiltrados</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200402050000 -0300" stop="20200402065000 -0300" channel="TC FUN">
+    <title lang="pt">Um Hotel Bom Pra Cachorro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402065000 -0300" stop="20200402081500 -0300" channel="TC FUN">
+    <title lang="pt">Louis &amp; Luca - a Corrida do Queijo</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200402081500 -0300" stop="20200402101000 -0300" channel="TC FUN">
+    <title lang="pt">Final de Semana em Família</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402101000 -0300" stop="20200402120000 -0300" channel="TC FUN">
+    <title lang="pt">Gasparzinho - O Fantasminha Camarada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402144500 -0300" channel="TC FUN">
+    <title lang="pt">Harry Potter e a Câmara Secreta</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402144500 -0300" stop="20200402163000 -0300" channel="TC FUN">
+    <title lang="pt">O Menino E O Urso</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402163000 -0300" stop="20200402183500 -0300" channel="TC FUN">
+    <title lang="pt">Hairspray: Em Busca da Fama</title>
+    <category lang="pt">Filme/Musical</category>
+  </programme>
+  <programme start="20200402183500 -0300" stop="20200402202000 -0300" channel="TC FUN">
+    <title lang="pt">Detetives do Prédio Azul 2 - O Mistério Italiano</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200402202000 -0300" stop="20200402220000 -0300" channel="TC FUN">
+    <title lang="pt">Belas e Perseguidas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200403000500 -0300" channel="TC FUN">
+    <title lang="pt">American Pie: O Reencontro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403000500 -0300" stop="20200403015500 -0300" channel="TC FUN">
+    <title lang="pt">Não Vai Dar</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403015500 -0300" stop="20200403035500 -0300" channel="TC FUN">
+    <title lang="pt">Um Professor Substituto</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403035500 -0300" stop="20200403054000 -0300" channel="TC FUN">
+    <title lang="pt">Que Família É Essa?</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403054000 -0300" stop="20200403072500 -0300" channel="TC FUN">
+    <title lang="pt">Casa da Mãe Joana</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200403072500 -0300" stop="20200403092000 -0300" channel="TC FUN">
+    <title lang="pt">O Sexto Homem</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403092000 -0300" stop="20200403110000 -0300" channel="TC FUN">
+    <title lang="pt">O Dragão Dourado</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403110000 -0300" stop="20200403130000 -0300" channel="TC FUN">
+    <title lang="pt">O Cachorro Bombeiro</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200403130000 -0300" stop="20200403150000 -0300" channel="TC FUN">
+    <title lang="pt">Um Tira No Jardim de Infância</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403150000 -0300" stop="20200403164000 -0300" channel="TC FUN">
+    <title lang="pt">A Bailarina</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403164000 -0300" stop="20200403182500 -0300" channel="TC FUN">
+    <title lang="pt">Um Natal Brilhante</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403182500 -0300" stop="20200403200500 -0300" channel="TC FUN">
+    <title lang="pt">Dr. Dolittle 4</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200403200500 -0300" stop="20200403220000 -0300" channel="TC FUN">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200403233500 -0300" channel="TC FUN">
+    <title lang="pt">A Fuga Das Galinhas</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200403233500 -0300" stop="20200404011500 -0300" channel="TC FUN">
+    <title lang="pt">Pica-Pau: O Filme</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404011500 -0300" stop="20200404031500 -0300" channel="TC FUN">
+    <title lang="pt">O Guia Do Mochileiro Das Galáxias</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404031500 -0300" stop="20200404045500 -0300" channel="TC FUN">
+    <title lang="pt">Muita Calma Nessa Hora 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404045500 -0300" stop="20200404061000 -0300" channel="TC FUN">
+    <title lang="pt">Jackass 2.5</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404061000 -0300" stop="20200404075000 -0300" channel="TC FUN">
+    <title lang="pt">Um Maluco no Golfe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404075000 -0300" stop="20200404093000 -0300" channel="TC FUN">
+    <title lang="pt">O Fada do Dente 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404093000 -0300" stop="20200404112000 -0300" channel="TC FUN">
+    <title lang="pt">Um Hotel Bom Pra Cachorro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404112000 -0300" stop="20200404130500 -0300" channel="TC FUN">
+    <title lang="pt">Abulele: Meu Amigo Monstro</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404130500 -0300" stop="20200404145500 -0300" channel="TC FUN">
+    <title lang="pt">Uma Floresta Muito Louca</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404145500 -0300" stop="20200404163500 -0300" channel="TC FUN">
+    <title lang="pt">O Mentiroso</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200404163500 -0300" stop="20200404181000 -0300" channel="TC FUN">
+    <title lang="pt">O Garoto-Formiga 3</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404181000 -0300" stop="20200404200000 -0300" channel="TC FUN">
+    <title lang="pt">Meu Malvado Favorito</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404220000 -0300" channel="TC FUN">
+    <title lang="pt">Nanny McPhee E As Lições Mágicas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200405004000 -0300" channel="TC FUN">
+    <title lang="pt">Harry Potter e a Pedra Filosofal</title>
+    <category lang="pt">Filme/Aventura</category>
   </programme>
 </tv>
