@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="amc">
     <display-name lang="pt">amc</display-name>
@@ -295,10 +295,6 @@
   <programme start="20200404223000 -0300" stop="20200405003000 -0300" channel="amc">
     <title lang="pt">MIB: Homens De Preto 3</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402033600 -0300" stop="20200402042900 -0300" channel="animal planet">
-    <title lang="pt">Perdido na Amazônia</title>
-    <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402042900 -0300" stop="20200402052200 -0300" channel="animal planet">
     <title lang="pt">SOS VET</title>
@@ -616,10 +612,6 @@
     <title lang="pt">Vida Selvagem: Grandes Migrações</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402031500 -0300" stop="20200402041000 -0300" channel="axn">
-    <title lang="pt">Hawaii Five-0</title>
-    <category lang="pt">Séries/Ação</category>
-  </programme>
   <programme start="20200402041000 -0300" stop="20200402050500 -0300" channel="axn">
     <title lang="pt">Hawaii Five-0</title>
     <category lang="pt">Séries/Ação</category>
@@ -911,26 +903,6 @@
   <programme start="20200404233500 -0300" stop="20200405000000 -0300" channel="axn">
     <title lang="pt">Sem Rastro</title>
     <category lang="pt">Séries/Investigação</category>
-  </programme>
-  <programme start="20200402033600 -0300" stop="20200402034700 -0300" channel="cartoon network">
-    <title lang="pt">Apenas um Show</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402034700 -0300" stop="20200402035900 -0300" channel="cartoon network">
-    <title lang="pt">Apenas um Show</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402035900 -0300" stop="20200402041000 -0300" channel="cartoon network">
-    <title lang="pt">Hora de Aventura</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402041000 -0300" stop="20200402042200 -0300" channel="cartoon network">
-    <title lang="pt">Hora de Aventura</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402042200 -0300" stop="20200402043300 -0300" channel="cartoon network">
-    <title lang="pt">Hora de Aventura</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402043300 -0300" stop="20200402044400 -0300" channel="cartoon network">
     <title lang="pt">Hora de Aventura</title>
@@ -2563,26 +2535,6 @@
   <programme start="20200404200000 -0300" stop="20200405020000 -0300" channel="COMBATE">
     <title lang="pt">Lutas Ao Vivo</title>
     <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402034600 -0300" stop="20200402035700 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402035700 -0300" stop="20200402040800 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402040800 -0300" stop="20200402041900 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402041900 -0300" stop="20200402042900 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <category lang="pt">Séries/Animação</category>
-  </programme>
-  <programme start="20200402042900 -0300" stop="20200402043600 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <category lang="pt">Séries/Animação</category>
   </programme>
   <programme start="20200402043600 -0300" stop="20200402044300 -0300" channel="BOOMERANG">
     <title lang="pt">A Turma da Pantera Cor de Rosa</title>
@@ -4420,10 +4372,6 @@
     <title lang="pt">O Show de Tom e Jerry</title>
     <category lang="pt">Séries/Animação</category>
   </programme>
-  <programme start="20200402023000 -0300" stop="20200402043000 -0300" channel="BANDSPORTS">
-    <title lang="pt">Especial Tênis</title>
-    <category lang="pt">Esporte/Tênis</category>
-  </programme>
   <programme start="20200402043000 -0300" stop="20200402053000 -0300" channel="BANDSPORTS">
     <title lang="pt">Viva o Esporte</title>
     <category lang="pt">Esporte/Diversos</category>
@@ -4659,14 +4607,6 @@
   <programme start="20200404230000 -0300" stop="20200405020000 -0300" channel="BANDSPORTS">
     <title lang="pt">Especial MMA</title>
     <category lang="pt">Esporte/Luta</category>
-  </programme>
-  <programme start="20200402033000 -0300" stop="20200402035500 -0300" channel="Comedy Central">
-    <title lang="pt">Batalha de Lip Sync</title>
-    <category lang="pt">Séries/Game Show</category>
-  </programme>
-  <programme start="20200402035500 -0300" stop="20200402042000 -0300" channel="Comedy Central">
-    <title lang="pt">República do Stand Up</title>
-    <category lang="pt">Séries/Comédia</category>
   </programme>
   <programme start="20200402042000 -0300" stop="20200402044500 -0300" channel="Comedy Central">
     <title lang="pt">República do Stand Up</title>
@@ -5196,10 +5136,6 @@
     <title lang="pt">Comedy Central Stand Up: Especial Caras Novas</title>
     <category lang="pt">Séries/Comédia</category>
   </programme>
-  <programme start="20200402025500 -0300" stop="20200402042700 -0300" channel="DISCOVERY CHANNEL">
-    <title lang="pt">Quilos Mortais: Como Eles Estão Agora?</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
   <programme start="20200402042700 -0300" stop="20200402051100 -0300" channel="DISCOVERY CHANNEL">
     <title lang="pt">Sobreviventes</title>
     <category lang="pt">Séries/Documentário</category>
@@ -5550,10 +5486,6 @@
   </programme>
   <programme start="20200404234300 -0300" stop="20200405003400 -0300" channel="DISCOVERY CHANNEL">
     <title lang="pt">As Piores Prisões do Mundo</title>
-    <category lang="pt">Séries/Documentário</category>
-  </programme>
-  <programme start="20200402033600 -0300" stop="20200402042400 -0300" channel="Discovery Theater">
-    <title lang="pt">Expedições Extremas</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
   <programme start="20200402042400 -0300" stop="20200402051200 -0300" channel="Discovery Theater">
@@ -5920,10 +5852,6 @@
     <title lang="pt">West Coast Customs Berlim</title>
     <category lang="pt">Séries/Documentário</category>
   </programme>
-  <programme start="20200402015000 -0300" stop="20200402042000 -0300" channel="TC PIPOCA">
-    <title lang="pt">Graças a Deus</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20200402042000 -0300" stop="20200402062500 -0300" channel="TC PIPOCA">
     <title lang="pt">Nostalgia</title>
     <category lang="pt">Filme/Drama</category>
@@ -6068,10 +5996,6 @@
     <title lang="pt">Pets: A Vida Secreta dos Bichos 2</title>
     <category lang="pt">Filme/Animação</category>
   </programme>
-  <programme start="20200402022000 -0300" stop="20200402041500 -0300" channel="TC PREMIUM">
-    <title lang="pt">País da Violência</title>
-    <category lang="pt">Filme/Drama</category>
-  </programme>
   <programme start="20200402041500 -0300" stop="20200402055500 -0300" channel="TC PREMIUM">
     <title lang="pt">A Travessia (2016)</title>
     <category lang="pt">Filme/Ação</category>
@@ -6215,10 +6139,6 @@
   <programme start="20200404220000 -0300" stop="20200405001000 -0300" channel="TC PREMIUM">
     <title lang="pt">John Wick: Um Novo Dia Para Matar</title>
     <category lang="pt">Filme/Ação</category>
-  </programme>
-  <programme start="20200402033200 -0300" stop="20200402041400 -0300" channel="TNT SÉRIES">
-    <title lang="pt">C.S.I</title>
-    <category lang="pt">Séries/Policial</category>
   </programme>
   <programme start="20200402041400 -0300" stop="20200402045700 -0300" channel="TNT SÉRIES">
     <title lang="pt">C.S.I. NY</title>
@@ -6751,6 +6671,744 @@
   <programme start="20200404064500 -0300" stop="20200404070000 -0300" channel="FOX SPORST 1">
     <title lang="pt">Filler</title>
     <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404071500 -0300" channel="FOX SPORST 1">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404071500 -0300" stop="20200404091500 -0300" channel="FOX SPORST 1">
+    <title lang="pt">Expediente Futebol</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404091500 -0300" stop="20200404111500 -0300" channel="FOX SPORST 1">
+    <title lang="pt">WWE Smackdown</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404111500 -0300" stop="20200404130000 -0300" channel="FOX SPORST 1">
+    <title lang="pt">VT - Corinthians x Vasco</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404130000 -0300" stop="20200404150000 -0300" channel="FOX SPORST 1">
+    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404150000 -0300" stop="20200404151500 -0300" channel="FOX SPORST 1">
+    <title lang="pt">Compacto Libertadores</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404151500 -0300" stop="20200404154500 -0300" channel="FOX SPORST 1">
+    <title lang="pt">Comando Fox</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200404154500 -0300" stop="20200404173000 -0300" channel="FOX SPORST 1">
+    <title lang="pt">VT - Emelec x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404173000 -0300" stop="20200404193000 -0300" channel="FOX SPORST 1">
+    <title lang="pt">Expediente Futebol - Ao Vivo</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404193000 -0300" stop="20200404211500 -0300" channel="FOX SPORST 1">
+    <title lang="pt">VT - Flamengo x Grêmio</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404211500 -0300" stop="20200404231500 -0300" channel="FOX SPORST 1">
+    <title lang="pt">Fox Sports Rádio</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404231500 -0300" stop="20200405001500 -0300" channel="FOX SPORST 1">
+    <title lang="pt">Aqui Com Benja</title>
+    <category lang="pt">Variedades/Talk Show</category>
+  </programme>
+  <programme start="20200402030000 -0300" stop="20200402044500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Grêmio x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402044500 -0300" stop="20200402050000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200402050000 -0300" stop="20200402070000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Fox Sports Rádio</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200402070000 -0300" stop="20200402100000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200402100000 -0300" stop="20200402110000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Fórmula E</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200402110000 -0300" stop="20200402120000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Mundial de Motovelocidade - GP do Catar</title>
+    <category lang="pt">Esporte/Motociclismo</category>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402134500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Boca Juniors x Atl Tucumán</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402134500 -0300" stop="20200402153000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Hertha Berlin x Bayern München</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402153000 -0300" stop="20200402171500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Náutico x Fortaleza</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402171500 -0300" stop="20200402184500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">NBB: Flamengo x Franca</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200402184500 -0300" stop="20200402185500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200402185500 -0300" stop="20200402194500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WWE Main Event</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200402194500 -0300" stop="20200402211500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200402211500 -0300" stop="20200403001500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200403001500 -0300" stop="20200403021000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Dijon x PSG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403021000 -0300" stop="20200403030000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WWE Main Event</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403030000 -0300" stop="20200403044500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - River Plate x Boca Juniors</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403044500 -0300" stop="20200403050000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403050000 -0300" stop="20200403070000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Fox Sports Rádio</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200403070000 -0300" stop="20200403080000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Mundial de Motovelocidade - GP do Catar</title>
+    <category lang="pt">Esporte/Motociclismo</category>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403100000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200403100000 -0300" stop="20200403113000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200403113000 -0300" stop="20200403131500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Bahia x Vitória</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403131500 -0300" stop="20200403134500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">MXGP Holanda</title>
+    <category lang="pt">Esporte/Motociclismo</category>
+  </programme>
+  <programme start="20200403134500 -0300" stop="20200403144500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WWE RAW</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403144500 -0300" stop="20200403163000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Boca Juniors x Gimnasia</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200403163000 -0300" stop="20200403193000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200403193000 -0300" stop="20200403203000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Fórmula E</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200403203000 -0300" stop="20200403210000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">MXGP Holanda</title>
+    <category lang="pt">Esporte/Motociclismo</category>
+  </programme>
+  <programme start="20200403210000 -0300" stop="20200403230000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WWE Smackdown - Ao Vivo</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200403230000 -0300" stop="20200404004500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Emelec (EQU) x Flamengo</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404004500 -0300" stop="20200404011500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">MXGP Holanda</title>
+    <category lang="pt">Esporte/Motociclismo</category>
+  </programme>
+  <programme start="20200404011500 -0300" stop="20200404013000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Filler</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404013000 -0300" stop="20200404031500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Hertha Berlin x Bayern München</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404031500 -0300" stop="20200404051500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Fox Sports Rádio</title>
+    <category lang="pt">Jornalismo/Esportivo</category>
+  </programme>
+  <programme start="20200404051500 -0300" stop="20200404070000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - River Plate x Banfield</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404083000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">NBB: Flamengo x Franca</title>
+    <category lang="pt">Esporte/Basquete</category>
+  </programme>
+  <programme start="20200404083000 -0300" stop="20200404090000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WRC - México</title>
+    <category lang="pt">Esporte/Radical</category>
+  </programme>
+  <programme start="20200404090000 -0300" stop="20200404093000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WRC - México</title>
+    <category lang="pt">Esporte/Radical</category>
+  </programme>
+  <programme start="20200404093000 -0300" stop="20200404100000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WRC - México</title>
+    <category lang="pt">Esporte/Radical</category>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404110000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Fórmula E</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200404110000 -0300" stop="20200404124500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Bayern de Munique x Schalke 04</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404124500 -0300" stop="20200404143000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Betis x Real Madrid</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404143000 -0300" stop="20200404161500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Lyon x PSG</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404161500 -0300" stop="20200404164500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">O Melhor da Temporada</title>
+    <category lang="pt">Esporte/Diversos</category>
+  </programme>
+  <programme start="20200404164500 -0300" stop="20200404174500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WWE RAW</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404174500 -0300" stop="20200404194500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">WWE Smackdown</title>
+    <category lang="pt">Esporte/Luta</category>
+  </programme>
+  <programme start="20200404194500 -0300" stop="20200404214500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">Nascar Cup Séries</title>
+    <category lang="pt">Esporte/Automobilismo</category>
+  </programme>
+  <programme start="20200404214500 -0300" stop="20200404233000 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Bayern de Munique x Schalke 04</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200404233000 -0300" stop="20200405011500 -0300" channel="FOX SPORST 2">
+    <title lang="pt">VT - Barcelona x Getafe</title>
+    <category lang="pt">Esporte/Futebol</category>
+  </programme>
+  <programme start="20200402040000 -0300" stop="20200402053000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Jovens Titãs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402053000 -0300" stop="20200402060000 -0300" channel="TOONCAST">
+    <title lang="pt">Zuzubalândia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402060000 -0300" stop="20200402063000 -0300" channel="TOONCAST">
+    <title lang="pt">Batman do Futuro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402063000 -0300" stop="20200402070000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Jovens Titãs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402070000 -0300" stop="20200402073000 -0300" channel="TOONCAST">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402073000 -0300" stop="20200402080000 -0300" channel="TOONCAST">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402080000 -0300" stop="20200402083000 -0300" channel="TOONCAST">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402083000 -0300" stop="20200402090000 -0300" channel="TOONCAST">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402090000 -0300" stop="20200402093000 -0300" channel="TOONCAST">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402093000 -0300" stop="20200402100000 -0300" channel="TOONCAST">
+    <title lang="pt">Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402100000 -0300" stop="20200402103000 -0300" channel="TOONCAST">
+    <title lang="pt">Steven Spielberg Presents Animaniacs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402103000 -0300" stop="20200402110000 -0300" channel="TOONCAST">
+    <title lang="pt">Pinky e o Cérebro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402110000 -0300" stop="20200402113000 -0300" channel="TOONCAST">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402113000 -0300" stop="20200402120000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200402120000 -0300" stop="20200402123000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200402123000 -0300" stop="20200402130000 -0300" channel="TOONCAST">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402130000 -0300" stop="20200402133000 -0300" channel="TOONCAST">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402133000 -0300" stop="20200402140000 -0300" channel="TOONCAST">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402140000 -0300" stop="20200402143000 -0300" channel="TOONCAST">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402143000 -0300" stop="20200402150000 -0300" channel="TOONCAST">
+    <title lang="pt">Pokémon</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402150000 -0300" stop="20200402153000 -0300" channel="TOONCAST">
+    <title lang="pt">Popeye</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402153000 -0300" stop="20200402160000 -0300" channel="TOONCAST">
+    <title lang="pt">Mgm Cartoons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402160000 -0300" stop="20200402163000 -0300" channel="TOONCAST">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402163000 -0300" stop="20200402170000 -0300" channel="TOONCAST">
+    <title lang="pt">Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402170000 -0300" stop="20200402173000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Mistérios de Frajola e Piu Piu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402173000 -0300" stop="20200402180000 -0300" channel="TOONCAST">
+    <title lang="pt">Zuzubalândia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402180000 -0300" stop="20200402183000 -0300" channel="TOONCAST">
+    <title lang="pt">Batman do Futuro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402183000 -0300" stop="20200402190000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Jovens Titãs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402190000 -0300" stop="20200402193000 -0300" channel="TOONCAST">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402193000 -0300" stop="20200402200000 -0300" channel="TOONCAST">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402200000 -0300" stop="20200402203000 -0300" channel="TOONCAST">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402203000 -0300" stop="20200402210000 -0300" channel="TOONCAST">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402210000 -0300" stop="20200402213000 -0300" channel="TOONCAST">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402213000 -0300" stop="20200402220000 -0300" channel="TOONCAST">
+    <title lang="pt">Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402220000 -0300" stop="20200402223000 -0300" channel="TOONCAST">
+    <title lang="pt">Steven Spielberg Presents Animaniacs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402223000 -0300" stop="20200402230000 -0300" channel="TOONCAST">
+    <title lang="pt">Pinky e o Cérebro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402230000 -0300" stop="20200402233000 -0300" channel="TOONCAST">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200402233000 -0300" stop="20200403000000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200403000000 -0300" stop="20200403003000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200403003000 -0300" stop="20200403010000 -0300" channel="TOONCAST">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403010000 -0300" stop="20200403013000 -0300" channel="TOONCAST">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403013000 -0300" stop="20200403020000 -0300" channel="TOONCAST">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403020000 -0300" stop="20200403023000 -0300" channel="TOONCAST">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403023000 -0300" stop="20200403030000 -0300" channel="TOONCAST">
+    <title lang="pt">Pokémon</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403030000 -0300" stop="20200403033000 -0300" channel="TOONCAST">
+    <title lang="pt">Popeye</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403033000 -0300" stop="20200403040000 -0300" channel="TOONCAST">
+    <title lang="pt">Mgm Cartoons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403040000 -0300" stop="20200403043000 -0300" channel="TOONCAST">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403043000 -0300" stop="20200403050000 -0300" channel="TOONCAST">
+    <title lang="pt">Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403050000 -0300" stop="20200403053000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Mistérios de Frajola e Piu Piu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403053000 -0300" stop="20200403060000 -0300" channel="TOONCAST">
+    <title lang="pt">Zuzubalândia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403060000 -0300" stop="20200403063000 -0300" channel="TOONCAST">
+    <title lang="pt">Batman do Futuro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403063000 -0300" stop="20200403070000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Jovens Titãs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403070000 -0300" stop="20200403073000 -0300" channel="TOONCAST">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403073000 -0300" stop="20200403080000 -0300" channel="TOONCAST">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403080000 -0300" stop="20200403083000 -0300" channel="TOONCAST">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403083000 -0300" stop="20200403090000 -0300" channel="TOONCAST">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403090000 -0300" stop="20200403093000 -0300" channel="TOONCAST">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403093000 -0300" stop="20200403100000 -0300" channel="TOONCAST">
+    <title lang="pt">Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403100000 -0300" stop="20200403103000 -0300" channel="TOONCAST">
+    <title lang="pt">Steven Spielberg Presents Animaniacs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403103000 -0300" stop="20200403110000 -0300" channel="TOONCAST">
+    <title lang="pt">Pinky e o Cérebro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403110000 -0300" stop="20200403113000 -0300" channel="TOONCAST">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403113000 -0300" stop="20200403120000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200403120000 -0300" stop="20200403123000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200403123000 -0300" stop="20200403130000 -0300" channel="TOONCAST">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403130000 -0300" stop="20200403133000 -0300" channel="TOONCAST">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403133000 -0300" stop="20200403140000 -0300" channel="TOONCAST">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403140000 -0300" stop="20200403143000 -0300" channel="TOONCAST">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403143000 -0300" stop="20200403150000 -0300" channel="TOONCAST">
+    <title lang="pt">Pokémon</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403150000 -0300" stop="20200403153000 -0300" channel="TOONCAST">
+    <title lang="pt">Popeye</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403153000 -0300" stop="20200403160000 -0300" channel="TOONCAST">
+    <title lang="pt">Mgm Cartoons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403160000 -0300" stop="20200403163000 -0300" channel="TOONCAST">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403163000 -0300" stop="20200403170000 -0300" channel="TOONCAST">
+    <title lang="pt">Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403170000 -0300" stop="20200403173000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Mistérios de Frajola e Piu Piu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403173000 -0300" stop="20200403180000 -0300" channel="TOONCAST">
+    <title lang="pt">Zuzubalândia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403180000 -0300" stop="20200403183000 -0300" channel="TOONCAST">
+    <title lang="pt">Batman do Futuro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403183000 -0300" stop="20200403190000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Jovens Titãs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403190000 -0300" stop="20200403193000 -0300" channel="TOONCAST">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403193000 -0300" stop="20200403200000 -0300" channel="TOONCAST">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403200000 -0300" stop="20200403203000 -0300" channel="TOONCAST">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403203000 -0300" stop="20200403210000 -0300" channel="TOONCAST">
+    <title lang="pt">A Vaca e o Frango</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403210000 -0300" stop="20200403213000 -0300" channel="TOONCAST">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403213000 -0300" stop="20200403220000 -0300" channel="TOONCAST">
+    <title lang="pt">Tom e Jerry</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403220000 -0300" stop="20200403223000 -0300" channel="TOONCAST">
+    <title lang="pt">Steven Spielberg Presents Animaniacs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403223000 -0300" stop="20200403230000 -0300" channel="TOONCAST">
+    <title lang="pt">Pinky e o Cérebro</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403230000 -0300" stop="20200403233000 -0300" channel="TOONCAST">
+    <title lang="pt">Scooby-Doo! Cadê Você?</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200403233000 -0300" stop="20200404000000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200404000000 -0300" stop="20200404003000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200404003000 -0300" stop="20200404010000 -0300" channel="TOONCAST">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404010000 -0300" stop="20200404013000 -0300" channel="TOONCAST">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404013000 -0300" stop="20200404020000 -0300" channel="TOONCAST">
+    <title lang="pt">As Terríveis Aventuras de Billy e Mandy</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404020000 -0300" stop="20200404023000 -0300" channel="TOONCAST">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404023000 -0300" stop="20200404030000 -0300" channel="TOONCAST">
+    <title lang="pt">Pokémon</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404030000 -0300" stop="20200404033000 -0300" channel="TOONCAST">
+    <title lang="pt">Popeye</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404033000 -0300" stop="20200404040000 -0300" channel="TOONCAST">
+    <title lang="pt">Mgm Cartoons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404040000 -0300" stop="20200404043000 -0300" channel="TOONCAST">
+    <title lang="pt">Baby Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404043000 -0300" stop="20200404050000 -0300" channel="TOONCAST">
+    <title lang="pt">Looney Tunes</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404050000 -0300" stop="20200404053000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Mistérios de Frajola e Piu Piu</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404053000 -0300" stop="20200404060000 -0300" channel="TOONCAST">
+    <title lang="pt">Zuzubalândia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404060000 -0300" stop="20200404070000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404070000 -0300" stop="20200404080000 -0300" channel="TOONCAST">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404080000 -0300" stop="20200404090000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Jetsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404090000 -0300" stop="20200404093000 -0300" channel="TOONCAST">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404093000 -0300" stop="20200404100000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200404100000 -0300" stop="20200404103000 -0300" channel="TOONCAST">
+    <title lang="pt">2 Cachorros Bobos</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404103000 -0300" stop="20200404120000 -0300" channel="TOONCAST">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404120000 -0300" stop="20200404123000 -0300" channel="TOONCAST">
+    <title lang="pt">Eu Sou o Máximo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404123000 -0300" stop="20200404130000 -0300" channel="TOONCAST">
+    <title lang="pt">A Mansão Foster Para Amigos Imaginários</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404130000 -0300" stop="20200404133000 -0300" channel="TOONCAST">
+    <title lang="pt">Hi Hi Puffy Ami Yumi</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404133000 -0300" stop="20200404140000 -0300" channel="TOONCAST">
+    <title lang="pt">Coragem, o Cão Covarde</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404140000 -0300" stop="20200404143000 -0300" channel="TOONCAST">
+    <title lang="pt">Mike, Lu e Og</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404143000 -0300" stop="20200404151500 -0300" channel="TOONCAST">
+    <title lang="pt">Os Jovens Titãs</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404151500 -0300" stop="20200404160000 -0300" channel="TOONCAST">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404160000 -0300" stop="20200404163000 -0300" channel="TOONCAST">
+    <title lang="pt">Batman: The Animated Series</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404163000 -0300" stop="20200404173000 -0300" channel="TOONCAST">
+    <title lang="pt">Esquadrão do Tempo</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404173000 -0300" stop="20200404180000 -0300" channel="TOONCAST">
+    <title lang="pt">Zuzubalândia</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404180000 -0300" stop="20200404190000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Flintstones</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404190000 -0300" stop="20200404200000 -0300" channel="TOONCAST">
+    <title lang="pt">Corrida Maluca</title>
+    <category lang="pt">Infantil/Animação</category>
+  </programme>
+  <programme start="20200404200000 -0300" stop="20200404210000 -0300" channel="TOONCAST">
+    <title lang="pt">Os Jetsons</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404210000 -0300" stop="20200404213000 -0300" channel="TOONCAST">
+    <title lang="pt">Manda Chuva</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404213000 -0300" stop="20200404220000 -0300" channel="TOONCAST">
+    <title lang="pt">Programação Tooncast</title>
+    <category lang="pt">Variedades/Infantil</category>
+  </programme>
+  <programme start="20200404220000 -0300" stop="20200404223000 -0300" channel="TOONCAST">
+    <title lang="pt">2 Cachorros Bobos</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+  <programme start="20200404223000 -0300" stop="20200405000000 -0300" channel="TOONCAST">
+    <title lang="pt">O Laboratório de Dexter</title>
+    <category lang="pt">Séries/Animação</category>
+  </programme>
+</tv></category>
   </programme>
   <programme start="20200404070000 -0300" stop="20200404071500 -0300" channel="FOX SPORST 1">
     <title lang="pt">Filler</title>
