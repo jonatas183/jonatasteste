@@ -104,7 +104,7 @@ clear && echo -e $tit
       
        
        9) tail -n +120 principal > principal1 && head -n +28 principal1 > principal2 && rm principal1 && chmod +x principal2 && break;;
-       0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mBy: | @EhisOpeNer E @NetModz\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: netmodzvivo\e[0m"|pv -qL 20; break;;
+       0) rm principal2 > /dev/null 2>&1; echo -e "\e[01;37mBy: | @Jonatas Maciel\e[0m"; echo -e "\e[01;33mPara iniciar novamente digite: FLASHNET\e[0m"|pv -qL 20; break;;
        *) echo -e "\e[01;37;41m Calma \e[0m"; sleep 1
     esac # case MENU
 done # primeiro loop
