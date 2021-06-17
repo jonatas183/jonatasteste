@@ -227,7 +227,7 @@ clear && echo -e $tit
             numero=$(echo $url | jq -r '.msisdn')
             token2=$(echo $url | grep -c appInstallRewardAdvUuid)
                   case $token2 in
-                       0) echo -e "\e[01;33m NÃO HÁ ADS DISPONIVEL PRO CHIP FULEIRO \e[00;32m$numero\e[0m\n \e[01;37mENTÃO NO MOMENTO VOCÊ NÃO PODE GANHAR MB's\e[0m"|pv -qL 25; sleep 1; echo; break;;
+                       0) echo -e "\e[01;33m NÃO HÁ ADS DISPONIVEL PRO CHIP \e[00;32m$numero\e[0m\n \e[01;37mENTÃO NO MOMENTO VOCÊ NÃO PODE GANHAR MB's\e[0m"|pv -qL 25; sleep 1; echo; break;;
                        *) echo -e "\e[01;37m OK ADS ON / AGORA VEREMOS SE HA TOKEN ONLINE\e[0m"
                   esac
             toki=$(echo $url | jq -r '.["110"].appInstallRewardAdvUuid')
