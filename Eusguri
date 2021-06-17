@@ -14,7 +14,7 @@ veri2=$(echo -e "\e[01;37m Número: \e[0m") # Número:
 veri3=$(echo -e "\e[01;37m Vezes: \e[0m") # Vezes:
 while :; do
 clear && echo -e $tit
-  echo -e "\e[01;37;41m             M E N U VIVO             \e[0m"; sleep .4; echo
+  echo -e "\e[01;37;41m           V I V O             \e[0m"; sleep .4; echo
   echo -e "         ≡ \e[01;37mmenu opções\e[0m ≡"
   echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
   echo -e " \e[01;37m〘*1*〙\e[0m\e[01;33mTESTADOR PADRÃO\e[0m\c"; echo -e "    \e[02;03;37m Ir direto ao padrão\e[0m"
@@ -27,7 +27,6 @@ clear && echo -e $tit
   echo -e ' \e[01;37m〘*7*〙\e[0m\e[01;33mGASTAR CREDITOS "AMIGOS"\e[0m\c'; echo -e "\e[02;03;37m Diversão ON\e[0m"
   echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
   echo -e " \e[01;37m『*8*』\e[0m\e[01;33mSOLICITAR PASS\e[0m\c"; echo -e "     \e[02;03;37m Pegue o Pass aqui\e[0m"
-  echo -e " \e[01;37m『*9*』\e[0m\e[01;33mVOLTAR MENU PRINCIPAL\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
   echo -e " \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA\e[0m\c"; echo -e "          \e[02;03;37m Noob sofre\e[0m"
   echo -e " \e[00;31m═══════════════════════════════\e[0m"
   
@@ -96,7 +95,7 @@ clear && echo -e $tit
            echo -e "  \e[01;37m〘*1*〙\e[0m\e[01;33mREPETIR TESTADOR PADRÃO\e[0m\c"; echo -e "\e[02;03;37m Apenas cole o numero\e[0m"
            echo -e "  \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
            echo -e "  \e[01;37m『*2*』\e[0m\e[01;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-           echo -e "  \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Noob sofre\e[0m"
+           echo -e "  \e[01;37m『*0*』\e[0m\e[01;33mCAIR FORA\e[0m\c"; echo -e "\e[02;03;37m     Noob sofre\e[0m"
            echo -e "  \e[00;31m═══════════════════════════════\e[0m"
             while :; do
              read -n1 -p "$veri" opc2; echo
